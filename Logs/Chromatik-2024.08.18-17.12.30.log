@@ -1,0 +1,306 @@
+[Chromatik 2024/08/18 17:12:30] Starting Chromatik version 1.0.0
+[Chromatik 2024/08/18 17:12:30] Running java 17.0.9 Eclipse Adoptium Mac OS X 14.1.2 aarch64
+[Chromatik 2024/08/18 17:12:30] Licensed to Daniel Rummel <drummel@gmail.com> - version 1.0.0 FREE - heronarts.lx.core
+[GLX 2024/08/18 17:12:31] GLX monitorWorkarea: size(1440x900), pos(x:0,y:0)
+[GLX 2024/08/18 17:12:31] GLX createWindow: 1440x872
+[GLX 2024/08/18 17:12:31] GLX systemContentScale: 2.0x2.0
+[GLX 2024/08/18 17:12:31] GLX windowSize: 1440x872
+[GLX 2024/08/18 17:12:31] GLX setWindowPos: 0,28
+[GLX 2024/08/18 17:12:31] GLX framebufferSize: 2880x1744
+[GLX 2024/08/18 17:12:31] GLX uiSize: 1440.0x872.0
+[GLX 2024/08/18 17:12:31] GLX cursorScale: 1.0x1.0
+[GLX 2024/08/18 17:12:31] Using BGFX renderer: Metal
+[GLX 2024/08/18 17:12:31] Starting LX Engine...
+[LX 2024/08/18 17:12:31] LXEngine.ExecutorService starting...
+[GLX 2024/08/18 17:12:31] Bootstrap complete, running main loop.
+[LX 2024/08/18 17:19:31] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 17:22:31] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 17:22:46] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 17:23:01] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 17:23:16] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 17:23:31] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 17:25:44] Calls to DatagramSocket.send() appear to be unexpectedly blocking, you may be sending to an unresolvable address or network queues may be saturated. If you are on Linux/Raspberry-Pi, consult the following URL for guidance on relevant kernel parameters: https://github.com/heronarts/LXStudio/wiki/Raspberry-Pi
+[LX 2024/08/18 17:27:16] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 17:27:31] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 17:28:16] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 17:28:31] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 17:31:59] [I/O] IOException sending to http://192.168.4.48//143.244.220.150:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/08/18 17:31:59] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/18 17:31:59] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 100ms (4 consecutive failures)
+[LX 2024/08/18 17:31:59] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 200ms (5 consecutive failures)
+[LX 2024/08/18 17:32:00] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 400ms (6 consecutive failures)
+[LX 2024/08/18 17:32:00] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 800ms (7 consecutive failures)
+[LX 2024/08/18 17:32:01] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (8 consecutive failures)
+[LX 2024/08/18 17:32:02] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (9 consecutive failures)
+[LX 2024/08/18 17:32:04] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (10 consecutive failures)
+[LX 2024/08/18 17:32:06] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (11 consecutive failures)
+[LX 2024/08/18 17:32:07] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (12 consecutive failures)
+[LX 2024/08/18 17:32:09] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (13 consecutive failures)
+[LX 2024/08/18 17:32:10] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (14 consecutive failures)
+[LX 2024/08/18 17:32:12] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (15 consecutive failures)
+[LX 2024/08/18 17:32:14] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (16 consecutive failures)
+[LX 2024/08/18 17:32:15] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (17 consecutive failures)
+[LX 2024/08/18 17:32:17] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (18 consecutive failures)
+[LX 2024/08/18 17:32:18] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (19 consecutive failures)
+[LX 2024/08/18 17:32:20] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (20 consecutive failures)
+[LX 2024/08/18 17:32:22] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (21 consecutive failures)
+[LX 2024/08/18 17:32:23] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (22 consecutive failures)
+[LX 2024/08/18 17:32:25] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (23 consecutive failures)
+[LX 2024/08/18 17:32:27] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (24 consecutive failures)
+[LX 2024/08/18 17:32:28] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (25 consecutive failures)
+[LX 2024/08/18 17:32:30] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (26 consecutive failures)
+[LX 2024/08/18 17:32:31] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (27 consecutive failures)
+[LX 2024/08/18 17:32:33] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (28 consecutive failures)
+[LX 2024/08/18 17:32:35] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (29 consecutive failures)
+[LX 2024/08/18 17:32:36] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (30 consecutive failures)
+[LX 2024/08/18 17:32:38] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (31 consecutive failures)
+[LX 2024/08/18 17:32:39] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (32 consecutive failures)
+[LX 2024/08/18 17:32:41] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (33 consecutive failures)
+[LX 2024/08/18 17:32:43] [I/O] Recovered connectivity to http://192.168.4.48//143.244.220.150:6454
+[LX 2024/08/18 17:34:50] [I/O] IOException sending to http://192.168.4.48//143.244.220.150:6454 (Network is unreachable), will initiate backoff after 3 consecutive failures
+[LX 2024/08/18 17:34:50] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/18 17:34:50] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 100ms (4 consecutive failures)
+[LX 2024/08/18 17:34:51] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 200ms (5 consecutive failures)
+[LX 2024/08/18 17:34:51] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 400ms (6 consecutive failures)
+[LX 2024/08/18 17:34:51] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 800ms (7 consecutive failures)
+[LX 2024/08/18 17:34:52] [I/O] Recovered connectivity to http://192.168.4.48//143.244.220.150:6454
+[LX 2024/08/18 17:40:21] [I/O] IOException sending to http://192.168.4.48//143.244.220.150:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/08/18 17:40:21] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/18 17:40:21] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 100ms (4 consecutive failures)
+[LX 2024/08/18 17:40:21] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 200ms (5 consecutive failures)
+[LX 2024/08/18 17:40:21] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 400ms (6 consecutive failures)
+[LX 2024/08/18 17:40:22] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 800ms (7 consecutive failures)
+[LX 2024/08/18 17:40:22] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (8 consecutive failures)
+[LX 2024/08/18 17:40:24] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (9 consecutive failures)
+[LX 2024/08/18 17:40:26] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (10 consecutive failures)
+[LX 2024/08/18 17:40:27] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (11 consecutive failures)
+[LX 2024/08/18 17:40:29] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (12 consecutive failures)
+[LX 2024/08/18 17:40:30] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (13 consecutive failures)
+[LX 2024/08/18 17:40:32] [I/O] Recovered connectivity to http://192.168.4.48//143.244.220.150:6454
+[LX 2024/08/18 17:42:21] [I/O] IOException sending to http://192.168.4.48//143.244.220.150:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/08/18 17:42:21] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/18 17:42:21] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 100ms (4 consecutive failures)
+[LX 2024/08/18 17:42:21] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 200ms (5 consecutive failures)
+[LX 2024/08/18 17:42:21] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 400ms (6 consecutive failures)
+[LX 2024/08/18 17:42:22] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 800ms (7 consecutive failures)
+[LX 2024/08/18 17:42:23] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (8 consecutive failures)
+[LX 2024/08/18 17:42:24] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (9 consecutive failures)
+[LX 2024/08/18 17:42:26] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (10 consecutive failures)
+[LX 2024/08/18 17:42:27] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (11 consecutive failures)
+[LX 2024/08/18 17:42:29] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (12 consecutive failures)
+[LX 2024/08/18 17:42:31] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (13 consecutive failures)
+[LX 2024/08/18 17:42:32] [I/O] Recovered connectivity to http://192.168.4.48//143.244.220.150:6454
+[LX 2024/08/18 17:42:58] [I/O] IOException sending to http://192.168.4.48//143.244.220.150:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/08/18 17:42:58] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/18 17:42:58] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 100ms (4 consecutive failures)
+[LX 2024/08/18 17:42:58] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 200ms (5 consecutive failures)
+[LX 2024/08/18 17:42:58] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 400ms (6 consecutive failures)
+[LX 2024/08/18 17:42:59] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 800ms (7 consecutive failures)
+[LX 2024/08/18 17:43:00] [I/O] Recovered connectivity to http://192.168.4.48//143.244.220.150:6454
+[LX 2024/08/18 17:44:52] [I/O] IOException sending to http://192.168.4.48//143.244.220.150:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/08/18 17:44:52] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/18 17:44:52] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 100ms (4 consecutive failures)
+[LX 2024/08/18 17:44:52] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 200ms (5 consecutive failures)
+[LX 2024/08/18 17:44:53] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 400ms (6 consecutive failures)
+[LX 2024/08/18 17:44:53] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 800ms (7 consecutive failures)
+[LX 2024/08/18 17:44:54] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (8 consecutive failures)
+[LX 2024/08/18 17:44:55] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (9 consecutive failures)
+[LX 2024/08/18 17:44:57] [I/O] Recovered connectivity to http://192.168.4.48//143.244.220.150:6454
+[LX 2024/08/18 17:46:41] [I/O] IOException sending to http://192.168.4.48//143.244.220.150:6454 (Network is unreachable), will initiate backoff after 3 consecutive failures
+[LX 2024/08/18 17:46:41] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/18 17:46:41] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 100ms (4 consecutive failures)
+[LX 2024/08/18 17:46:42] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 200ms (5 consecutive failures)
+[LX 2024/08/18 17:46:42] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 400ms (6 consecutive failures)
+[LX 2024/08/18 17:46:42] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 800ms (7 consecutive failures)
+[LX 2024/08/18 17:46:43] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (8 consecutive failures)
+[LX 2024/08/18 17:46:45] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (9 consecutive failures)
+[LX 2024/08/18 17:46:46] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (10 consecutive failures)
+[LX 2024/08/18 17:46:48] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (11 consecutive failures)
+[LX 2024/08/18 17:46:49] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (12 consecutive failures)
+[LX 2024/08/18 17:46:51] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (13 consecutive failures)
+[LX 2024/08/18 17:46:53] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (14 consecutive failures)
+[LX 2024/08/18 17:46:54] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (15 consecutive failures)
+[LX 2024/08/18 17:46:56] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (16 consecutive failures)
+[LX 2024/08/18 17:46:58] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (17 consecutive failures)
+[LX 2024/08/18 17:46:59] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (18 consecutive failures)
+[LX 2024/08/18 17:47:01] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (19 consecutive failures)
+[LX 2024/08/18 17:47:02] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (20 consecutive failures)
+[LX 2024/08/18 17:47:04] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (21 consecutive failures)
+[LX 2024/08/18 17:47:06] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (22 consecutive failures)
+[LX 2024/08/18 17:47:07] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (23 consecutive failures)
+[LX 2024/08/18 17:47:09] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (24 consecutive failures)
+[LX 2024/08/18 17:47:10] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (25 consecutive failures)
+[LX 2024/08/18 17:47:12] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (26 consecutive failures)
+[LX 2024/08/18 17:47:14] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (27 consecutive failures)
+[LX 2024/08/18 17:47:15] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (28 consecutive failures)
+[LX 2024/08/18 17:47:17] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (29 consecutive failures)
+[LX 2024/08/18 17:47:19] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (30 consecutive failures)
+[LX 2024/08/18 17:47:20] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (31 consecutive failures)
+[LX 2024/08/18 17:47:22] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (32 consecutive failures)
+[LX 2024/08/18 17:47:23] [I/O] Recovered connectivity to http://192.168.4.48//143.244.220.150:6454
+[LX 2024/08/18 17:48:36] [I/O] IOException sending to http://192.168.4.48//143.244.220.150:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/08/18 17:48:36] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/18 17:48:36] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 100ms (4 consecutive failures)
+[LX 2024/08/18 17:48:36] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 200ms (5 consecutive failures)
+[LX 2024/08/18 17:48:36] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 400ms (6 consecutive failures)
+[LX 2024/08/18 17:48:37] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 800ms (7 consecutive failures)
+[LX 2024/08/18 17:48:37] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (8 consecutive failures)
+[LX 2024/08/18 17:48:39] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (9 consecutive failures)
+[LX 2024/08/18 17:48:41] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (10 consecutive failures)
+[LX 2024/08/18 17:48:42] [I/O] Recovered connectivity to http://192.168.4.48//143.244.220.150:6454
+[LX 2024/08/18 17:49:07] [I/O] IOException sending to http://192.168.4.48//143.244.220.150:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/08/18 17:49:07] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/18 17:49:07] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 100ms (4 consecutive failures)
+[LX 2024/08/18 17:49:07] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 200ms (5 consecutive failures)
+[LX 2024/08/18 17:49:07] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 400ms (6 consecutive failures)
+[LX 2024/08/18 17:49:08] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 800ms (7 consecutive failures)
+[LX 2024/08/18 17:49:09] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (8 consecutive failures)
+[LX 2024/08/18 17:49:10] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (9 consecutive failures)
+[LX 2024/08/18 17:49:12] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (10 consecutive failures)
+[LX 2024/08/18 17:49:13] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (11 consecutive failures)
+[LX 2024/08/18 17:49:15] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (12 consecutive failures)
+[LX 2024/08/18 17:49:17] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (13 consecutive failures)
+[LX 2024/08/18 17:49:18] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (14 consecutive failures)
+[LX 2024/08/18 17:49:20] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (15 consecutive failures)
+[LX 2024/08/18 17:49:21] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (16 consecutive failures)
+[LX 2024/08/18 17:49:23] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (17 consecutive failures)
+[LX 2024/08/18 17:49:25] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (18 consecutive failures)
+[LX 2024/08/18 17:49:26] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (19 consecutive failures)
+[LX 2024/08/18 17:49:28] [I/O] Recovered connectivity to http://192.168.4.48//143.244.220.150:6454
+[LX 2024/08/18 17:52:37] [I/O] IOException sending to http://192.168.4.48//143.244.220.150:6454 (Network is unreachable), will initiate backoff after 3 consecutive failures
+[LX 2024/08/18 17:52:37] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/18 17:52:37] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 100ms (4 consecutive failures)
+[LX 2024/08/18 17:52:37] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 200ms (5 consecutive failures)
+[LX 2024/08/18 17:52:38] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 400ms (6 consecutive failures)
+[LX 2024/08/18 17:52:38] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 800ms (7 consecutive failures)
+[LX 2024/08/18 17:52:39] [I/O] Recovered connectivity to http://192.168.4.48//143.244.220.150:6454
+[LX 2024/08/18 18:01:32] [I/O] IOException sending to http://192.168.4.48//143.244.220.150:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/08/18 18:01:32] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/18 18:01:32] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 100ms (4 consecutive failures)
+[LX 2024/08/18 18:01:33] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 200ms (5 consecutive failures)
+[LX 2024/08/18 18:01:33] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 400ms (6 consecutive failures)
+[LX 2024/08/18 18:01:33] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 800ms (7 consecutive failures)
+[LX 2024/08/18 18:01:34] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (8 consecutive failures)
+[LX 2024/08/18 18:01:36] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (9 consecutive failures)
+[LX 2024/08/18 18:01:37] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (10 consecutive failures)
+[LX 2024/08/18 18:01:39] [I/O] Retrying http://192.168.4.48//143.244.220.150:6454 in 1600ms (11 consecutive failures)
+[LX 2024/08/18 18:01:40] [I/O] Recovered connectivity to http://192.168.4.48//143.244.220.150:6454
+[LX 2024/08/18 18:12:56] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:12:56] [I/O] Unknown host for fixture datagram: http://192.168.4.48/: nodename nor servname provided, or not known
+[LX 2024/08/18 18:12:58] [I/O] Unknown host for fixture datagram: http://192.168.4.48/
+[LX 2024/08/18 18:13:11] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:15:26] [I/O] Unknown host for fixture datagram: http://192.168.8.122: nodename nor servname provided, or not known
+[LX 2024/08/18 18:15:41] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:15:56] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:16:56] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:26:41] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:26:56] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:27:11] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:27:26] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:27:41] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:27:56] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:28:11] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:28:26] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:28:41] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:28:56] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:28:58] [I/O] Unknown host for fixture datagram: http://192.168.8.122: nodename nor servname provided, or not known
+[LX 2024/08/18 18:28:59] [I/O] Unknown host for fixture datagram: http://192.168.8.122
+[LX 2024/08/18 18:28:59] [I/O] Unknown host for fixture datagram: http://192.168.8.122
+[LX 2024/08/18 18:29:02] [I/O] Unknown host for fixture datagram: http://192.168.8.122
+[LX 2024/08/18 18:29:02] [I/O] Unknown host for fixture datagram: http://192.168.8.122
+[LX 2024/08/18 18:29:11] [I/O] Unknown host for fixture datagram: http://192.168.8.122: nodename nor servname provided, or not known
+[LX 2024/08/18 18:29:11] [I/O] Unknown host for fixture datagram: http://192.168.8.122
+[LX 2024/08/18 18:29:11] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:29:14] [I/O] Unknown host for fixture datagram: http://192.168.8.122
+[LX 2024/08/18 18:29:26] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:29:47] [I/O] Unknown host for fixture datagram: http://192.168.8.122: nodename nor servname provided, or not known
+[LX 2024/08/18 18:29:49] [I/O] Unknown host for fixture datagram: http://192.168.8.122
+[LX 2024/08/18 18:29:52] [I/O] Unknown host for fixture datagram: http://192.168.8.12: nodename nor servname provided, or not known
+[LX 2024/08/18 18:29:55] [I/O] Unknown host for fixture datagram: http://192.168.8.125: nodename nor servname provided, or not known
+[LX 2024/08/18 18:29:56] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:30:28] [I/O] Unknown host for fixture datagram: http://192.168.8.128: nodename nor servname provided, or not known
+[LX 2024/08/18 18:30:29] [I/O] Unknown host for fixture datagram: http://192.168.8.122: nodename nor servname provided, or not known
+[LX 2024/08/18 18:30:42] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:30:57] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:31:27] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:31:42] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:34:57] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:35:12] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:35:27] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:35:42] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:35:57] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:36:12] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:36:27] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:36:42] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:36:57] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:37:12] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:37:27] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:38:12] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:38:27] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:38:42] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:38:57] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:39:27] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:39:42] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:39:57] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:40:12] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:40:27] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:40:42] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:41:12] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:41:27] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 18:41:41] [I/O] IOException sending to /192.168.8.122:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/08/18 18:41:41] [I/O] Retrying /192.168.8.122:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/18 18:41:41] [I/O] Retrying /192.168.8.122:6454 in 100ms (4 consecutive failures)
+[LX 2024/08/18 18:41:42] [I/O] Retrying /192.168.8.122:6454 in 200ms (5 consecutive failures)
+[LX 2024/08/18 18:41:42] [I/O] Retrying /192.168.8.122:6454 in 400ms (6 consecutive failures)
+[LX 2024/08/18 18:41:42] [I/O] Recovered connectivity to /192.168.8.122:6454
+[LX 2024/08/18 19:06:16] [I/O] IOException sending to /192.168.8.122:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/08/18 19:06:16] [I/O] Retrying /192.168.8.122:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/18 19:06:16] [I/O] Retrying /192.168.8.122:6454 in 100ms (4 consecutive failures)
+[LX 2024/08/18 19:06:16] [I/O] Recovered connectivity to /192.168.8.122:6454
+[LX 2024/08/18 19:06:35] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 19:06:37] [I/O] IOException sending to /192.168.8.121:6454 (No route to host), will initiate backoff after 3 consecutive failures
+[LX 2024/08/18 19:06:37] [I/O] Retrying /192.168.8.121:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/18 19:06:37] [I/O] Retrying /192.168.8.121:6454 in 100ms (4 consecutive failures)
+[LX 2024/08/18 19:06:37] [I/O] Retrying /192.168.8.121:6454 in 200ms (5 consecutive failures)
+[LX 2024/08/18 19:06:50] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 19:09:20] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 19:09:54] [I/O] IOException sending to /192.168.8.122:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/08/18 19:09:54] [I/O] Retrying /192.168.8.122:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/18 19:09:54] [I/O] Retrying /192.168.8.122:6454 in 100ms (4 consecutive failures)
+[LX 2024/08/18 19:09:54] [I/O] Retrying /192.168.8.122:6454 in 200ms (5 consecutive failures)
+[LX 2024/08/18 19:09:54] [I/O] Retrying /192.168.8.122:6454 in 400ms (6 consecutive failures)
+[LX 2024/08/18 19:09:55] [I/O] Retrying /192.168.8.122:6454 in 800ms (7 consecutive failures)
+[LX 2024/08/18 19:09:56] [I/O] Retrying /192.168.8.122:6454 in 1600ms (8 consecutive failures)
+[LX 2024/08/18 19:09:57] [I/O] Recovered connectivity to /192.168.8.122:6454
+[LX 2024/08/18 19:09:58] [I/O] IOException sending to /192.168.8.122:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/08/18 19:09:58] [I/O] Retrying /192.168.8.122:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/18 19:09:58] [I/O] Retrying /192.168.8.122:6454 in 100ms (4 consecutive failures)
+[LX 2024/08/18 19:09:58] [I/O] Retrying /192.168.8.122:6454 in 200ms (5 consecutive failures)
+[LX 2024/08/18 19:09:59] [I/O] Retrying /192.168.8.122:6454 in 400ms (6 consecutive failures)
+[LX 2024/08/18 19:09:59] [I/O] Retrying /192.168.8.122:6454 in 800ms (7 consecutive failures)
+[LX 2024/08/18 19:10:00] [I/O] Recovered connectivity to /192.168.8.122:6454
+[LX 2024/08/18 19:11:25] [I/O] IOException sending to /192.168.8.122:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/08/18 19:11:25] [I/O] Retrying /192.168.8.122:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/18 19:11:25] [I/O] Retrying /192.168.8.122:6454 in 100ms (4 consecutive failures)
+[LX 2024/08/18 19:11:25] [I/O] Retrying /192.168.8.122:6454 in 200ms (5 consecutive failures)
+[LX 2024/08/18 19:11:25] [I/O] Retrying /192.168.8.122:6454 in 400ms (6 consecutive failures)
+[LX 2024/08/18 19:11:26] [I/O] Retrying /192.168.8.122:6454 in 800ms (7 consecutive failures)
+[LX 2024/08/18 19:11:27] [I/O] Recovered connectivity to /192.168.8.122:6454
+[LX 2024/08/18 19:29:31] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 19:29:46] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 19:30:01] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 19:30:17] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 20:11:46] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 20:12:01] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 20:12:16] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 20:12:31] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 20:13:16] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 20:13:31] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 20:13:46] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 20:14:01] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 20:14:16] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[LX 2024/08/18 20:14:31] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/default.lxp
+[GLX 2024/08/18 20:14:42] Stopping LX engine...
+[LX 2024/08/18 20:14:42] LXEngine.ExecutorService has finished.
+[LX 2024/08/18 20:14:42] [MIDI] LXMidiEngine Device Update Thread finished.
+[GLX 2024/08/18 20:14:42] Done with main thread, GLX shutdown complete. Thanks for playing. <3

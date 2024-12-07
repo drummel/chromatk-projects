@@ -1,0 +1,21 @@
+[Chromatik 2024/08/18 12:54:36] Starting Chromatik version 1.0.0
+[Chromatik 2024/08/18 12:54:36] Running java 17.0.9 Eclipse Adoptium Mac OS X 14.1.2 aarch64
+[Chromatik 2024/08/18 12:54:36] No Chromatik license present, features will be limited.
+[GLX 2024/08/18 12:54:37] GLX monitorWorkarea: size(1440x900), pos(x:0,y:0)
+[GLX 2024/08/18 12:54:37] GLX createWindow: 1280x720
+[GLX 2024/08/18 12:54:37] GLX systemContentScale: 2.0x2.0
+[GLX 2024/08/18 12:54:37] GLX windowSize: 1280x720
+[GLX 2024/08/18 12:54:37] GLX framebufferSize: 2560x1440
+[GLX 2024/08/18 12:54:37] GLX uiSize: 1280.0x720.0
+[GLX 2024/08/18 12:54:37] GLX cursorScale: 1.0x1.0
+[GLX 2024/08/18 12:54:38] Using BGFX renderer: Metal
+[GLX 2024/08/18 12:54:38] Starting LX Engine...
+[LX 2024/08/18 12:54:38] LXEngine.ExecutorService starting...
+[GLX 2024/08/18 12:54:38] Bootstrap complete, running main loop.
+[LX 2024/08/18 12:54:48] [I/O] Network output is disabled due to license restrictions.
+[Chromatik 2024/08/18 13:00:33] Licensed to Daniel Rummel <drummel@gmail.com> - version 1.0.0 FREE - heronarts.lx.core
+[LX 2024/08/18 13:00:33] [I/O] Network output restored.
+[GLX 2024/08/18 13:13:32] Stopping LX engine...
+[LX 2024/08/18 13:13:32] LXEngine.ExecutorService has finished.
+[LX 2024/08/18 13:13:32] [MIDI] LXMidiEngine Device Update Thread finished.
+[GLX 2024/08/18 13:13:32] Done with main thread, GLX shutdown complete. Thanks for playing. <3

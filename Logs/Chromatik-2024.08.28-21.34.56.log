@@ -1,0 +1,24 @@
+[Chromatik 2024/08/28 21:34:56] Starting Chromatik version 1.0.0
+[Chromatik 2024/08/28 21:34:56] Running java 17.0.9 Eclipse Adoptium Mac OS X 14.1.2 aarch64
+[Chromatik 2024/08/28 21:34:56] Licensed to Daniel Rummel <drummel@gmail.com> - version 1.0.0 FREE - heronarts.lx.core
+[LX 2024/08/28 21:34:56] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/28 21:34:56] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/28 21:34:56] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[GLX 2024/08/28 21:34:59] GLX monitorWorkarea: size(1440x900), pos(x:0,y:0)
+[GLX 2024/08/28 21:34:59] GLX createWindow: 1440x872
+[GLX 2024/08/28 21:34:59] GLX systemContentScale: 2.0x2.0
+[GLX 2024/08/28 21:34:59] GLX windowSize: 1440x872
+[GLX 2024/08/28 21:34:59] GLX setWindowPos: 0,28
+[GLX 2024/08/28 21:34:59] GLX framebufferSize: 2880x1744
+[GLX 2024/08/28 21:34:59] GLX uiSize: 1440.0x872.0
+[GLX 2024/08/28 21:34:59] GLX cursorScale: 1.0x1.0
+[GLX 2024/08/28 21:34:59] Using BGFX renderer: Metal
+[GLX 2024/08/28 21:34:59] Starting LX Engine...
+[LX 2024/08/28 21:34:59] LXEngine.ExecutorService starting...
+[GLX 2024/08/28 21:34:59] Bootstrap complete, running main loop.
+[LX 2024/08/28 21:34:59] Opening project file: /Users/drummel/Chromatik/Projects/naga-cool-sparkle.lxp
+[GLX 2024/08/28 21:35:00] Stopping LX engine...
+[LX 2024/08/28 21:35:01] LXEngine.ExecutorService has finished.
+[LX 2024/08/28 21:35:25] Project loaded successfully from /Users/drummel/Chromatik/Projects/naga-cool-sparkle.lxp
+[LX 2024/08/28 21:35:25] [MIDI] LXMidiEngine Device Update Thread finished.
+[GLX 2024/08/28 21:35:25] Done with main thread, GLX shutdown complete. Thanks for playing. <3

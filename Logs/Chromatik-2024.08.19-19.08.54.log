@@ -1,0 +1,238 @@
+[Chromatik 2024/08/19 19:08:54] Starting Chromatik version 1.0.0
+[Chromatik 2024/08/19 19:08:54] Running java 17.0.9 Eclipse Adoptium Mac OS X 14.1.2 aarch64
+[Chromatik 2024/08/19 19:08:54] Licensed to Daniel Rummel <drummel@gmail.com> - version 1.0.0 FREE - heronarts.lx.core
+[GLX 2024/08/19 19:08:55] GLX monitorWorkarea: size(1440x900), pos(x:0,y:0)
+[GLX 2024/08/19 19:08:55] GLX createWindow: 1440x872
+[GLX 2024/08/19 19:08:55] GLX systemContentScale: 2.0x2.0
+[GLX 2024/08/19 19:08:55] GLX windowSize: 1440x872
+[GLX 2024/08/19 19:08:55] GLX setWindowPos: 0,28
+[GLX 2024/08/19 19:08:55] GLX framebufferSize: 2880x1744
+[GLX 2024/08/19 19:08:55] GLX uiSize: 1321.1008x800.0
+[GLX 2024/08/19 19:08:55] GLX cursorScale: 0.9174311x0.9174312
+[GLX 2024/08/19 19:08:55] Using BGFX renderer: Metal
+[GLX 2024/08/19 19:08:55] Starting LX Engine...
+[LX 2024/08/19 19:08:55] LXEngine.ExecutorService starting...
+[GLX 2024/08/19 19:08:55] Bootstrap complete, running main loop.
+[LX 2024/08/19 19:08:55] Opening project file: /Users/drummel/Desktop/NAGA/naga-proto.lxp
+[LX 2024/08/19 19:08:55] Project loaded successfully from /Users/drummel/Desktop/NAGA/naga-proto.lxp
+[LX 2024/08/19 19:10:10] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 19:10:40] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 19:10:55] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 19:11:10] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 19:11:26] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 19:11:41] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 19:11:56] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 19:12:11] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 19:12:26] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 19:12:41] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 19:12:49] Calls to DatagramSocket.send() appear to be unexpectedly blocking, you may be sending to an unresolvable address or network queues may be saturated. If you are on Linux/Raspberry-Pi, consult the following URL for guidance on relevant kernel parameters: https://github.com/heronarts/LXStudio/wiki/Raspberry-Pi
+[LX 2024/08/19 19:12:56] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 19:13:11] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 19:13:26] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 19:13:41] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 19:13:56] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 19:14:11] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 19:14:26] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 19:14:41] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 19:14:56] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 19:15:11] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 19:15:26] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 19:15:41] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 19:15:56] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 19:16:11] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 19:16:26] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 19:16:41] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 19:16:56] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 19:17:11] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 19:17:26] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 19:17:41] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 20:00:46] Reloading custom content folders
+[LX 2024/08/19 20:00:46] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/19 20:00:46] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-naga-0.0.1-SNAPSHOT.jar
+[LX 2024/08/19 20:00:46] Unhandled exception in class loading: heronarts.lx.example.CustomEffect
+java.lang.IllegalStateException: Attemping to register effect twice: class heronarts.lx.example.CustomEffect
+	at heronarts.lx.LXRegistry.addEffect(LXRegistry.java:779)
+	at heronarts.lx.LXRegistry.addClass(LXRegistry.java:678)
+	at heronarts.lx.studio.LXStudio$Registry.addClass(LXStudio.java:326)
+	at heronarts.lx.LXClassLoader.loadClassEntry(LXClassLoader.java:227)
+	at heronarts.lx.LXClassLoader.loadJarFile(LXClassLoader.java:190)
+	at heronarts.lx.LXClassLoader.load(LXClassLoader.java:158)
+	at heronarts.lx.LXRegistry.reloadContent(LXRegistry.java:555)
+	at heronarts.lx.studio.ui.browser.UIPackageManager$2.onClick(UIPackageManager.java:103)
+	at heronarts.glx.ui.component.UIButton.onMouseReleased(UIButton.java:612)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:657)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UI2dScrollContainer.mouseReleased(UI2dScrollContainer.java:254)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UI.mouseEvent(UI.java:1021)
+	at heronarts.glx.InputDispatch.dispatch(InputDispatch.java:230)
+	at heronarts.lx.LXEngine._processInputEvents(LXEngine.java:1007)
+	at heronarts.lx.LXEngine.processInputEvents(LXEngine.java:983)
+	at heronarts.lx.LXEngine.access$1600(LXEngine.java:66)
+	at heronarts.lx.LXEngine$ExecutorService.lambda$start$1(LXEngine.java:677)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+[LX 2024/08/19 20:00:46] Unhandled exception in class loading: heronarts.lx.example.CustomPattern
+java.lang.IllegalStateException: Attemping to register pattern twice: class heronarts.lx.example.CustomPattern
+	at heronarts.lx.LXRegistry.addPattern(LXRegistry.java:719)
+	at heronarts.lx.LXRegistry.addClass(LXRegistry.java:675)
+	at heronarts.lx.studio.LXStudio$Registry.addClass(LXStudio.java:326)
+	at heronarts.lx.LXClassLoader.loadClassEntry(LXClassLoader.java:227)
+	at heronarts.lx.LXClassLoader.loadJarFile(LXClassLoader.java:190)
+	at heronarts.lx.LXClassLoader.load(LXClassLoader.java:158)
+	at heronarts.lx.LXRegistry.reloadContent(LXRegistry.java:555)
+	at heronarts.lx.studio.ui.browser.UIPackageManager$2.onClick(UIPackageManager.java:103)
+	at heronarts.glx.ui.component.UIButton.onMouseReleased(UIButton.java:612)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:657)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UI2dScrollContainer.mouseReleased(UI2dScrollContainer.java:254)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UI.mouseEvent(UI.java:1021)
+	at heronarts.glx.InputDispatch.dispatch(InputDispatch.java:230)
+	at heronarts.lx.LXEngine._processInputEvents(LXEngine.java:1007)
+	at heronarts.lx.LXEngine.processInputEvents(LXEngine.java:983)
+	at heronarts.lx.LXEngine.access$1600(LXEngine.java:66)
+	at heronarts.lx.LXEngine$ExecutorService.lambda$start$1(LXEngine.java:677)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+[LX 2024/08/19 20:00:46] Package content reloaded.
+[LX 2024/08/19 20:01:13] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 20:01:14] Reloading custom content folders
+[LX 2024/08/19 20:01:14] FATAL ERROR IN LXEngine.processInputEvents(): Attemping to unregister effect that does not exist: class heronarts.lx.example.CustomEffect
+java.lang.IllegalStateException: Attemping to unregister effect that does not exist: class heronarts.lx.example.CustomEffect
+	at heronarts.lx.LXRegistry.removeEffect(LXRegistry.java:807)
+	at heronarts.lx.LXRegistry.removeClass(LXRegistry.java:696)
+	at heronarts.lx.studio.LXStudio$Registry.removeClass(LXStudio.java:340)
+	at heronarts.lx.LXClassLoader.dispose(LXClassLoader.java:164)
+	at heronarts.lx.LXRegistry.reloadContent(LXRegistry.java:543)
+	at heronarts.lx.studio.ui.browser.UIPackageManager$2.onClick(UIPackageManager.java:103)
+	at heronarts.glx.ui.component.UIButton.onMouseReleased(UIButton.java:612)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:657)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UI2dScrollContainer.mouseReleased(UI2dScrollContainer.java:254)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UI.mouseEvent(UI.java:1021)
+	at heronarts.glx.InputDispatch.dispatch(InputDispatch.java:230)
+	at heronarts.lx.LXEngine._processInputEvents(LXEngine.java:1007)
+	at heronarts.lx.LXEngine.processInputEvents(LXEngine.java:983)
+	at heronarts.lx.LXEngine.access$1600(LXEngine.java:66)
+	at heronarts.lx.LXEngine$ExecutorService.lambda$start$1(LXEngine.java:677)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+[LX 2024/08/19 20:01:18] Reloading custom content folders
+[LX 2024/08/19 20:01:18] FATAL ERROR IN LXEngine.processInputEvents(): Attemping to unregister effect that does not exist: class heronarts.lx.example.CustomEffect
+java.lang.IllegalStateException: Attemping to unregister effect that does not exist: class heronarts.lx.example.CustomEffect
+	at heronarts.lx.LXRegistry.removeEffect(LXRegistry.java:807)
+	at heronarts.lx.LXRegistry.removeClass(LXRegistry.java:696)
+	at heronarts.lx.studio.LXStudio$Registry.removeClass(LXStudio.java:340)
+	at heronarts.lx.LXClassLoader.dispose(LXClassLoader.java:164)
+	at heronarts.lx.LXRegistry.reloadContent(LXRegistry.java:543)
+	at heronarts.lx.studio.ui.browser.UIPackageManager$2.onClick(UIPackageManager.java:103)
+	at heronarts.glx.ui.component.UIButton.onMouseReleased(UIButton.java:612)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:657)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UI2dScrollContainer.mouseReleased(UI2dScrollContainer.java:254)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UI.mouseEvent(UI.java:1021)
+	at heronarts.glx.InputDispatch.dispatch(InputDispatch.java:230)
+	at heronarts.lx.LXEngine._processInputEvents(LXEngine.java:1007)
+	at heronarts.lx.LXEngine.processInputEvents(LXEngine.java:983)
+	at heronarts.lx.LXEngine.access$1600(LXEngine.java:66)
+	at heronarts.lx.LXEngine$ExecutorService.lambda$start$1(LXEngine.java:677)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+[LX 2024/08/19 20:07:54] Reloading custom content folders
+[LX 2024/08/19 20:07:54] FATAL ERROR IN LXEngine.processInputEvents(): Attemping to unregister effect that does not exist: class heronarts.lx.example.CustomEffect
+java.lang.IllegalStateException: Attemping to unregister effect that does not exist: class heronarts.lx.example.CustomEffect
+	at heronarts.lx.LXRegistry.removeEffect(LXRegistry.java:807)
+	at heronarts.lx.LXRegistry.removeClass(LXRegistry.java:696)
+	at heronarts.lx.studio.LXStudio$Registry.removeClass(LXStudio.java:340)
+	at heronarts.lx.LXClassLoader.dispose(LXClassLoader.java:164)
+	at heronarts.lx.LXRegistry.reloadContent(LXRegistry.java:543)
+	at heronarts.lx.LXRegistry.uninstallPackage(LXRegistry.java:667)
+	at heronarts.lx.studio.ui.browser.UIPackageManager$UIPackageItem.lambda$onKeyPressed$0(UIPackageManager.java:190)
+	at heronarts.glx.ui.UIDialogBox$1.onClick(UIDialogBox.java:88)
+	at heronarts.glx.ui.component.UIButton.onMouseReleased(UIButton.java:612)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:657)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UI2dScrollContext.mouseReleased(UI2dScrollContext.java:240)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UI.mouseEvent(UI.java:1021)
+	at heronarts.glx.InputDispatch.dispatch(InputDispatch.java:230)
+	at heronarts.lx.LXEngine._processInputEvents(LXEngine.java:1007)
+	at heronarts.lx.LXEngine.processInputEvents(LXEngine.java:983)
+	at heronarts.lx.LXEngine.access$1600(LXEngine.java:66)
+	at heronarts.lx.LXEngine$ExecutorService.lambda$start$1(LXEngine.java:677)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+[LX 2024/08/19 20:07:56] Reloading custom content folders
+[LX 2024/08/19 20:07:56] FATAL ERROR IN LXEngine.processInputEvents(): Attemping to unregister effect that does not exist: class heronarts.lx.example.CustomEffect
+java.lang.IllegalStateException: Attemping to unregister effect that does not exist: class heronarts.lx.example.CustomEffect
+	at heronarts.lx.LXRegistry.removeEffect(LXRegistry.java:807)
+	at heronarts.lx.LXRegistry.removeClass(LXRegistry.java:696)
+	at heronarts.lx.studio.LXStudio$Registry.removeClass(LXStudio.java:340)
+	at heronarts.lx.LXClassLoader.dispose(LXClassLoader.java:164)
+	at heronarts.lx.LXRegistry.reloadContent(LXRegistry.java:543)
+	at heronarts.lx.studio.ui.browser.UIPackageManager$2.onClick(UIPackageManager.java:103)
+	at heronarts.glx.ui.component.UIButton.onMouseReleased(UIButton.java:612)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:657)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UI2dScrollContainer.mouseReleased(UI2dScrollContainer.java:254)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UI.mouseEvent(UI.java:1021)
+	at heronarts.glx.InputDispatch.dispatch(InputDispatch.java:230)
+	at heronarts.lx.LXEngine._processInputEvents(LXEngine.java:1007)
+	at heronarts.lx.LXEngine.processInputEvents(LXEngine.java:983)
+	at heronarts.lx.LXEngine.access$1600(LXEngine.java:66)
+	at heronarts.lx.LXEngine$ExecutorService.lambda$start$1(LXEngine.java:677)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+[GLX 2024/08/19 20:07:59] Stopping LX engine...
+[LX 2024/08/19 20:07:59] LXEngine.ExecutorService has finished.
+[LX 2024/08/19 20:07:59] [MIDI] LXMidiEngine Device Update Thread finished.
+[GLX 2024/08/19 20:07:59] Done with main thread, GLX shutdown complete. Thanks for playing. <3

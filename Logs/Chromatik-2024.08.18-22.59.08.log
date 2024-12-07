@@ -1,0 +1,240 @@
+[Chromatik 2024/08/18 22:59:08] Starting Chromatik version 1.0.0
+[Chromatik 2024/08/18 22:59:08] Running java 17.0.9 Eclipse Adoptium Mac OS X 14.1.2 aarch64
+[Chromatik 2024/08/18 22:59:08] Licensed to Daniel Rummel <drummel@gmail.com> - version 1.0.0 FREE - heronarts.lx.core
+[GLX 2024/08/18 22:59:09] GLX monitorWorkarea: size(1440x900), pos(x:0,y:0)
+[GLX 2024/08/18 22:59:09] GLX createWindow: 1440x872
+[GLX 2024/08/18 22:59:09] GLX systemContentScale: 2.0x2.0
+[GLX 2024/08/18 22:59:09] GLX windowSize: 1440x872
+[GLX 2024/08/18 22:59:09] GLX setWindowPos: 0,28
+[GLX 2024/08/18 22:59:09] GLX framebufferSize: 2880x1744
+[GLX 2024/08/18 22:59:09] GLX uiSize: 1440.0x872.0
+[GLX 2024/08/18 22:59:09] GLX cursorScale: 1.0x1.0
+[GLX 2024/08/18 22:59:09] Using BGFX renderer: Metal
+[GLX 2024/08/18 22:59:09] Starting LX Engine...
+[LX 2024/08/18 22:59:09] LXEngine.ExecutorService starting...
+[GLX 2024/08/18 22:59:09] Bootstrap complete, running main loop.
+[LX 2024/08/18 22:59:09] Last saved project file no longer exists: /Users/drummel/Desktop/NAGA/naga-one.lxp
+[LX 2024/08/18 23:00:14] Project loaded successfully from /Users/drummel/Desktop/NAGA/naga-proto.lxp
+[LX 2024/08/18 23:00:39] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:00:54] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:01:09] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:02:09] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:02:24] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:02:39] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:02:54] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:03:09] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:03:13] Unexpected error performing action heronarts.lx.command.LXCommand$Modulation$AddModulation@7440abfc - bad internal state?
+heronarts.lx.command.LXCommand$InvalidCommandException: Mapping from Spring to Range is not allowed because it would create a circular dependency.
+	at heronarts.lx.command.LXCommand$Modulation$AddModulation.perform(LXCommand.java:1652)
+	at heronarts.lx.command.LXCommandEngine.perform(LXCommandEngine.java:62)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:581)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UI2dScrollContainer.mousePressed(UI2dScrollContainer.java:249)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UI$UIRoot.mousePressed(UI.java:155)
+	at heronarts.glx.ui.UI.mouseEvent(UI.java:1018)
+	at heronarts.glx.InputDispatch.dispatch(InputDispatch.java:230)
+	at heronarts.lx.LXEngine._processInputEvents(LXEngine.java:1007)
+	at heronarts.lx.LXEngine.processInputEvents(LXEngine.java:983)
+	at heronarts.lx.LXEngine.access$1600(LXEngine.java:66)
+	at heronarts.lx.LXEngine$ExecutorService.lambda$start$1(LXEngine.java:677)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: heronarts.lx.modulation.LXParameterModulation$CircularDependencyException: Mapping from Spring to Range is not allowed because it would create a circular dependency.
+	at heronarts.lx.modulation.LXParameterModulation.checkForCycles(LXParameterModulation.java:85)
+	at heronarts.lx.modulation.LXParameterModulation.checkForCycles(LXParameterModulation.java:94)
+	at heronarts.lx.modulation.LXParameterModulation.registerModulation(LXParameterModulation.java:108)
+	at heronarts.lx.modulation.LXParameterModulation.<init>(LXParameterModulation.java:147)
+	at heronarts.lx.modulation.LXCompoundModulation.<init>(LXCompoundModulation.java:132)
+	at heronarts.lx.command.LXCommand$Modulation$AddModulation.perform(LXCommand.java:1641)
+	... 27 more
+[LX 2024/08/18 23:03:18] Calls to DatagramSocket.send() appear to be unexpectedly blocking, you may be sending to an unresolvable address or network queues may be saturated. If you are on Linux/Raspberry-Pi, consult the following URL for guidance on relevant kernel parameters: https://github.com/heronarts/LXStudio/wiki/Raspberry-Pi
+[LX 2024/08/18 23:03:24] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:03:39] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:03:54] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:04:09] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:04:24] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:04:39] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:04:54] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:05:09] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:05:24] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:05:39] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:05:54] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:06:09] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:06:54] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:07:09] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:07:24] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:07:39] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:07:55] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:08:10] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:08:25] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:08:40] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:08:55] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:09:10] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:09:25] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:09:40] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:09:55] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:10:10] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:10:25] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:10:40] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:10:55] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:11:10] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:11:25] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:11:40] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:11:55] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:12:10] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:12:25] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:13:55] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:14:10] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:14:25] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:14:55] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:15:10] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:15:25] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:15:40] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:15:55] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:16:25] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:16:40] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:16:55] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:17:10] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:17:25] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:17:40] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:17:55] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:18:10] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:18:25] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:18:40] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:18:55] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:19:10] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:19:25] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:20:25] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:20:55] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:21:10] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:21:25] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:21:40] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:21:55] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:22:10] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:22:25] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:22:55] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:23:10] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:23:25] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:23:40] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:23:55] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:24:10] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:24:25] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:24:40] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:24:55] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:25:10] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:25:25] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:25:40] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:25:55] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:26:10] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:26:25] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:26:40] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:26:55] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:27:10] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:27:25] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:27:40] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:27:55] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:28:11] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:28:26] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:28:41] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:28:56] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:29:11] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:29:26] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:29:41] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:29:56] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:30:11] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:30:26] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:30:41] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:30:56] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:31:11] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:31:26] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:31:41] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:31:56] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:32:11] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:32:26] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:32:56] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:33:11] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:33:26] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:33:41] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:33:56] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:34:11] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:34:26] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:34:41] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:34:56] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:35:11] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:35:26] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:35:41] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:35:56] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:36:11] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:36:26] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:36:41] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:37:11] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:37:41] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:37:56] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:38:26] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:38:41] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:38:56] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:39:11] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:39:26] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:39:41] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:39:56] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:40:11] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:40:26] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:40:41] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:40:56] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:41:11] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:41:26] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:41:41] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:42:41] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:42:56] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:43:11] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:43:26] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:48:57] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:49:12] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:49:27] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:49:42] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:49:57] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/18 23:50:12] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 00:01:58] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 00:02:13] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 00:02:58] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 00:03:13] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 00:03:28] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 00:03:43] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 00:03:58] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 00:04:13] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 00:04:28] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 00:04:43] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 00:04:58] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 00:05:13] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 00:05:28] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 00:05:43] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 00:05:58] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 00:06:13] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 00:06:28] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 00:06:43] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 00:06:58] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 00:07:13] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 00:07:28] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 00:07:43] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 00:07:58] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 00:08:13] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-proto.lxp
+[LX 2024/08/19 00:08:33] Project saved successfully to /Users/drummel/Desktop/NAGA/naga-proto.lxp
+[LX 2024/08/19 00:08:35] Project saved successfully to /Users/drummel/Desktop/NAGA/naga-proto.lxp
+[GLX 2024/08/19 00:08:37] Stopping LX engine...
+[LX 2024/08/19 00:08:37] LXEngine.ExecutorService has finished.
+[LX 2024/08/19 00:08:37] [MIDI] LXMidiEngine Device Update Thread finished.
+[GLX 2024/08/19 00:08:37] Done with main thread, GLX shutdown complete. Thanks for playing. <3

@@ -1,0 +1,579 @@
+[Chromatik 2024/08/20 14:29:24] Starting Chromatik version 1.0.0
+[Chromatik 2024/08/20 14:29:24] Running java 17.0.9 Eclipse Adoptium Mac OS X 14.1.2 aarch64
+[Chromatik 2024/08/20 14:29:24] Licensed to Daniel Rummel <drummel@gmail.com> - version 1.0.0 FREE - heronarts.lx.core
+[LX 2024/08/20 14:29:24] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/20 14:29:24] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/20 14:29:24] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[GLX 2024/08/20 14:29:25] GLX monitorWorkarea: size(1440x900), pos(x:0,y:0)
+[GLX 2024/08/20 14:29:25] GLX createWindow: 1440x872
+[GLX 2024/08/20 14:29:25] GLX systemContentScale: 2.0x2.0
+[GLX 2024/08/20 14:29:25] GLX windowSize: 1440x872
+[GLX 2024/08/20 14:29:25] GLX setWindowPos: 0,28
+[GLX 2024/08/20 14:29:25] GLX framebufferSize: 2880x1744
+[GLX 2024/08/20 14:29:25] GLX uiSize: 1321.1008x800.0
+[GLX 2024/08/20 14:29:25] GLX cursorScale: 0.9174311x0.9174312
+[GLX 2024/08/20 14:29:25] Using BGFX renderer: Metal
+[GLX 2024/08/20 14:29:25] Starting LX Engine...
+[LX 2024/08/20 14:29:25] LXEngine.ExecutorService starting...
+[GLX 2024/08/20 14:29:25] Bootstrap complete, running main loop.
+[LX 2024/08/20 14:29:25] Opening project file: /Users/drummel/Chromatik/Projects/naga-custom-package.lxp
+[LX 2024/08/20 14:29:26] Project loaded successfully from /Users/drummel/Chromatik/Projects/naga-custom-package.lxp
+[LX 2024/08/20 14:29:30] Reloading custom content folders
+[LX 2024/08/20 14:29:30] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/20 14:29:30] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/20 14:29:30] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/20 14:29:30] Package content reloaded.
+[LX 2024/08/20 14:29:32] Reloading custom content folders
+[LX 2024/08/20 14:29:32] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/20 14:29:32] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/20 14:29:32] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/20 14:29:32] Package content reloaded.
+[LX 2024/08/20 14:29:33] Reloading custom content folders
+[LX 2024/08/20 14:29:33] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/20 14:29:33] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/20 14:29:33] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/20 14:29:33] Package content reloaded.
+[LX 2024/08/20 14:29:55] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:30:10] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:30:25] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:30:28] Calls to DatagramSocket.send() appear to be unexpectedly blocking, you may be sending to an unresolvable address or network queues may be saturated. If you are on Linux/Raspberry-Pi, consult the following URL for guidance on relevant kernel parameters: https://github.com/heronarts/LXStudio/wiki/Raspberry-Pi
+[LX 2024/08/20 14:30:40] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:31:49] [I/O] IOException sending to /192.168.8.122:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/08/20 14:31:49] [I/O] Retrying /192.168.8.122:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/20 14:31:49] [I/O] Retrying /192.168.8.122:6454 in 100ms (4 consecutive failures)
+[LX 2024/08/20 14:31:50] [I/O] Retrying /192.168.8.122:6454 in 200ms (5 consecutive failures)
+[LX 2024/08/20 14:31:50] [I/O] Retrying /192.168.8.122:6454 in 400ms (6 consecutive failures)
+[LX 2024/08/20 14:31:50] [I/O] Retrying /192.168.8.122:6454 in 800ms (7 consecutive failures)
+[LX 2024/08/20 14:31:51] [I/O] Retrying /192.168.8.122:6454 in 1600ms (8 consecutive failures)
+[LX 2024/08/20 14:31:53] [I/O] Retrying /192.168.8.122:6454 in 1600ms (9 consecutive failures)
+[LX 2024/08/20 14:31:54] [I/O] Retrying /192.168.8.122:6454 in 1600ms (10 consecutive failures)
+[LX 2024/08/20 14:31:56] [I/O] Retrying /192.168.8.122:6454 in 1600ms (11 consecutive failures)
+[LX 2024/08/20 14:31:57] [I/O] Retrying /192.168.8.122:6454 in 1600ms (12 consecutive failures)
+[LX 2024/08/20 14:31:59] [I/O] Retrying /192.168.8.122:6454 in 1600ms (13 consecutive failures)
+[LX 2024/08/20 14:32:01] [I/O] Retrying /192.168.8.122:6454 in 1600ms (14 consecutive failures)
+[LX 2024/08/20 14:32:02] [I/O] Retrying /192.168.8.122:6454 in 1600ms (15 consecutive failures)
+[LX 2024/08/20 14:32:04] [I/O] Retrying /192.168.8.122:6454 in 1600ms (16 consecutive failures)
+[LX 2024/08/20 14:32:06] [I/O] Retrying /192.168.8.122:6454 in 1600ms (17 consecutive failures)
+[LX 2024/08/20 14:32:07] [I/O] Recovered connectivity to /192.168.8.122:6454
+[LX 2024/08/20 14:32:19] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:32:34] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:32:49] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:33:04] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:35:13] Reloading custom content folders
+[LX 2024/08/20 14:35:13] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/20 14:35:13] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/20 14:35:13] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/20 14:35:13] Package content reloaded.
+[LX 2024/08/20 14:35:19] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:35:34] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:37:47] Reloading custom content folders
+[LX 2024/08/20 14:37:47] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/20 14:37:47] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/20 14:37:47] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/20 14:37:47] Package content reloaded.
+[LX 2024/08/20 14:38:04] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:38:19] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:38:34] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:40:41] Reloading custom content folders
+[LX 2024/08/20 14:40:41] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/20 14:40:41] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/20 14:40:41] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/20 14:40:41] Package content reloaded.
+[LX 2024/08/20 14:40:49] Reloading custom content folders
+[LX 2024/08/20 14:40:49] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/20 14:40:49] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/20 14:40:49] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/20 14:40:49] Package content reloaded.
+[LX 2024/08/20 14:40:50] Reloading custom content folders
+[LX 2024/08/20 14:40:50] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/20 14:40:50] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/20 14:40:50] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/20 14:40:50] Package content reloaded.
+[LX 2024/08/20 14:43:47] Reloading custom content folders
+[LX 2024/08/20 14:43:47] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/20 14:43:47] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/20 14:43:47] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/20 14:43:47] Package content reloaded.
+[LX 2024/08/20 14:43:50] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:44:05] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:44:20] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:44:35] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:48:02] [I/O] IOException sending to /192.168.8.122:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/08/20 14:48:02] [I/O] Retrying /192.168.8.122:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/20 14:48:02] [I/O] Retrying /192.168.8.122:6454 in 100ms (4 consecutive failures)
+[LX 2024/08/20 14:48:02] [I/O] Retrying /192.168.8.122:6454 in 200ms (5 consecutive failures)
+[LX 2024/08/20 14:48:02] [I/O] Retrying /192.168.8.122:6454 in 400ms (6 consecutive failures)
+[LX 2024/08/20 14:48:03] [I/O] Retrying /192.168.8.122:6454 in 800ms (7 consecutive failures)
+[LX 2024/08/20 14:48:04] [I/O] Retrying /192.168.8.122:6454 in 1600ms (8 consecutive failures)
+[LX 2024/08/20 14:48:05] [I/O] Retrying /192.168.8.122:6454 in 1600ms (9 consecutive failures)
+[LX 2024/08/20 14:48:07] [I/O] Retrying /192.168.8.122:6454 in 1600ms (10 consecutive failures)
+[LX 2024/08/20 14:48:08] [I/O] Retrying /192.168.8.122:6454 in 1600ms (11 consecutive failures)
+[LX 2024/08/20 14:48:10] [I/O] Retrying /192.168.8.122:6454 in 1600ms (12 consecutive failures)
+[LX 2024/08/20 14:48:12] [I/O] Retrying /192.168.8.122:6454 in 1600ms (13 consecutive failures)
+[LX 2024/08/20 14:48:13] [I/O] Retrying /192.168.8.122:6454 in 1600ms (14 consecutive failures)
+[LX 2024/08/20 14:48:15] [I/O] Retrying /192.168.8.122:6454 in 1600ms (15 consecutive failures)
+[LX 2024/08/20 14:48:17] [I/O] Retrying /192.168.8.122:6454 in 1600ms (16 consecutive failures)
+[LX 2024/08/20 14:48:18] [I/O] Retrying /192.168.8.122:6454 in 1600ms (17 consecutive failures)
+[LX 2024/08/20 14:48:20] [I/O] Retrying /192.168.8.122:6454 in 1600ms (18 consecutive failures)
+[LX 2024/08/20 14:48:21] [I/O] Retrying /192.168.8.122:6454 in 1600ms (19 consecutive failures)
+[LX 2024/08/20 14:48:23] [I/O] Retrying /192.168.8.122:6454 in 1600ms (20 consecutive failures)
+[LX 2024/08/20 14:48:25] [I/O] Retrying /192.168.8.122:6454 in 1600ms (21 consecutive failures)
+[LX 2024/08/20 14:48:26] [I/O] Retrying /192.168.8.122:6454 in 1600ms (22 consecutive failures)
+[LX 2024/08/20 14:48:28] [I/O] Retrying /192.168.8.122:6454 in 1600ms (23 consecutive failures)
+[LX 2024/08/20 14:48:29] [I/O] Retrying /192.168.8.122:6454 in 1600ms (24 consecutive failures)
+[LX 2024/08/20 14:48:31] [I/O] Retrying /192.168.8.122:6454 in 1600ms (25 consecutive failures)
+[LX 2024/08/20 14:48:33] [I/O] Retrying /192.168.8.122:6454 in 1600ms (26 consecutive failures)
+[LX 2024/08/20 14:48:34] [I/O] Retrying /192.168.8.122:6454 in 1600ms (27 consecutive failures)
+[LX 2024/08/20 14:48:36] [I/O] Retrying /192.168.8.122:6454 in 1600ms (28 consecutive failures)
+[LX 2024/08/20 14:48:38] [I/O] Retrying /192.168.8.122:6454 in 1600ms (29 consecutive failures)
+[LX 2024/08/20 14:48:39] [I/O] Retrying /192.168.8.122:6454 in 1600ms (30 consecutive failures)
+[LX 2024/08/20 14:48:41] [I/O] Retrying /192.168.8.122:6454 in 1600ms (31 consecutive failures)
+[LX 2024/08/20 14:48:42] [I/O] Retrying /192.168.8.122:6454 in 1600ms (32 consecutive failures)
+[LX 2024/08/20 14:48:44] [I/O] Retrying /192.168.8.122:6454 in 1600ms (33 consecutive failures)
+[LX 2024/08/20 14:48:46] [I/O] Retrying /192.168.8.122:6454 in 1600ms (34 consecutive failures)
+[LX 2024/08/20 14:48:47] [I/O] Recovered connectivity to /192.168.8.122:6454
+[LX 2024/08/20 14:48:49] [I/O] IOException sending to /192.168.8.122:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/08/20 14:48:49] [I/O] Retrying /192.168.8.122:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/20 14:48:50] [I/O] Retrying /192.168.8.122:6454 in 100ms (4 consecutive failures)
+[LX 2024/08/20 14:48:50] [I/O] Retrying /192.168.8.122:6454 in 200ms (5 consecutive failures)
+[LX 2024/08/20 14:48:50] [I/O] Retrying /192.168.8.122:6454 in 400ms (6 consecutive failures)
+[LX 2024/08/20 14:48:50] [I/O] Retrying /192.168.8.122:6454 in 800ms (7 consecutive failures)
+[LX 2024/08/20 14:48:51] [I/O] Recovered connectivity to /192.168.8.122:6454
+[LX 2024/08/20 14:49:27] Reloading custom content folders
+[LX 2024/08/20 14:49:27] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/20 14:49:27] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/20 14:49:27] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/20 14:49:27] Package content reloaded.
+[LX 2024/08/20 14:49:35] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:49:50] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:50:05] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:50:20] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:51:53] Reloading custom content folders
+[LX 2024/08/20 14:51:53] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/20 14:51:53] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/20 14:51:53] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/20 14:51:53] Package content reloaded.
+[LX 2024/08/20 14:52:05] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:52:20] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:52:35] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:54:53] Reloading custom content folders
+[LX 2024/08/20 14:54:53] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/20 14:54:53] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/20 14:54:53] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/20 14:54:53] Package content reloaded.
+[LX 2024/08/20 14:55:05] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:55:20] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:57:50] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:58:05] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:58:27] Reloading custom content folders
+[LX 2024/08/20 14:58:27] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/20 14:58:27] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/20 14:58:27] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/20 14:58:27] Package content reloaded.
+[LX 2024/08/20 14:58:35] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:58:50] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:59:05] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:59:21] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:59:36] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 14:59:51] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:02:21] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:02:22] Reloading custom content folders
+[LX 2024/08/20 15:02:22] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/20 15:02:22] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/20 15:02:22] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/20 15:02:22] Package content reloaded.
+[LX 2024/08/20 15:02:36] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:02:51] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:04:54] Reloading custom content folders
+[LX 2024/08/20 15:04:54] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/20 15:04:54] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/20 15:04:54] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/20 15:04:54] Package content reloaded.
+[LX 2024/08/20 15:05:06] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:05:21] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:08:50] Reloading custom content folders
+[LX 2024/08/20 15:08:50] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/20 15:08:50] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/20 15:08:50] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/20 15:08:50] Package content reloaded.
+[LX 2024/08/20 15:08:51] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:09:06] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:11:06] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:11:21] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:11:23] Reloading custom content folders
+[LX 2024/08/20 15:11:23] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/20 15:11:23] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/20 15:11:23] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/20 15:11:23] Package content reloaded.
+[LX 2024/08/20 15:11:35] Reloading custom content folders
+[LX 2024/08/20 15:11:35] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/20 15:11:35] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/20 15:11:35] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/20 15:11:35] Package content reloaded.
+[LX 2024/08/20 15:11:36] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:11:51] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:13:56] Reloading custom content folders
+[LX 2024/08/20 15:13:56] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/20 15:13:56] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/20 15:13:56] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/20 15:13:56] Package content reloaded.
+[LX 2024/08/20 15:14:06] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:14:21] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:14:36] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:14:51] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:15:06] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:15:21] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:15:36] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:15:51] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:16:06] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:21:36] Reloading custom content folders
+[LX 2024/08/20 15:21:36] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/20 15:21:36] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/20 15:21:36] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/20 15:21:36] Package content reloaded.
+[LX 2024/08/20 15:21:52] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:22:07] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:22:22] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:22:37] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:22:52] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:23:07] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:27:28] Reloading custom content folders
+[LX 2024/08/20 15:27:28] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/20 15:27:28] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/20 15:27:28] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/20 15:27:28] Package content reloaded.
+[LX 2024/08/20 15:27:33] Exception in instantiateComponent: null
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Unknown Source)
+	at java.base/java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at heronarts.lx.LX.instantiateComponent(LX.java:1284)
+	at heronarts.lx.LX.instantiatePattern(LX.java:1315)
+	at heronarts.lx.command.LXCommand$Channel$AddPattern.perform(LXCommand.java:704)
+	at heronarts.lx.command.LXCommandEngine.perform(LXCommandEngine.java:62)
+	at heronarts.lx.studio.ui.browser.UIPatternManager$PatternItem.onActivate(UIPatternManager.java:88)
+	at heronarts.glx.ui.component.UIItemList$Impl.activate(UIItemList.java:609)
+	at heronarts.glx.ui.component.UIItemList$Impl.onMousePressed(UIItemList.java:883)
+	at heronarts.glx.ui.component.UIItemList$BasicList.onMousePressed(UIItemList.java:1558)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:628)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UI2dScrollContainer.mousePressed(UI2dScrollContainer.java:249)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UI$UIRoot.mousePressed(UI.java:155)
+	at heronarts.glx.ui.UI.mouseEvent(UI.java:1018)
+	at heronarts.glx.InputDispatch.dispatch(InputDispatch.java:230)
+	at heronarts.lx.LXEngine._processInputEvents(LXEngine.java:1007)
+	at heronarts.lx.LXEngine.processInputEvents(LXEngine.java:983)
+	at heronarts.lx.LXEngine.access$1600(LXEngine.java:66)
+	at heronarts.lx.LXEngine$ExecutorService.lambda$start$1(LXEngine.java:677)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.RuntimeException: java.lang.IllegalAccessException: class heronarts.lx.parameter.EnumParameter cannot access a member of class naga.SparkleTrail$NumColors with modifiers "public static"
+	at heronarts.lx.parameter.EnumParameter.valuesFor(EnumParameter.java:28)
+	at heronarts.lx.parameter.EnumParameter.<init>(EnumParameter.java:33)
+	at naga.SparkleTrail.<init>(SparkleTrail.java:41)
+	... 34 more
+Caused by: java.lang.IllegalAccessException: class heronarts.lx.parameter.EnumParameter cannot access a member of class naga.SparkleTrail$NumColors with modifiers "public static"
+	at java.base/jdk.internal.reflect.Reflection.newIllegalAccessException(Unknown Source)
+	at java.base/java.lang.reflect.AccessibleObject.checkAccess(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at heronarts.lx.parameter.EnumParameter.valuesFor(EnumParameter.java:26)
+	... 36 more
+[LX 2024/08/20 15:27:33] Unexpected error performing action heronarts.lx.command.LXCommand$Channel$AddPattern@1430db8 - bad internal state?
+heronarts.lx.command.LXCommand$InvalidCommandException: SparkleTrail could not be loaded. Check that all required content files are present and constructor is public.
+	at heronarts.lx.command.LXCommand$Channel$AddPattern.perform(LXCommand.java:713)
+	at heronarts.lx.command.LXCommandEngine.perform(LXCommandEngine.java:62)
+	at heronarts.lx.studio.ui.browser.UIPatternManager$PatternItem.onActivate(UIPatternManager.java:88)
+	at heronarts.glx.ui.component.UIItemList$Impl.activate(UIItemList.java:609)
+	at heronarts.glx.ui.component.UIItemList$Impl.onMousePressed(UIItemList.java:883)
+	at heronarts.glx.ui.component.UIItemList$BasicList.onMousePressed(UIItemList.java:1558)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:628)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UI2dScrollContainer.mousePressed(UI2dScrollContainer.java:249)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UI$UIRoot.mousePressed(UI.java:155)
+	at heronarts.glx.ui.UI.mouseEvent(UI.java:1018)
+	at heronarts.glx.InputDispatch.dispatch(InputDispatch.java:230)
+	at heronarts.lx.LXEngine._processInputEvents(LXEngine.java:1007)
+	at heronarts.lx.LXEngine.processInputEvents(LXEngine.java:983)
+	at heronarts.lx.LXEngine.access$1600(LXEngine.java:66)
+	at heronarts.lx.LXEngine$ExecutorService.lambda$start$1(LXEngine.java:677)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: heronarts.lx.LX$InstantiationException: SparkleTrail could not be loaded. Check that all required content files are present and constructor is public.
+	at heronarts.lx.LX.instantiateComponent(LX.java:1290)
+	at heronarts.lx.LX.instantiatePattern(LX.java:1315)
+	at heronarts.lx.command.LXCommand$Channel$AddPattern.perform(LXCommand.java:704)
+	... 26 more
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Unknown Source)
+	at java.base/java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at heronarts.lx.LX.instantiateComponent(LX.java:1284)
+	... 28 more
+Caused by: java.lang.RuntimeException: java.lang.IllegalAccessException: class heronarts.lx.parameter.EnumParameter cannot access a member of class naga.SparkleTrail$NumColors with modifiers "public static"
+	at heronarts.lx.parameter.EnumParameter.valuesFor(EnumParameter.java:28)
+	at heronarts.lx.parameter.EnumParameter.<init>(EnumParameter.java:33)
+	at naga.SparkleTrail.<init>(SparkleTrail.java:41)
+	... 34 more
+Caused by: java.lang.IllegalAccessException: class heronarts.lx.parameter.EnumParameter cannot access a member of class naga.SparkleTrail$NumColors with modifiers "public static"
+	at java.base/jdk.internal.reflect.Reflection.newIllegalAccessException(Unknown Source)
+	at java.base/java.lang.reflect.AccessibleObject.checkAccess(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at heronarts.lx.parameter.EnumParameter.valuesFor(EnumParameter.java:26)
+	... 36 more
+[LX 2024/08/20 15:27:37] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:27:41] Reloading custom content folders
+[LX 2024/08/20 15:27:41] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/20 15:27:41] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/20 15:27:41] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/20 15:27:41] Package content reloaded.
+[LX 2024/08/20 15:27:46] Exception in instantiateComponent: null
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Unknown Source)
+	at java.base/java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at heronarts.lx.LX.instantiateComponent(LX.java:1284)
+	at heronarts.lx.LX.instantiatePattern(LX.java:1315)
+	at heronarts.lx.command.LXCommand$Channel$AddPattern.perform(LXCommand.java:704)
+	at heronarts.lx.command.LXCommandEngine.perform(LXCommandEngine.java:62)
+	at heronarts.lx.studio.ui.browser.UIPatternManager$PatternItem.onActivate(UIPatternManager.java:88)
+	at heronarts.glx.ui.component.UIItemList$Impl.activate(UIItemList.java:609)
+	at heronarts.glx.ui.component.UIItemList$Impl.onMousePressed(UIItemList.java:883)
+	at heronarts.glx.ui.component.UIItemList$BasicList.onMousePressed(UIItemList.java:1558)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:628)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UI2dScrollContainer.mousePressed(UI2dScrollContainer.java:249)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UI$UIRoot.mousePressed(UI.java:155)
+	at heronarts.glx.ui.UI.mouseEvent(UI.java:1018)
+	at heronarts.glx.InputDispatch.dispatch(InputDispatch.java:230)
+	at heronarts.lx.LXEngine._processInputEvents(LXEngine.java:1007)
+	at heronarts.lx.LXEngine.processInputEvents(LXEngine.java:983)
+	at heronarts.lx.LXEngine.access$1600(LXEngine.java:66)
+	at heronarts.lx.LXEngine$ExecutorService.lambda$start$1(LXEngine.java:677)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.RuntimeException: java.lang.IllegalAccessException: class heronarts.lx.parameter.EnumParameter cannot access a member of class naga.SparkleTrail$NumColors with modifiers "public static"
+	at heronarts.lx.parameter.EnumParameter.valuesFor(EnumParameter.java:28)
+	at heronarts.lx.parameter.EnumParameter.<init>(EnumParameter.java:33)
+	at naga.SparkleTrail.<init>(SparkleTrail.java:41)
+	... 34 more
+Caused by: java.lang.IllegalAccessException: class heronarts.lx.parameter.EnumParameter cannot access a member of class naga.SparkleTrail$NumColors with modifiers "public static"
+	at java.base/jdk.internal.reflect.Reflection.newIllegalAccessException(Unknown Source)
+	at java.base/java.lang.reflect.AccessibleObject.checkAccess(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at heronarts.lx.parameter.EnumParameter.valuesFor(EnumParameter.java:26)
+	... 36 more
+[LX 2024/08/20 15:27:46] Unexpected error performing action heronarts.lx.command.LXCommand$Channel$AddPattern@4550da0f - bad internal state?
+heronarts.lx.command.LXCommand$InvalidCommandException: SparkleTrail could not be loaded. Check that all required content files are present and constructor is public.
+	at heronarts.lx.command.LXCommand$Channel$AddPattern.perform(LXCommand.java:713)
+	at heronarts.lx.command.LXCommandEngine.perform(LXCommandEngine.java:62)
+	at heronarts.lx.studio.ui.browser.UIPatternManager$PatternItem.onActivate(UIPatternManager.java:88)
+	at heronarts.glx.ui.component.UIItemList$Impl.activate(UIItemList.java:609)
+	at heronarts.glx.ui.component.UIItemList$Impl.onMousePressed(UIItemList.java:883)
+	at heronarts.glx.ui.component.UIItemList$BasicList.onMousePressed(UIItemList.java:1558)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:628)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UI2dScrollContainer.mousePressed(UI2dScrollContainer.java:249)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UI$UIRoot.mousePressed(UI.java:155)
+	at heronarts.glx.ui.UI.mouseEvent(UI.java:1018)
+	at heronarts.glx.InputDispatch.dispatch(InputDispatch.java:230)
+	at heronarts.lx.LXEngine._processInputEvents(LXEngine.java:1007)
+	at heronarts.lx.LXEngine.processInputEvents(LXEngine.java:983)
+	at heronarts.lx.LXEngine.access$1600(LXEngine.java:66)
+	at heronarts.lx.LXEngine$ExecutorService.lambda$start$1(LXEngine.java:677)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: heronarts.lx.LX$InstantiationException: SparkleTrail could not be loaded. Check that all required content files are present and constructor is public.
+	at heronarts.lx.LX.instantiateComponent(LX.java:1290)
+	at heronarts.lx.LX.instantiatePattern(LX.java:1315)
+	at heronarts.lx.command.LXCommand$Channel$AddPattern.perform(LXCommand.java:704)
+	... 26 more
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Unknown Source)
+	at java.base/java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at heronarts.lx.LX.instantiateComponent(LX.java:1284)
+	... 28 more
+Caused by: java.lang.RuntimeException: java.lang.IllegalAccessException: class heronarts.lx.parameter.EnumParameter cannot access a member of class naga.SparkleTrail$NumColors with modifiers "public static"
+	at heronarts.lx.parameter.EnumParameter.valuesFor(EnumParameter.java:28)
+	at heronarts.lx.parameter.EnumParameter.<init>(EnumParameter.java:33)
+	at naga.SparkleTrail.<init>(SparkleTrail.java:41)
+	... 34 more
+Caused by: java.lang.IllegalAccessException: class heronarts.lx.parameter.EnumParameter cannot access a member of class naga.SparkleTrail$NumColors with modifiers "public static"
+	at java.base/jdk.internal.reflect.Reflection.newIllegalAccessException(Unknown Source)
+	at java.base/java.lang.reflect.AccessibleObject.checkAccess(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at heronarts.lx.parameter.EnumParameter.valuesFor(EnumParameter.java:26)
+	... 36 more
+[LX 2024/08/20 15:27:52] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:28:04] Reloading custom content folders
+[LX 2024/08/20 15:28:04] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/20 15:28:04] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/20 15:28:04] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/20 15:28:04] Package content reloaded.
+[LX 2024/08/20 15:28:06] Exception in instantiateComponent: null
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Unknown Source)
+	at java.base/java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at heronarts.lx.LX.instantiateComponent(LX.java:1284)
+	at heronarts.lx.LX.instantiatePattern(LX.java:1315)
+	at heronarts.lx.command.LXCommand$Channel$AddPattern.perform(LXCommand.java:704)
+	at heronarts.lx.command.LXCommandEngine.perform(LXCommandEngine.java:62)
+	at heronarts.lx.studio.ui.browser.UIPatternManager$PatternItem.onActivate(UIPatternManager.java:88)
+	at heronarts.glx.ui.component.UIItemList$Impl.activate(UIItemList.java:609)
+	at heronarts.glx.ui.component.UIItemList$Impl.onMousePressed(UIItemList.java:883)
+	at heronarts.glx.ui.component.UIItemList$BasicList.onMousePressed(UIItemList.java:1558)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:628)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UI2dScrollContainer.mousePressed(UI2dScrollContainer.java:249)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UI$UIRoot.mousePressed(UI.java:155)
+	at heronarts.glx.ui.UI.mouseEvent(UI.java:1018)
+	at heronarts.glx.InputDispatch.dispatch(InputDispatch.java:230)
+	at heronarts.lx.LXEngine._processInputEvents(LXEngine.java:1007)
+	at heronarts.lx.LXEngine.processInputEvents(LXEngine.java:983)
+	at heronarts.lx.LXEngine.access$1600(LXEngine.java:66)
+	at heronarts.lx.LXEngine$ExecutorService.lambda$start$1(LXEngine.java:677)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.RuntimeException: java.lang.IllegalAccessException: class heronarts.lx.parameter.EnumParameter cannot access a member of class naga.SparkleTrail$NumColors with modifiers "public static"
+	at heronarts.lx.parameter.EnumParameter.valuesFor(EnumParameter.java:28)
+	at heronarts.lx.parameter.EnumParameter.<init>(EnumParameter.java:33)
+	at naga.SparkleTrail.<init>(SparkleTrail.java:41)
+	... 34 more
+Caused by: java.lang.IllegalAccessException: class heronarts.lx.parameter.EnumParameter cannot access a member of class naga.SparkleTrail$NumColors with modifiers "public static"
+	at java.base/jdk.internal.reflect.Reflection.newIllegalAccessException(Unknown Source)
+	at java.base/java.lang.reflect.AccessibleObject.checkAccess(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at heronarts.lx.parameter.EnumParameter.valuesFor(EnumParameter.java:26)
+	... 36 more
+[LX 2024/08/20 15:28:06] Unexpected error performing action heronarts.lx.command.LXCommand$Channel$AddPattern@6e8ee410 - bad internal state?
+heronarts.lx.command.LXCommand$InvalidCommandException: SparkleTrail could not be loaded. Check that all required content files are present and constructor is public.
+	at heronarts.lx.command.LXCommand$Channel$AddPattern.perform(LXCommand.java:713)
+	at heronarts.lx.command.LXCommandEngine.perform(LXCommandEngine.java:62)
+	at heronarts.lx.studio.ui.browser.UIPatternManager$PatternItem.onActivate(UIPatternManager.java:88)
+	at heronarts.glx.ui.component.UIItemList$Impl.activate(UIItemList.java:609)
+	at heronarts.glx.ui.component.UIItemList$Impl.onMousePressed(UIItemList.java:883)
+	at heronarts.glx.ui.component.UIItemList$BasicList.onMousePressed(UIItemList.java:1558)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:628)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UI2dScrollContainer.mousePressed(UI2dScrollContainer.java:249)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UIObject.mousePressed(UIObject.java:602)
+	at heronarts.glx.ui.UI$UIRoot.mousePressed(UI.java:155)
+	at heronarts.glx.ui.UI.mouseEvent(UI.java:1018)
+	at heronarts.glx.InputDispatch.dispatch(InputDispatch.java:230)
+	at heronarts.lx.LXEngine._processInputEvents(LXEngine.java:1007)
+	at heronarts.lx.LXEngine.processInputEvents(LXEngine.java:983)
+	at heronarts.lx.LXEngine.access$1600(LXEngine.java:66)
+	at heronarts.lx.LXEngine$ExecutorService.lambda$start$1(LXEngine.java:677)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: heronarts.lx.LX$InstantiationException: SparkleTrail could not be loaded. Check that all required content files are present and constructor is public.
+	at heronarts.lx.LX.instantiateComponent(LX.java:1290)
+	at heronarts.lx.LX.instantiatePattern(LX.java:1315)
+	at heronarts.lx.command.LXCommand$Channel$AddPattern.perform(LXCommand.java:704)
+	... 26 more
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Unknown Source)
+	at java.base/java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at heronarts.lx.LX.instantiateComponent(LX.java:1284)
+	... 28 more
+Caused by: java.lang.RuntimeException: java.lang.IllegalAccessException: class heronarts.lx.parameter.EnumParameter cannot access a member of class naga.SparkleTrail$NumColors with modifiers "public static"
+	at heronarts.lx.parameter.EnumParameter.valuesFor(EnumParameter.java:28)
+	at heronarts.lx.parameter.EnumParameter.<init>(EnumParameter.java:33)
+	at naga.SparkleTrail.<init>(SparkleTrail.java:41)
+	... 34 more
+Caused by: java.lang.IllegalAccessException: class heronarts.lx.parameter.EnumParameter cannot access a member of class naga.SparkleTrail$NumColors with modifiers "public static"
+	at java.base/jdk.internal.reflect.Reflection.newIllegalAccessException(Unknown Source)
+	at java.base/java.lang.reflect.AccessibleObject.checkAccess(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at heronarts.lx.parameter.EnumParameter.valuesFor(EnumParameter.java:26)
+	... 36 more
+[LX 2024/08/20 15:28:07] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:29:19] Reloading custom content folders
+[LX 2024/08/20 15:29:19] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/20 15:29:19] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/20 15:29:19] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/20 15:29:19] Package content reloaded.
+[LX 2024/08/20 15:29:22] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:29:37] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:30:52] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:30:59] Reloading custom content folders
+[LX 2024/08/20 15:30:59] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/20 15:30:59] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/20 15:30:59] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/20 15:30:59] Package content reloaded.
+[LX 2024/08/20 15:31:07] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:31:22] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:31:37] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:31:52] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/20 15:32:05] Project saved successfully to /Users/drummel/Chromatik/Projects/naga-custom-package.lxp
+[GLX 2024/08/20 15:32:08] Stopping LX engine...
+[LX 2024/08/20 15:32:08] LXEngine.ExecutorService has finished.
+[LX 2024/08/20 15:32:08] [MIDI] LXMidiEngine Device Update Thread finished.
+[GLX 2024/08/20 15:32:08] Done with main thread, GLX shutdown complete. Thanks for playing. <3

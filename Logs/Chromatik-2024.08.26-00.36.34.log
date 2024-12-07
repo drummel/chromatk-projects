@@ -1,0 +1,366 @@
+[Chromatik 2024/08/26 00:36:34] Starting Chromatik version 1.0.0
+[Chromatik 2024/08/26 00:36:34] Running java 17.0.9 Eclipse Adoptium Mac OS X 14.1.2 aarch64
+[Chromatik 2024/08/26 00:36:34] Licensed to Daniel Rummel <drummel@gmail.com> - version 1.0.0 FREE - heronarts.lx.core
+[LX 2024/08/26 00:36:34] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/26 00:36:34] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/26 00:36:34] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[GLX 2024/08/26 00:36:38] GLX monitorWorkarea: size(1440x900), pos(x:0,y:0)
+[GLX 2024/08/26 00:36:38] GLX createWindow: 1440x872
+[GLX 2024/08/26 00:36:38] GLX systemContentScale: 2.0x2.0
+[GLX 2024/08/26 00:36:38] GLX windowSize: 1440x872
+[GLX 2024/08/26 00:36:38] GLX setWindowPos: 0,28
+[GLX 2024/08/26 00:36:38] GLX framebufferSize: 2880x1744
+[GLX 2024/08/26 00:36:38] GLX uiSize: 1440.0x872.0
+[GLX 2024/08/26 00:36:38] GLX cursorScale: 1.0x1.0
+[GLX 2024/08/26 00:36:38] Using BGFX renderer: Metal
+[GLX 2024/08/26 00:36:38] Starting LX Engine...
+[LX 2024/08/26 00:36:38] LXEngine.ExecutorService starting...
+[GLX 2024/08/26 00:36:38] Bootstrap complete, running main loop.
+[LX 2024/08/26 00:36:38] Opening project file: /Users/drummel/Chromatik/Projects/naga-cool-sparkle.lxp
+[LX 2024/08/26 00:36:43] [I/O] Unknown host for fixture datagram: naga-head.local: nodename nor servname provided, or not known
+[LX 2024/08/26 00:36:48] [I/O] Unknown host for fixture datagram: naga-h1.local: nodename nor servname provided, or not known
+[LX 2024/08/26 00:36:53] [I/O] Unknown host for fixture datagram: naga-h2.local: nodename nor servname provided, or not known
+[LX 2024/08/26 00:37:03] [I/O] Unknown host for fixture datagram: naga-tail.local: nodename nor servname provided, or not known
+[LX 2024/08/26 00:37:08] [I/O] Unknown host for fixture datagram: naga-head.local: nodename nor servname provided, or not known
+[LX 2024/08/26 00:37:08] [I/O] Unknown host for fixture datagram: naga-head.local
+[LX 2024/08/26 00:37:08] [I/O] Unknown host for fixture datagram: naga-head.local
+[LX 2024/08/26 00:37:13] [I/O] Unknown host for fixture datagram: naga-h1.local: nodename nor servname provided, or not known
+[LX 2024/08/26 00:37:18] [I/O] Unknown host for fixture datagram: naga-h2.local: nodename nor servname provided, or not known
+[LX 2024/08/26 00:37:23] [I/O] Unknown host for fixture datagram: naga-tail.local: nodename nor servname provided, or not known
+[LX 2024/08/26 00:37:28] [I/O] Unknown host for fixture datagram: naga-head.local: nodename nor servname provided, or not known
+[LX 2024/08/26 00:37:28] [I/O] Unknown host for fixture datagram: naga-head.local
+[LX 2024/08/26 00:37:28] [I/O] Unknown host for fixture datagram: naga-head.local
+[LX 2024/08/26 00:37:33] [I/O] Unknown host for fixture datagram: naga-h1.local: nodename nor servname provided, or not known
+[LX 2024/08/26 00:37:38] [I/O] Unknown host for fixture datagram: naga-h2.local: nodename nor servname provided, or not known
+[LX 2024/08/26 00:37:48] [I/O] Unknown host for fixture datagram: naga-tail.local: nodename nor servname provided, or not known
+[LX 2024/08/26 00:37:48] Project loaded successfully from /Users/drummel/Chromatik/Projects/naga-cool-sparkle.lxp
+[LX 2024/08/26 00:37:48] System.nanoTime() clock moved over 60s in a frame, resetting clock timer: 1499294731903083
+[LX 2024/08/26 00:38:48] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 00:38:48] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 00:39:48] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 00:39:48] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 00:42:33] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 00:42:33] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 00:43:50] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 00:43:50] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 00:44:05] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 00:44:05] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 00:47:50] Calls to DatagramSocket.send() appear to be unexpectedly blocking, you may be sending to an unresolvable address or network queues may be saturated. If you are on Linux/Raspberry-Pi, consult the following URL for guidance on relevant kernel parameters: https://github.com/heronarts/LXStudio/wiki/Raspberry-Pi
+[LX 2024/08/26 00:51:29] [I/O] IOException sending to naga-h3.local/192.168.8.133:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/08/26 00:51:29] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/26 00:51:29] [I/O] Recovered connectivity to naga-h3.local/192.168.8.133:6454
+[LX 2024/08/26 00:51:35] [I/O] IOException sending to naga-h3.local/192.168.8.133:6454 (No route to host), will initiate backoff after 3 consecutive failures
+[LX 2024/08/26 00:51:35] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/26 00:51:35] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 100ms (4 consecutive failures)
+[LX 2024/08/26 00:51:35] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 200ms (5 consecutive failures)
+[LX 2024/08/26 00:51:35] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 400ms (6 consecutive failures)
+[LX 2024/08/26 00:51:35] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 800ms (7 consecutive failures)
+[LX 2024/08/26 00:51:36] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (8 consecutive failures)
+[LX 2024/08/26 00:51:38] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (9 consecutive failures)
+[LX 2024/08/26 00:51:39] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (10 consecutive failures)
+[LX 2024/08/26 00:51:41] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (11 consecutive failures)
+[LX 2024/08/26 00:51:43] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (12 consecutive failures)
+[LX 2024/08/26 00:51:44] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (13 consecutive failures)
+[LX 2024/08/26 00:51:46] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (14 consecutive failures)
+[LX 2024/08/26 00:51:47] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (15 consecutive failures)
+[LX 2024/08/26 00:51:49] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (16 consecutive failures)
+[LX 2024/08/26 00:51:51] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (17 consecutive failures)
+[LX 2024/08/26 00:51:52] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (18 consecutive failures)
+[LX 2024/08/26 00:51:54] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (19 consecutive failures)
+[LX 2024/08/26 00:51:56] [I/O] Recovered connectivity to naga-h3.local/192.168.8.133:6454
+[LX 2024/08/26 00:52:00] [I/O] IOException sending to naga-h3.local/192.168.8.133:6454 (No route to host), will initiate backoff after 3 consecutive failures
+[LX 2024/08/26 00:52:00] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/26 00:52:00] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 100ms (4 consecutive failures)
+[LX 2024/08/26 00:52:00] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 200ms (5 consecutive failures)
+[LX 2024/08/26 00:52:00] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 400ms (6 consecutive failures)
+[LX 2024/08/26 00:52:00] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 800ms (7 consecutive failures)
+[LX 2024/08/26 00:52:01] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (8 consecutive failures)
+[LX 2024/08/26 00:52:03] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (9 consecutive failures)
+[LX 2024/08/26 00:52:04] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (10 consecutive failures)
+[LX 2024/08/26 00:52:06] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (11 consecutive failures)
+[LX 2024/08/26 00:52:08] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (12 consecutive failures)
+[LX 2024/08/26 00:52:09] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (13 consecutive failures)
+[LX 2024/08/26 00:52:11] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (14 consecutive failures)
+[LX 2024/08/26 00:52:12] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (15 consecutive failures)
+[LX 2024/08/26 00:52:14] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (16 consecutive failures)
+[LX 2024/08/26 00:52:16] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (17 consecutive failures)
+[LX 2024/08/26 00:52:17] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (18 consecutive failures)
+[LX 2024/08/26 00:52:19] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (19 consecutive failures)
+[LX 2024/08/26 00:52:21] [I/O] Recovered connectivity to naga-h3.local/192.168.8.133:6454
+[LX 2024/08/26 00:53:14] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 00:53:14] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 00:53:29] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 00:53:29] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 00:53:44] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 00:53:44] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 00:53:59] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 00:53:59] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 00:54:14] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 00:54:14] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 00:54:44] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 00:54:44] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 00:54:59] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 00:54:59] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 00:55:14] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 00:55:14] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 00:55:29] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 00:55:29] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 00:55:44] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 00:55:44] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 00:55:59] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 00:55:59] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 00:56:14] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 00:56:14] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 00:56:44] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 00:56:44] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 00:56:59] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 00:56:59] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 00:57:14] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 00:57:14] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 00:57:29] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 00:57:29] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 00:57:44] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 00:57:44] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 00:59:29] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 00:59:29] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 00:59:44] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 00:59:44] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 00:59:59] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 00:59:59] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 01:02:14] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 01:02:14] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 01:02:29] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 01:02:29] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 01:02:44] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 01:02:44] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 01:04:14] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 01:04:14] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 01:04:29] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 01:04:29] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 01:04:44] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 01:04:44] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 01:04:59] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 01:04:59] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 01:05:14] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 01:05:14] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 01:05:29] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 01:05:29] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 01:05:44] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 01:05:44] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 01:06:14] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 01:06:14] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 01:06:29] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 01:06:29] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/26 01:07:06] [I/O] IOException sending to naga-h3.local/192.168.8.133:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/08/26 01:07:06] [I/O] Recovered connectivity to naga-h3.local/192.168.8.133:6454
+[LX 2024/08/26 01:07:21] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/26 01:07:21] Project saved successfully to /Users/drummel/Chromatik/Projects/naga-cool-sparkle.lxp
+[LX 2024/08/26 01:08:56] [I/O] IOException sending to naga-h3.local/192.168.8.133:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/08/26 01:08:56] [I/O] Recovered connectivity to naga-h3.local/192.168.8.133:6454
+[LX 2024/08/26 01:11:09] [I/O] IOException sending to naga-h3.local/192.168.8.133:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/08/26 01:11:09] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/26 01:11:09] [I/O] Recovered connectivity to naga-h3.local/192.168.8.133:6454
+[LX 2024/08/26 01:18:39] [I/O] IOException sending to naga-h3.local/192.168.8.133:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/08/26 01:18:39] [I/O] Recovered connectivity to naga-h3.local/192.168.8.133:6454
+[LX 2024/08/26 01:18:43] [I/O] IOException sending to naga-h3.local/192.168.8.133:6454 (No route to host), will initiate backoff after 3 consecutive failures
+[LX 2024/08/26 01:18:43] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/26 01:18:43] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 100ms (4 consecutive failures)
+[LX 2024/08/26 01:18:43] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 200ms (5 consecutive failures)
+[LX 2024/08/26 01:18:43] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 400ms (6 consecutive failures)
+[LX 2024/08/26 01:18:44] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 800ms (7 consecutive failures)
+[LX 2024/08/26 01:18:45] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (8 consecutive failures)
+[LX 2024/08/26 01:18:46] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (9 consecutive failures)
+[LX 2024/08/26 01:18:48] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (10 consecutive failures)
+[LX 2024/08/26 01:18:49] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (11 consecutive failures)
+[LX 2024/08/26 01:18:51] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (12 consecutive failures)
+[LX 2024/08/26 01:18:53] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (13 consecutive failures)
+[LX 2024/08/26 01:18:54] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (14 consecutive failures)
+[LX 2024/08/26 01:18:56] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (15 consecutive failures)
+[LX 2024/08/26 01:18:57] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (16 consecutive failures)
+[LX 2024/08/26 01:18:59] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (17 consecutive failures)
+[LX 2024/08/26 01:19:01] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (18 consecutive failures)
+[LX 2024/08/26 01:19:02] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (19 consecutive failures)
+[LX 2024/08/26 01:19:04] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (20 consecutive failures)
+[LX 2024/08/26 01:19:06] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (21 consecutive failures)
+[LX 2024/08/26 01:19:07] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (22 consecutive failures)
+[LX 2024/08/26 01:19:09] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (23 consecutive failures)
+[LX 2024/08/26 01:19:10] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (24 consecutive failures)
+[LX 2024/08/26 01:19:12] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (25 consecutive failures)
+[LX 2024/08/26 01:19:14] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (26 consecutive failures)
+[LX 2024/08/26 01:19:15] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (27 consecutive failures)
+[LX 2024/08/26 01:19:17] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (28 consecutive failures)
+[LX 2024/08/26 01:19:18] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (29 consecutive failures)
+[LX 2024/08/26 01:19:20] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (30 consecutive failures)
+[LX 2024/08/26 01:19:22] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (31 consecutive failures)
+[LX 2024/08/26 01:19:23] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (32 consecutive failures)
+[LX 2024/08/26 01:19:25] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (33 consecutive failures)
+[LX 2024/08/26 01:19:27] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (34 consecutive failures)
+[LX 2024/08/26 01:19:28] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (35 consecutive failures)
+[LX 2024/08/26 01:19:30] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (36 consecutive failures)
+[LX 2024/08/26 01:19:31] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (37 consecutive failures)
+[LX 2024/08/26 01:19:33] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (38 consecutive failures)
+[LX 2024/08/26 01:36:27] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (39 consecutive failures)
+[LX 2024/08/26 01:36:29] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (40 consecutive failures)
+[LX 2024/08/26 01:36:31] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (41 consecutive failures)
+[LX 2024/08/26 01:36:32] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (42 consecutive failures)
+[LX 2024/08/26 02:02:35] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (43 consecutive failures)
+[LX 2024/08/26 02:02:37] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (44 consecutive failures)
+[LX 2024/08/26 02:02:38] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (45 consecutive failures)
+[LX 2024/08/26 02:02:40] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (46 consecutive failures)
+[LX 2024/08/26 02:08:15] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (47 consecutive failures)
+[LX 2024/08/26 02:08:16] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (48 consecutive failures)
+[LX 2024/08/26 02:08:18] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (49 consecutive failures)
+[LX 2024/08/26 02:08:20] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (50 consecutive failures)
+[LX 2024/08/26 02:08:21] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (51 consecutive failures)
+[LX 2024/08/26 02:13:54] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (52 consecutive failures)
+[LX 2024/08/26 02:13:56] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (53 consecutive failures)
+[LX 2024/08/26 02:13:57] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (54 consecutive failures)
+[LX 2024/08/26 02:13:59] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (55 consecutive failures)
+[LX 2024/08/26 02:14:00] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (56 consecutive failures)
+[LX 2024/08/26 02:19:19] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (57 consecutive failures)
+[LX 2024/08/26 02:19:20] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (58 consecutive failures)
+[LX 2024/08/26 02:19:22] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (59 consecutive failures)
+[LX 2024/08/26 02:19:24] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (60 consecutive failures)
+[LX 2024/08/26 02:19:25] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (61 consecutive failures)
+[LX 2024/08/26 02:19:27] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (62 consecutive failures)
+[LX 2024/08/26 02:19:28] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (63 consecutive failures)
+[LX 2024/08/26 02:20:14] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (64 consecutive failures)
+[LX 2024/08/26 02:20:15] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (65 consecutive failures)
+[LX 2024/08/26 02:20:17] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (66 consecutive failures)
+[LX 2024/08/26 02:20:19] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (67 consecutive failures)
+[LX 2024/08/26 02:20:20] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (68 consecutive failures)
+[LX 2024/08/26 02:24:18] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (69 consecutive failures)
+[LX 2024/08/26 02:24:20] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (70 consecutive failures)
+[LX 2024/08/26 02:24:21] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (71 consecutive failures)
+[LX 2024/08/26 02:24:23] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (72 consecutive failures)
+[LX 2024/08/26 02:24:25] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (73 consecutive failures)
+[LX 2024/08/26 02:25:57] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (74 consecutive failures)
+[LX 2024/08/26 02:25:58] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (75 consecutive failures)
+[LX 2024/08/26 02:26:00] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (76 consecutive failures)
+[LX 2024/08/26 02:26:02] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (77 consecutive failures)
+[LX 2024/08/26 02:26:03] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (78 consecutive failures)
+[LX 2024/08/26 02:41:41] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (79 consecutive failures)
+[LX 2024/08/26 02:41:43] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (80 consecutive failures)
+[LX 2024/08/26 02:41:44] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (81 consecutive failures)
+[LX 2024/08/26 02:41:46] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (82 consecutive failures)
+[LX 2024/08/26 02:41:48] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (83 consecutive failures)
+[LX 2024/08/26 02:57:23] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (84 consecutive failures)
+[LX 2024/08/26 02:57:25] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (85 consecutive failures)
+[LX 2024/08/26 02:57:26] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (86 consecutive failures)
+[LX 2024/08/26 02:57:28] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (87 consecutive failures)
+[LX 2024/08/26 03:12:52] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (88 consecutive failures)
+[LX 2024/08/26 03:12:54] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (89 consecutive failures)
+[LX 2024/08/26 03:12:55] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (90 consecutive failures)
+[LX 2024/08/26 03:12:57] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (91 consecutive failures)
+[LX 2024/08/26 03:20:21] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (92 consecutive failures)
+[LX 2024/08/26 03:20:23] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (93 consecutive failures)
+[LX 2024/08/26 03:20:24] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (94 consecutive failures)
+[LX 2024/08/26 03:20:26] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (95 consecutive failures)
+[LX 2024/08/26 03:20:28] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (96 consecutive failures)
+[LX 2024/08/26 03:30:01] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (97 consecutive failures)
+[LX 2024/08/26 03:30:03] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (98 consecutive failures)
+[LX 2024/08/26 03:30:04] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (99 consecutive failures)
+[LX 2024/08/26 03:30:06] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (100 consecutive failures)
+[LX 2024/08/26 03:30:07] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (101 consecutive failures)
+[LX 2024/08/26 03:30:09] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (102 consecutive failures)
+[LX 2024/08/26 03:30:11] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (103 consecutive failures)
+[LX 2024/08/26 03:30:12] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (104 consecutive failures)
+[LX 2024/08/26 03:47:02] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (105 consecutive failures)
+[LX 2024/08/26 03:47:04] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (106 consecutive failures)
+[LX 2024/08/26 03:47:05] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (107 consecutive failures)
+[LX 2024/08/26 03:47:07] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (108 consecutive failures)
+[LX 2024/08/26 04:04:07] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (109 consecutive failures)
+[LX 2024/08/26 04:04:09] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (110 consecutive failures)
+[LX 2024/08/26 04:04:10] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (111 consecutive failures)
+[LX 2024/08/26 04:04:12] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (112 consecutive failures)
+[LX 2024/08/26 04:19:42] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (113 consecutive failures)
+[LX 2024/08/26 04:19:44] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (114 consecutive failures)
+[LX 2024/08/26 04:19:45] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (115 consecutive failures)
+[LX 2024/08/26 04:19:47] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (116 consecutive failures)
+[LX 2024/08/26 04:21:20] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (117 consecutive failures)
+[LX 2024/08/26 04:21:22] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (118 consecutive failures)
+[LX 2024/08/26 04:21:23] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (119 consecutive failures)
+[LX 2024/08/26 04:21:25] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (120 consecutive failures)
+[LX 2024/08/26 04:21:27] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (121 consecutive failures)
+[LX 2024/08/26 04:36:53] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (122 consecutive failures)
+[LX 2024/08/26 04:36:55] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (123 consecutive failures)
+[LX 2024/08/26 04:36:56] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (124 consecutive failures)
+[LX 2024/08/26 04:36:58] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (125 consecutive failures)
+[LX 2024/08/26 04:59:33] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (126 consecutive failures)
+[LX 2024/08/26 04:59:35] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (127 consecutive failures)
+[LX 2024/08/26 04:59:36] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (128 consecutive failures)
+[LX 2024/08/26 04:59:38] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (129 consecutive failures)
+[LX 2024/08/26 05:22:19] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (130 consecutive failures)
+[LX 2024/08/26 05:22:21] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (131 consecutive failures)
+[LX 2024/08/26 05:22:22] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (132 consecutive failures)
+[LX 2024/08/26 05:22:24] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (133 consecutive failures)
+[LX 2024/08/26 05:22:25] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (134 consecutive failures)
+[LX 2024/08/26 05:22:27] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (135 consecutive failures)
+[LX 2024/08/26 05:22:29] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (136 consecutive failures)
+[LX 2024/08/26 05:22:31] [I/O] Recovered connectivity to naga-h3.local/192.168.8.133:6454
+[LX 2024/08/26 11:01:26] [I/O] IOException sending to naga-h3.local/192.168.8.133:6454 (Network is unreachable), will initiate backoff after 3 consecutive failures
+[LX 2024/08/26 11:01:26] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/26 11:01:26] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 100ms (4 consecutive failures)
+[LX 2024/08/26 11:01:26] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 200ms (5 consecutive failures)
+[LX 2024/08/26 11:01:27] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 400ms (6 consecutive failures)
+[LX 2024/08/26 11:01:27] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 800ms (7 consecutive failures)
+[LX 2024/08/26 11:01:28] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (8 consecutive failures)
+[LX 2024/08/26 11:01:29] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (9 consecutive failures)
+[LX 2024/08/26 11:01:31] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (10 consecutive failures)
+[LX 2024/08/26 11:01:33] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (11 consecutive failures)
+[LX 2024/08/26 11:01:34] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (12 consecutive failures)
+[LX 2024/08/26 11:01:36] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (13 consecutive failures)
+[LX 2024/08/26 11:01:37] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (14 consecutive failures)
+[LX 2024/08/26 11:17:09] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (15 consecutive failures)
+[LX 2024/08/26 11:17:10] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (16 consecutive failures)
+[LX 2024/08/26 11:17:12] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (17 consecutive failures)
+[LX 2024/08/26 11:17:13] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (18 consecutive failures)
+[LX 2024/08/26 11:28:09] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (19 consecutive failures)
+[LX 2024/08/26 11:28:10] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (20 consecutive failures)
+[LX 2024/08/26 11:28:12] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (21 consecutive failures)
+[LX 2024/08/26 11:28:13] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (22 consecutive failures)
+[LX 2024/08/26 11:28:15] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (23 consecutive failures)
+[LX 2024/08/26 11:28:17] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (24 consecutive failures)
+[LX 2024/08/26 11:28:18] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (25 consecutive failures)
+[LX 2024/08/26 11:34:30] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (26 consecutive failures)
+[LX 2024/08/26 11:34:32] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (27 consecutive failures)
+[LX 2024/08/26 11:34:34] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (28 consecutive failures)
+[LX 2024/08/26 11:34:35] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (29 consecutive failures)
+[LX 2024/08/26 11:34:37] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (30 consecutive failures)
+[LX 2024/08/26 11:34:38] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (31 consecutive failures)
+[LX 2024/08/26 11:34:40] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (32 consecutive failures)
+[LX 2024/08/26 11:34:42] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (33 consecutive failures)
+[LX 2024/08/26 11:34:43] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (34 consecutive failures)
+[LX 2024/08/26 11:34:45] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (35 consecutive failures)
+[LX 2024/08/26 11:34:46] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (36 consecutive failures)
+[LX 2024/08/26 11:34:48] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (37 consecutive failures)
+[LX 2024/08/26 11:34:50] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (38 consecutive failures)
+[LX 2024/08/26 11:34:51] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (39 consecutive failures)
+[LX 2024/08/26 11:34:53] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (40 consecutive failures)
+[LX 2024/08/26 11:34:55] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (41 consecutive failures)
+[LX 2024/08/26 11:34:56] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (42 consecutive failures)
+[LX 2024/08/26 11:34:58] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (43 consecutive failures)
+[LX 2024/08/26 11:34:59] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (44 consecutive failures)
+[LX 2024/08/26 11:35:01] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (45 consecutive failures)
+[LX 2024/08/26 11:35:03] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (46 consecutive failures)
+[LX 2024/08/26 11:35:04] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (47 consecutive failures)
+[LX 2024/08/26 11:35:06] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (48 consecutive failures)
+[LX 2024/08/26 11:35:07] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (49 consecutive failures)
+[LX 2024/08/26 11:35:09] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (50 consecutive failures)
+[LX 2024/08/26 11:35:11] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (51 consecutive failures)
+[LX 2024/08/26 11:35:12] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (52 consecutive failures)
+[LX 2024/08/26 11:35:14] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (53 consecutive failures)
+[LX 2024/08/26 11:35:15] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (54 consecutive failures)
+[LX 2024/08/26 11:35:17] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (55 consecutive failures)
+[LX 2024/08/26 11:35:19] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (56 consecutive failures)
+[LX 2024/08/26 11:35:20] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (57 consecutive failures)
+[LX 2024/08/26 11:35:22] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (58 consecutive failures)
+[LX 2024/08/26 11:35:23] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (59 consecutive failures)
+[LX 2024/08/26 11:35:25] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (60 consecutive failures)
+[LX 2024/08/26 11:35:27] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (61 consecutive failures)
+[LX 2024/08/26 11:35:28] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (62 consecutive failures)
+[LX 2024/08/26 11:35:30] [I/O] Retrying naga-h3.local/192.168.8.133:6454 in 1600ms (63 consecutive failures)
+[GLX 2024/08/26 11:35:30] Stopping LX engine...
+[LX 2024/08/26 11:35:30] LXEngine.ExecutorService has finished.
+[LX 2024/08/26 11:35:30] [MIDI] LXMidiEngine Device Update Thread finished.
+[GLX 2024/08/26 11:35:30] Done with main thread, GLX shutdown complete. Thanks for playing. <3

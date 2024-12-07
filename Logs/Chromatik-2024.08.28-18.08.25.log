@@ -1,0 +1,54 @@
+[Chromatik 2024/08/28 18:08:25] Starting Chromatik version 1.0.0
+[Chromatik 2024/08/28 18:08:25] Running java 17.0.9 Eclipse Adoptium Mac OS X 14.1.2 aarch64
+[Chromatik 2024/08/28 18:08:25] Licensed to Daniel Rummel <drummel@gmail.com> - version 1.0.0 FREE - heronarts.lx.core
+[LX 2024/08/28 18:08:25] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/28 18:08:25] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/28 18:08:25] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[GLX 2024/08/28 18:08:26] GLX monitorWorkarea: size(1440x900), pos(x:0,y:0)
+[GLX 2024/08/28 18:08:26] GLX createWindow: 1440x872
+[GLX 2024/08/28 18:08:26] GLX systemContentScale: 2.0x2.0
+[GLX 2024/08/28 18:08:26] GLX windowSize: 1440x872
+[GLX 2024/08/28 18:08:26] GLX setWindowPos: 0,28
+[GLX 2024/08/28 18:08:26] GLX framebufferSize: 2880x1744
+[GLX 2024/08/28 18:08:26] GLX uiSize: 1440.0x872.0
+[GLX 2024/08/28 18:08:26] GLX cursorScale: 1.0x1.0
+[GLX 2024/08/28 18:08:26] Using BGFX renderer: Metal
+[GLX 2024/08/28 18:08:26] Starting LX Engine...
+[LX 2024/08/28 18:08:26] LXEngine.ExecutorService starting...
+[GLX 2024/08/28 18:08:26] Bootstrap complete, running main loop.
+[LX 2024/08/28 18:08:26] Opening project file: /Users/drummel/Chromatik/Projects/naga-cool-sparkle.lxp
+[LX 2024/08/28 18:08:31] [I/O] Unknown host for fixture datagram: naga-head.local: nodename nor servname provided, or not known
+[LX 2024/08/28 18:08:36] [I/O] Unknown host for fixture datagram: naga-h1.local: nodename nor servname provided, or not known
+[LX 2024/08/28 18:08:41] [I/O] Unknown host for fixture datagram: naga-h2.local: nodename nor servname provided, or not known
+[LX 2024/08/28 18:08:46] [I/O] Unknown host for fixture datagram: naga-h3.local: nodename nor servname provided, or not known
+[LX 2024/08/28 18:08:51] [I/O] Unknown host for fixture datagram: naga-tail.local: nodename nor servname provided, or not known
+[LX 2024/08/28 18:08:56] [I/O] Unknown host for fixture datagram: naga-head.local: nodename nor servname provided, or not known
+[LX 2024/08/28 18:08:56] [I/O] Unknown host for fixture datagram: naga-head.local
+[LX 2024/08/28 18:08:56] [I/O] Unknown host for fixture datagram: naga-head.local
+[LX 2024/08/28 18:09:01] [I/O] Unknown host for fixture datagram: naga-h1.local: nodename nor servname provided, or not known
+[LX 2024/08/28 18:09:06] [I/O] Unknown host for fixture datagram: naga-h2.local: nodename nor servname provided, or not known
+[LX 2024/08/28 18:09:11] [I/O] Unknown host for fixture datagram: naga-h3.local: nodename nor servname provided, or not known
+[LX 2024/08/28 18:09:16] [I/O] Unknown host for fixture datagram: naga-tail.local: nodename nor servname provided, or not known
+[LX 2024/08/28 18:09:21] [I/O] Unknown host for fixture datagram: naga-head.local: nodename nor servname provided, or not known
+[LX 2024/08/28 18:09:21] [I/O] Unknown host for fixture datagram: naga-head.local
+[LX 2024/08/28 18:09:21] [I/O] Unknown host for fixture datagram: naga-head.local
+[LX 2024/08/28 18:09:26] [I/O] Unknown host for fixture datagram: naga-h1.local: nodename nor servname provided, or not known
+[LX 2024/08/28 18:09:31] [I/O] Unknown host for fixture datagram: naga-h2.local: nodename nor servname provided, or not known
+[LX 2024/08/28 18:09:36] [I/O] Unknown host for fixture datagram: naga-h3.local: nodename nor servname provided, or not known
+[LX 2024/08/28 18:09:41] [I/O] Unknown host for fixture datagram: naga-tail.local: nodename nor servname provided, or not known
+[LX 2024/08/28 18:09:41] Project loaded successfully from /Users/drummel/Chromatik/Projects/naga-cool-sparkle.lxp
+[LX 2024/08/28 18:09:41] System.nanoTime() clock moved over 60s in a frame, resetting clock timer: 1573495246472500
+[LX 2024/08/28 18:11:11] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/28 18:11:11] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/28 18:23:01] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/28 18:23:01] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/28 18:23:16] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/28 18:23:16] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/28 18:23:31] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/28 18:23:31] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/08/28 21:29:08] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/08/28 21:29:08] Project saved successfully to /Users/drummel/Chromatik/Projects/naga-cool-sparkle.lxp
+[GLX 2024/08/28 21:29:10] Stopping LX engine...
+[LX 2024/08/28 21:29:10] LXEngine.ExecutorService has finished.
+[LX 2024/08/28 21:29:10] [MIDI] LXMidiEngine Device Update Thread finished.
+[GLX 2024/08/28 21:29:10] Done with main thread, GLX shutdown complete. Thanks for playing. <3

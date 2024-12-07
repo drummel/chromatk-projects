@@ -1,0 +1,285 @@
+[Chromatik 2024/10/12 15:53:49] Starting Chromatik version 1.0.0
+[Chromatik 2024/10/12 15:53:49] Running java 17.0.9 Eclipse Adoptium Mac OS X 14.1.2 aarch64
+[Chromatik 2024/10/12 15:53:49] Licensed to Daniel Rummel <drummel@gmail.com> - version 1.0.0 FREE - heronarts.lx.core
+[LX 2024/10/12 15:53:49] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/10/12 15:53:49] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/10/12 15:53:49] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[GLX 2024/10/12 15:53:50] GLX monitorWorkarea: size(1440x900), pos(x:0,y:0)
+[GLX 2024/10/12 15:53:50] GLX createWindow: 1440x872
+[GLX 2024/10/12 15:53:50] GLX systemContentScale: 2.0x2.0
+[GLX 2024/10/12 15:53:50] GLX windowSize: 1440x872
+[GLX 2024/10/12 15:53:50] GLX setWindowPos: 0,28
+[GLX 2024/10/12 15:53:50] GLX framebufferSize: 2880x1744
+[GLX 2024/10/12 15:53:50] GLX uiSize: 1252.174x758.26086
+[GLX 2024/10/12 15:53:50] GLX cursorScale: 0.86956525x0.8695652
+[GLX 2024/10/12 15:53:50] Using BGFX renderer: Metal
+[GLX 2024/10/12 15:53:50] Starting LX Engine...
+[LX 2024/10/12 15:53:50] LXEngine.ExecutorService starting...
+[GLX 2024/10/12 15:53:50] Bootstrap complete, running main loop.
+[LX 2024/10/12 15:53:50] Opening project file: /Users/drummel/Chromatik/Projects/naga-cool-sparkle.lxp
+[LX 2024/10/12 15:53:55] [I/O] Unknown host for fixture datagram: naga-head.local: nodename nor servname provided, or not known
+[LX 2024/10/12 15:54:00] [I/O] Unknown host for fixture datagram: naga-h1.local: nodename nor servname provided, or not known
+[LX 2024/10/12 15:54:05] [I/O] Unknown host for fixture datagram: naga-h2.local: nodename nor servname provided, or not known
+[LX 2024/10/12 15:54:10] [I/O] Unknown host for fixture datagram: naga-h3.local: nodename nor servname provided, or not known
+[LX 2024/10/12 15:54:15] [I/O] Unknown host for fixture datagram: naga-tail.local: nodename nor servname provided, or not known
+[LX 2024/10/12 15:54:20] [I/O] Unknown host for fixture datagram: naga-head.local: nodename nor servname provided, or not known
+[LX 2024/10/12 15:54:20] [I/O] Unknown host for fixture datagram: naga-head.local
+[LX 2024/10/12 15:54:20] [I/O] Unknown host for fixture datagram: naga-head.local
+[LX 2024/10/12 15:54:25] [I/O] Unknown host for fixture datagram: naga-h1.local: nodename nor servname provided, or not known
+[LX 2024/10/12 15:54:30] [I/O] Unknown host for fixture datagram: naga-h2.local: nodename nor servname provided, or not known
+[LX 2024/10/12 15:54:35] [I/O] Unknown host for fixture datagram: naga-h3.local: nodename nor servname provided, or not known
+[LX 2024/10/12 15:54:40] [I/O] Unknown host for fixture datagram: naga-tail.local: nodename nor servname provided, or not known
+[LX 2024/10/12 15:54:50] [I/O] Unknown host for fixture datagram: naga-h1.local: nodename nor servname provided, or not known
+[LX 2024/10/12 15:54:55] [I/O] Unknown host for fixture datagram: naga-h2.local: nodename nor servname provided, or not known
+[LX 2024/10/12 15:55:00] [I/O] Unknown host for fixture datagram: naga-h3.local: nodename nor servname provided, or not known
+[LX 2024/10/12 15:55:05] [I/O] Unknown host for fixture datagram: naga-tail.local: nodename nor servname provided, or not known
+[LX 2024/10/12 15:55:05] Project loaded successfully from /Users/drummel/Chromatik/Projects/naga-cool-sparkle.lxp
+[LX 2024/10/12 15:55:05] System.nanoTime() clock moved over 60s in a frame, resetting clock timer: 35740952183958
+[LX 2024/10/12 15:55:05] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/10/12 15:55:05] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/10/12 15:59:05] [I/O] IOException sending to naga-head.local/192.168.91.250:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/10/12 15:59:05] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 50ms (3 consecutive failures)
+[LX 2024/10/12 15:59:05] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 100ms (4 consecutive failures)
+[LX 2024/10/12 15:59:05] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 200ms (5 consecutive failures)
+[LX 2024/10/12 15:59:05] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 400ms (6 consecutive failures)
+[LX 2024/10/12 15:59:06] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 800ms (7 consecutive failures)
+[LX 2024/10/12 15:59:07] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (8 consecutive failures)
+[LX 2024/10/12 15:59:08] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (9 consecutive failures)
+[LX 2024/10/12 15:59:10] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (10 consecutive failures)
+[LX 2024/10/12 15:59:12] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (11 consecutive failures)
+[LX 2024/10/12 15:59:13] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (12 consecutive failures)
+[LX 2024/10/12 15:59:15] [I/O] Recovered connectivity to naga-head.local/192.168.91.250:6454
+[LX 2024/10/12 16:00:18] [I/O] IOException sending to naga-head.local/192.168.91.250:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/10/12 16:00:18] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 50ms (3 consecutive failures)
+[LX 2024/10/12 16:00:18] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 100ms (4 consecutive failures)
+[LX 2024/10/12 16:00:18] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 200ms (5 consecutive failures)
+[LX 2024/10/12 16:00:18] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 400ms (6 consecutive failures)
+[LX 2024/10/12 16:00:19] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 800ms (7 consecutive failures)
+[LX 2024/10/12 16:00:20] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (8 consecutive failures)
+[LX 2024/10/12 16:00:21] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (9 consecutive failures)
+[LX 2024/10/12 16:00:23] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (10 consecutive failures)
+[LX 2024/10/12 16:00:24] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (11 consecutive failures)
+[LX 2024/10/12 16:00:26] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (12 consecutive failures)
+[LX 2024/10/12 16:00:28] [I/O] Recovered connectivity to naga-head.local/192.168.91.250:6454
+[LX 2024/10/12 16:01:31] [I/O] IOException sending to naga-head.local/192.168.91.250:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/10/12 16:01:31] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 50ms (3 consecutive failures)
+[LX 2024/10/12 16:01:31] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 100ms (4 consecutive failures)
+[LX 2024/10/12 16:01:31] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 200ms (5 consecutive failures)
+[LX 2024/10/12 16:01:31] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 400ms (6 consecutive failures)
+[LX 2024/10/12 16:01:32] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 800ms (7 consecutive failures)
+[LX 2024/10/12 16:01:33] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (8 consecutive failures)
+[LX 2024/10/12 16:01:34] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (9 consecutive failures)
+[LX 2024/10/12 16:01:36] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (10 consecutive failures)
+[LX 2024/10/12 16:01:37] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (11 consecutive failures)
+[LX 2024/10/12 16:01:39] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (12 consecutive failures)
+[LX 2024/10/12 16:01:41] [I/O] Recovered connectivity to naga-head.local/192.168.91.250:6454
+[LX 2024/10/12 16:02:44] [I/O] IOException sending to naga-head.local/192.168.91.250:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/10/12 16:02:44] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 50ms (3 consecutive failures)
+[LX 2024/10/12 16:02:44] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 100ms (4 consecutive failures)
+[LX 2024/10/12 16:02:44] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 200ms (5 consecutive failures)
+[LX 2024/10/12 16:02:44] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 400ms (6 consecutive failures)
+[LX 2024/10/12 16:02:45] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 800ms (7 consecutive failures)
+[LX 2024/10/12 16:02:46] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (8 consecutive failures)
+[LX 2024/10/12 16:02:47] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (9 consecutive failures)
+[LX 2024/10/12 16:02:49] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (10 consecutive failures)
+[LX 2024/10/12 16:02:51] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (11 consecutive failures)
+[LX 2024/10/12 16:02:52] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (12 consecutive failures)
+[LX 2024/10/12 16:02:54] [I/O] Recovered connectivity to naga-head.local/192.168.91.250:6454
+[LX 2024/10/12 16:03:57] [I/O] IOException sending to naga-head.local/192.168.91.250:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/10/12 16:03:57] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 50ms (3 consecutive failures)
+[LX 2024/10/12 16:03:57] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 100ms (4 consecutive failures)
+[LX 2024/10/12 16:03:57] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 200ms (5 consecutive failures)
+[LX 2024/10/12 16:03:57] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 400ms (6 consecutive failures)
+[LX 2024/10/12 16:03:58] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 800ms (7 consecutive failures)
+[LX 2024/10/12 16:03:59] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (8 consecutive failures)
+[LX 2024/10/12 16:04:00] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (9 consecutive failures)
+[LX 2024/10/12 16:04:02] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (10 consecutive failures)
+[LX 2024/10/12 16:04:04] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (11 consecutive failures)
+[LX 2024/10/12 16:04:05] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (12 consecutive failures)
+[LX 2024/10/12 16:04:07] [I/O] Recovered connectivity to naga-head.local/192.168.91.250:6454
+[LX 2024/10/12 16:05:10] [I/O] IOException sending to naga-head.local/192.168.91.250:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/10/12 16:05:10] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 50ms (3 consecutive failures)
+[LX 2024/10/12 16:05:10] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 100ms (4 consecutive failures)
+[LX 2024/10/12 16:05:10] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 200ms (5 consecutive failures)
+[LX 2024/10/12 16:05:10] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 400ms (6 consecutive failures)
+[LX 2024/10/12 16:05:11] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 800ms (7 consecutive failures)
+[LX 2024/10/12 16:05:12] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (8 consecutive failures)
+[LX 2024/10/12 16:05:13] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (9 consecutive failures)
+[LX 2024/10/12 16:05:15] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (10 consecutive failures)
+[LX 2024/10/12 16:05:17] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (11 consecutive failures)
+[LX 2024/10/12 16:05:18] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (12 consecutive failures)
+[LX 2024/10/12 16:05:20] [I/O] Recovered connectivity to naga-head.local/192.168.91.250:6454
+[LX 2024/10/12 16:06:23] [I/O] IOException sending to naga-head.local/192.168.91.250:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/10/12 16:06:23] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 50ms (3 consecutive failures)
+[LX 2024/10/12 16:06:23] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 100ms (4 consecutive failures)
+[LX 2024/10/12 16:06:23] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 200ms (5 consecutive failures)
+[LX 2024/10/12 16:06:23] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 400ms (6 consecutive failures)
+[LX 2024/10/12 16:06:24] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 800ms (7 consecutive failures)
+[LX 2024/10/12 16:06:25] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (8 consecutive failures)
+[LX 2024/10/12 16:06:26] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (9 consecutive failures)
+[LX 2024/10/12 16:06:28] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (10 consecutive failures)
+[LX 2024/10/12 16:06:30] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (11 consecutive failures)
+[LX 2024/10/12 16:06:31] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (12 consecutive failures)
+[LX 2024/10/12 16:06:33] [I/O] Recovered connectivity to naga-head.local/192.168.91.250:6454
+[LX 2024/10/12 16:07:35] [I/O] IOException sending to naga-head.local/192.168.91.250:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/10/12 16:07:35] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 50ms (3 consecutive failures)
+[LX 2024/10/12 16:07:35] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 100ms (4 consecutive failures)
+[LX 2024/10/12 16:07:35] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 200ms (5 consecutive failures)
+[LX 2024/10/12 16:07:35] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 400ms (6 consecutive failures)
+[LX 2024/10/12 16:07:36] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 800ms (7 consecutive failures)
+[LX 2024/10/12 16:07:37] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (8 consecutive failures)
+[LX 2024/10/12 16:07:38] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (9 consecutive failures)
+[LX 2024/10/12 16:07:40] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (10 consecutive failures)
+[LX 2024/10/12 16:07:41] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (11 consecutive failures)
+[LX 2024/10/12 16:08:34] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (12 consecutive failures)
+[LX 2024/10/12 16:08:36] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (13 consecutive failures)
+[LX 2024/10/12 16:08:37] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (14 consecutive failures)
+[LX 2024/10/12 16:08:39] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (15 consecutive failures)
+[LX 2024/10/12 16:08:41] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (16 consecutive failures)
+[LX 2024/10/12 16:09:25] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (17 consecutive failures)
+[LX 2024/10/12 16:09:27] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (18 consecutive failures)
+[LX 2024/10/12 16:09:28] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (19 consecutive failures)
+[LX 2024/10/12 16:09:30] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (20 consecutive failures)
+[LX 2024/10/12 16:09:31] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (21 consecutive failures)
+[LX 2024/10/12 16:26:02] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (22 consecutive failures)
+[LX 2024/10/12 16:26:04] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (23 consecutive failures)
+[LX 2024/10/12 16:26:05] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (24 consecutive failures)
+[LX 2024/10/12 16:26:07] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (25 consecutive failures)
+[LX 2024/10/12 16:26:08] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (26 consecutive failures)
+[LX 2024/10/12 16:26:10] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (27 consecutive failures)
+[LX 2024/10/12 16:26:12] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (28 consecutive failures)
+[LX 2024/10/12 16:26:13] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (29 consecutive failures)
+[LX 2024/10/12 16:26:15] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (30 consecutive failures)
+[LX 2024/10/12 16:26:16] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (31 consecutive failures)
+[LX 2024/10/12 16:26:18] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (32 consecutive failures)
+[LX 2024/10/12 16:26:20] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (33 consecutive failures)
+[LX 2024/10/12 16:26:21] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (34 consecutive failures)
+[LX 2024/10/12 16:26:23] [I/O] Recovered connectivity to naga-head.local/192.168.91.250:6454
+[LX 2024/10/12 16:29:42] [I/O] IOException sending to naga-head.local/192.168.91.250:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/10/12 16:29:42] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 50ms (3 consecutive failures)
+[LX 2024/10/12 16:29:42] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 100ms (4 consecutive failures)
+[LX 2024/10/12 16:29:42] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 200ms (5 consecutive failures)
+[LX 2024/10/12 16:29:42] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 400ms (6 consecutive failures)
+[LX 2024/10/12 16:29:43] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 800ms (7 consecutive failures)
+[LX 2024/10/12 16:29:44] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (8 consecutive failures)
+[LX 2024/10/12 16:29:45] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (9 consecutive failures)
+[LX 2024/10/12 16:29:47] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (10 consecutive failures)
+[LX 2024/10/12 16:29:48] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (11 consecutive failures)
+[LX 2024/10/12 16:29:50] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (12 consecutive failures)
+[LX 2024/10/12 16:29:52] [I/O] Recovered connectivity to naga-head.local/192.168.91.250:6454
+[LX 2024/10/12 16:30:55] [I/O] IOException sending to naga-head.local/192.168.91.250:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/10/12 16:30:55] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 50ms (3 consecutive failures)
+[LX 2024/10/12 16:30:55] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 100ms (4 consecutive failures)
+[LX 2024/10/12 16:30:55] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 200ms (5 consecutive failures)
+[LX 2024/10/12 16:30:55] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 400ms (6 consecutive failures)
+[LX 2024/10/12 16:30:56] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 800ms (7 consecutive failures)
+[LX 2024/10/12 16:30:57] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (8 consecutive failures)
+[LX 2024/10/12 16:30:58] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (9 consecutive failures)
+[LX 2024/10/12 16:31:00] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (10 consecutive failures)
+[LX 2024/10/12 16:31:01] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (11 consecutive failures)
+[LX 2024/10/12 16:31:03] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (12 consecutive failures)
+[LX 2024/10/12 16:31:05] [I/O] Recovered connectivity to naga-head.local/192.168.91.250:6454
+[LX 2024/10/12 16:32:08] [I/O] IOException sending to naga-head.local/192.168.91.250:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/10/12 16:32:08] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 50ms (3 consecutive failures)
+[LX 2024/10/12 16:32:08] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 100ms (4 consecutive failures)
+[LX 2024/10/12 16:32:08] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 200ms (5 consecutive failures)
+[LX 2024/10/12 16:32:08] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 400ms (6 consecutive failures)
+[LX 2024/10/12 16:32:09] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 800ms (7 consecutive failures)
+[LX 2024/10/12 16:32:10] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (8 consecutive failures)
+[LX 2024/10/12 16:32:11] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (9 consecutive failures)
+[LX 2024/10/12 16:32:13] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (10 consecutive failures)
+[LX 2024/10/12 16:32:14] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (11 consecutive failures)
+[LX 2024/10/12 16:32:16] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (12 consecutive failures)
+[LX 2024/10/12 16:32:18] [I/O] Recovered connectivity to naga-head.local/192.168.91.250:6454
+[LX 2024/10/12 16:32:20] Calls to DatagramSocket.send() appear to be unexpectedly blocking, you may be sending to an unresolvable address or network queues may be saturated. If you are on Linux/Raspberry-Pi, consult the following URL for guidance on relevant kernel parameters: https://github.com/heronarts/LXStudio/wiki/Raspberry-Pi
+[LX 2024/10/12 16:32:59] [I/O] IOException sending to naga-head.local/192.168.91.250:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/10/12 16:32:59] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 50ms (3 consecutive failures)
+[LX 2024/10/12 16:32:59] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 100ms (4 consecutive failures)
+[LX 2024/10/12 16:33:00] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 200ms (5 consecutive failures)
+[LX 2024/10/12 16:33:00] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 400ms (6 consecutive failures)
+[LX 2024/10/12 16:33:00] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 800ms (7 consecutive failures)
+[LX 2024/10/12 16:33:01] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (8 consecutive failures)
+[LX 2024/10/12 16:33:03] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (9 consecutive failures)
+[LX 2024/10/12 16:33:04] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (10 consecutive failures)
+[LX 2024/10/12 16:33:06] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (11 consecutive failures)
+[LX 2024/10/12 16:33:07] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (12 consecutive failures)
+[LX 2024/10/12 16:33:09] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (13 consecutive failures)
+[LX 2024/10/12 16:33:11] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (14 consecutive failures)
+[LX 2024/10/12 16:33:12] [I/O] Recovered connectivity to naga-head.local/192.168.91.250:6454
+[LX 2024/10/12 16:33:29] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/10/12 16:33:29] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/10/12 16:33:44] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/10/12 16:33:44] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/10/12 16:33:59] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/10/12 16:33:59] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/10/12 16:34:06] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/10/12 16:34:06] Project saved successfully to /Users/drummel/Chromatik/Projects/naga-cool-sparkle.lxp
+[LX 2024/10/12 16:34:16] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/10/12 16:34:16] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/10/12 16:34:27] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/10/12 16:34:27] Project saved successfully to /Users/drummel/Chromatik/Projects/naga-cool-sparkle.lxp
+[LX 2024/10/12 16:34:31] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/10/12 16:34:31] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/10/12 16:34:46] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/10/12 16:34:46] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/10/12 16:35:01] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/10/12 16:35:01] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/10/12 16:35:31] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/10/12 16:35:31] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/10/12 16:39:13] [I/O] IOException sending to naga-head.local/192.168.91.250:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/10/12 16:39:13] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 50ms (3 consecutive failures)
+[LX 2024/10/12 16:39:13] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 100ms (4 consecutive failures)
+[LX 2024/10/12 16:39:13] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 200ms (5 consecutive failures)
+[LX 2024/10/12 16:39:13] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 400ms (6 consecutive failures)
+[LX 2024/10/12 16:39:14] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 800ms (7 consecutive failures)
+[LX 2024/10/12 16:39:15] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (8 consecutive failures)
+[LX 2024/10/12 16:39:16] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (9 consecutive failures)
+[LX 2024/10/12 16:39:18] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (10 consecutive failures)
+[LX 2024/10/12 16:39:19] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (11 consecutive failures)
+[LX 2024/10/12 16:39:21] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (12 consecutive failures)
+[LX 2024/10/12 16:39:23] [I/O] Recovered connectivity to naga-head.local/192.168.91.250:6454
+[LX 2024/10/12 16:40:27] [I/O] IOException sending to naga-head.local/192.168.91.250:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/10/12 16:40:27] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 50ms (3 consecutive failures)
+[LX 2024/10/12 16:40:27] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 100ms (4 consecutive failures)
+[LX 2024/10/12 16:40:27] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 200ms (5 consecutive failures)
+[LX 2024/10/12 16:40:27] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 400ms (6 consecutive failures)
+[LX 2024/10/12 16:40:28] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 800ms (7 consecutive failures)
+[LX 2024/10/12 16:40:29] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (8 consecutive failures)
+[LX 2024/10/12 16:40:30] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (9 consecutive failures)
+[LX 2024/10/12 16:40:32] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (10 consecutive failures)
+[LX 2024/10/12 16:40:33] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (11 consecutive failures)
+[LX 2024/10/12 16:40:35] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (12 consecutive failures)
+[LX 2024/10/12 16:40:37] [I/O] Recovered connectivity to naga-head.local/192.168.91.250:6454
+[LX 2024/10/12 16:41:41] [I/O] IOException sending to naga-head.local/192.168.91.250:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/10/12 16:41:41] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 50ms (3 consecutive failures)
+[LX 2024/10/12 16:41:41] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 100ms (4 consecutive failures)
+[LX 2024/10/12 16:41:41] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 200ms (5 consecutive failures)
+[LX 2024/10/12 16:41:41] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 400ms (6 consecutive failures)
+[LX 2024/10/12 16:41:42] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 800ms (7 consecutive failures)
+[LX 2024/10/12 16:41:43] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (8 consecutive failures)
+[LX 2024/10/12 16:41:44] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (9 consecutive failures)
+[LX 2024/10/12 16:41:46] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (10 consecutive failures)
+[LX 2024/10/12 16:41:47] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (11 consecutive failures)
+[LX 2024/10/12 16:41:49] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (12 consecutive failures)
+[LX 2024/10/12 16:41:51] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (13 consecutive failures)
+[LX 2024/10/12 16:41:52] [I/O] Recovered connectivity to naga-head.local/192.168.91.250:6454
+[LX 2024/10/12 16:42:04] [I/O] IOException sending to naga-head.local/192.168.91.250:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/10/12 16:42:04] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 50ms (3 consecutive failures)
+[LX 2024/10/12 16:42:04] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 100ms (4 consecutive failures)
+[LX 2024/10/12 16:42:04] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 200ms (5 consecutive failures)
+[LX 2024/10/12 16:42:05] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 400ms (6 consecutive failures)
+[LX 2024/10/12 16:42:05] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 800ms (7 consecutive failures)
+[LX 2024/10/12 16:42:06] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (8 consecutive failures)
+[LX 2024/10/12 16:42:08] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (9 consecutive failures)
+[LX 2024/10/12 16:42:09] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (10 consecutive failures)
+[LX 2024/10/12 16:42:11] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (11 consecutive failures)
+[LX 2024/10/12 16:42:12] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (12 consecutive failures)
+[LX 2024/10/12 16:42:14] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (13 consecutive failures)
+[LX 2024/10/12 16:42:16] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (14 consecutive failures)
+[LX 2024/10/12 16:42:17] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/10/12 16:42:17] Project saved successfully to /Users/drummel/Chromatik/Projects/naga-cool-sparkle.lxp
+[LX 2024/10/12 16:42:17] [I/O] Retrying naga-head.local/192.168.91.250:6454 in 1600ms (15 consecutive failures)
+[GLX 2024/10/12 16:42:18] Stopping LX engine...
+[LX 2024/10/12 16:42:18] LXEngine.ExecutorService has finished.
+[LX 2024/10/12 16:42:18] [MIDI] LXMidiEngine Device Update Thread finished.
+[GLX 2024/10/12 16:42:18] Done with main thread, GLX shutdown complete. Thanks for playing. <3

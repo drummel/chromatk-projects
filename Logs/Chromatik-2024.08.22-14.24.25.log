@@ -1,0 +1,933 @@
+[Chromatik 2024/08/22 14:24:25] Starting Chromatik version 1.0.0
+[Chromatik 2024/08/22 14:24:25] Running java 17.0.9 Eclipse Adoptium Mac OS X 14.1.2 aarch64
+[Chromatik 2024/08/22 14:24:25] Licensed to Daniel Rummel <drummel@gmail.com> - version 1.0.0 FREE - heronarts.lx.core
+[LX 2024/08/22 14:24:25] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/22 14:24:25] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/22 14:24:25] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[GLX 2024/08/22 14:24:27] GLX monitorWorkarea: size(1440x900), pos(x:0,y:0)
+[GLX 2024/08/22 14:24:27] GLX createWindow: 1440x872
+[GLX 2024/08/22 14:24:27] GLX systemContentScale: 2.0x2.0
+[GLX 2024/08/22 14:24:27] GLX windowSize: 1440x872
+[GLX 2024/08/22 14:24:27] GLX setWindowPos: 0,28
+[GLX 2024/08/22 14:24:27] GLX framebufferSize: 2880x1744
+[GLX 2024/08/22 14:24:27] GLX uiSize: 1321.1008x800.0
+[GLX 2024/08/22 14:24:27] GLX cursorScale: 0.9174311x0.9174312
+[GLX 2024/08/22 14:24:27] Using BGFX renderer: Metal
+[GLX 2024/08/22 14:24:27] Starting LX Engine...
+[LX 2024/08/22 14:24:27] LXEngine.ExecutorService starting...
+[GLX 2024/08/22 14:24:27] Bootstrap complete, running main loop.
+[LX 2024/08/22 14:24:27] Opening project file: /Users/drummel/Chromatik/Projects/naga-custom-package.lxp
+[LX 2024/08/22 14:24:27] Project loaded successfully from /Users/drummel/Chromatik/Projects/naga-custom-package.lxp
+[LX 2024/08/22 14:24:42] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:24:57] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:25:12] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:25:27] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:25:42] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:25:57] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:26:12] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:26:27] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:26:57] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:27:12] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:27:27] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:27:42] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:28:12] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:28:27] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:28:42] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:30:11] Calls to DatagramSocket.send() appear to be unexpectedly blocking, you may be sending to an unresolvable address or network queues may be saturated. If you are on Linux/Raspberry-Pi, consult the following URL for guidance on relevant kernel parameters: https://github.com/heronarts/LXStudio/wiki/Raspberry-Pi
+[LX 2024/08/22 14:30:42] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:30:57] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:31:12] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:31:27] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:31:42] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:31:57] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:32:12] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:32:27] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:32:42] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:32:57] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:33:12] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:33:27] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:33:42] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:34:12] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:34:27] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:34:42] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:37:12] Reloading custom content folders
+[LX 2024/08/22 14:37:12] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/22 14:37:12] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/22 14:37:12] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/22 14:37:12] Package content reloaded.
+[LX 2024/08/22 14:37:28] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:38:13] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:38:28] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:38:43] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:38:58] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:39:28] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:39:58] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:40:13] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:40:28] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:40:43] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:40:58] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:41:13] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:41:56] Reloading custom content folders
+[LX 2024/08/22 14:41:56] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/22 14:41:56] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/22 14:41:56] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/22 14:41:56] Package content reloaded.
+[LX 2024/08/22 14:41:58] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:42:13] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:42:28] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:42:49] Reloading custom content folders
+[LX 2024/08/22 14:42:49] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/22 14:42:49] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/22 14:42:49] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/22 14:42:49] Package content reloaded.
+[LX 2024/08/22 14:42:58] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:43:13] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 14:43:25] Project saved successfully to /Users/drummel/Chromatik/Projects/naga-custom-package.lxp
+[LX 2024/08/22 15:31:18] Reloading custom content folders
+[LX 2024/08/22 15:31:18] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/22 15:31:18] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/22 15:31:18] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/22 15:31:18] Package content reloaded.
+[LX 2024/08/22 15:31:27] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:31:42] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:31:57] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:33:12] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:35:48] Reloading custom content folders
+[LX 2024/08/22 15:35:48] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/22 15:35:48] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/22 15:35:48] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/22 15:35:48] Package content reloaded.
+[LX 2024/08/22 15:35:57] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:36:13] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:36:28] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:38:08] Reloading custom content folders
+[LX 2024/08/22 15:38:08] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/22 15:38:08] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/22 15:38:08] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/22 15:38:08] Package content reloaded.
+[LX 2024/08/22 15:38:13] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:38:28] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:38:43] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:39:13] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:40:43] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:40:44] Reloading custom content folders
+[LX 2024/08/22 15:40:44] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/22 15:40:44] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/22 15:40:44] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/22 15:40:44] Package content reloaded.
+[LX 2024/08/22 15:40:58] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:41:13] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:41:28] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:48:43] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:48:58] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:49:13] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:50:26] Reloading custom content folders
+[LX 2024/08/22 15:50:26] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/22 15:50:26] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/22 15:50:26] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/22 15:50:26] Package content reloaded.
+[LX 2024/08/22 15:50:28] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:50:43] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:50:58] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:51:47] Reloading custom content folders
+[LX 2024/08/22 15:51:47] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/22 15:51:47] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/22 15:51:47] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/22 15:51:47] Package content reloaded.
+[LX 2024/08/22 15:51:58] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:52:22] Reloading custom content folders
+[LX 2024/08/22 15:52:22] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/22 15:52:22] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/22 15:52:22] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/22 15:52:22] Package content reloaded.
+[LX 2024/08/22 15:52:28] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:52:43] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:52:58] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:53:13] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:53:28] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:55:29] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:55:41] Reloading custom content folders
+[LX 2024/08/22 15:55:41] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/22 15:55:41] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/22 15:55:41] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/22 15:55:41] Package content reloaded.
+[LX 2024/08/22 15:55:41] Reloading custom content folders
+[LX 2024/08/22 15:55:41] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/22 15:55:41] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/22 15:55:41] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/22 15:55:41] Package content reloaded.
+[LX 2024/08/22 15:55:44] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:55:59] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:56:29] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:56:44] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:57:17] Reloading custom content folders
+[LX 2024/08/22 15:57:17] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/22 15:57:17] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/22 15:57:17] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/22 15:57:17] Package content reloaded.
+[LX 2024/08/22 15:57:29] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:57:42] Reloading custom content folders
+[LX 2024/08/22 15:57:42] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/22 15:57:42] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/22 15:57:42] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/22 15:57:42] Package content reloaded.
+[LX 2024/08/22 15:57:44] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:57:59] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:58:14] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:58:19] Reloading custom content folders
+[LX 2024/08/22 15:58:19] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/22 15:58:19] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/22 15:58:19] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/22 15:58:19] Package content reloaded.
+[LX 2024/08/22 15:58:29] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:59:14] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:59:29] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 15:59:44] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:02:31] Reloading custom content folders
+[LX 2024/08/22 16:02:31] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/22 16:02:31] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/22 16:02:31] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/22 16:02:31] Package content reloaded.
+[LX 2024/08/22 16:02:44] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:02:59] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:03:14] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:03:29] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:03:44] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:05:21] Reloading custom content folders
+[LX 2024/08/22 16:05:21] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/22 16:05:21] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/22 16:05:21] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/22 16:05:21] Package content reloaded.
+[LX 2024/08/22 16:05:29] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:05:44] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:05:59] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:06:14] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:08:08] Reloading custom content folders
+[LX 2024/08/22 16:08:08] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/22 16:08:08] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/22 16:08:08] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/22 16:08:08] Package content reloaded.
+[LX 2024/08/22 16:08:14] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:08:29] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:08:44] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:08:59] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:09:14] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:13:44] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:13:45] Reloading custom content folders
+[LX 2024/08/22 16:13:45] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/22 16:13:45] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/22 16:13:45] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/22 16:13:45] Package content reloaded.
+[LX 2024/08/22 16:13:59] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:14:15] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:16:15] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:16:30] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:16:45] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:17:00] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:18:14] Reloading custom content folders
+[LX 2024/08/22 16:18:14] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/22 16:18:14] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/22 16:18:14] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/22 16:18:14] Package content reloaded.
+[LX 2024/08/22 16:18:15] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:18:30] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:18:45] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:19:15] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:19:16] Reloading custom content folders
+[LX 2024/08/22 16:19:16] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/22 16:19:16] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/22 16:19:16] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/22 16:19:16] Package content reloaded.
+[LX 2024/08/22 16:19:30] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:19:45] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:20:00] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:20:37] Reloading custom content folders
+[LX 2024/08/22 16:20:37] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/22 16:20:37] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/22 16:20:37] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/22 16:20:37] Package content reloaded.
+[LX 2024/08/22 16:20:45] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:21:00] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:21:21] Reloading custom content folders
+[LX 2024/08/22 16:21:21] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/22 16:21:21] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/22 16:21:21] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/22 16:21:21] Package content reloaded.
+[LX 2024/08/22 16:21:30] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:21:45] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:22:00] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:22:15] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:22:30] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:22:45] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:23:00] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:23:15] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:23:30] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:23:45] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:24:00] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:24:15] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:24:30] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:24:45] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:25:00] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:25:15] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:25:30] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:26:00] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:26:15] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:26:30] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:26:45] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:27:00] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:27:15] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:27:30] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:27:45] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:28:00] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:28:15] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:28:30] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:28:45] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:29:00] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:29:15] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:29:30] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:30:15] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:30:30] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:31:00] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:31:15] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:31:30] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:31:45] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:32:00] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:32:15] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:32:30] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:32:45] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:33:00] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 16:33:16] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/22 20:08:10] [I/O] IOException sending to /192.168.8.122:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/08/22 20:08:10] [I/O] Retrying /192.168.8.122:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/22 20:08:10] [I/O] Retrying /192.168.8.122:6454 in 100ms (4 consecutive failures)
+[LX 2024/08/22 20:08:10] [I/O] Retrying /192.168.8.122:6454 in 200ms (5 consecutive failures)
+[LX 2024/08/22 20:08:10] [I/O] Retrying /192.168.8.122:6454 in 400ms (6 consecutive failures)
+[LX 2024/08/22 20:08:11] [I/O] Retrying /192.168.8.122:6454 in 800ms (7 consecutive failures)
+[LX 2024/08/22 20:08:12] [I/O] Retrying /192.168.8.122:6454 in 1600ms (8 consecutive failures)
+[LX 2024/08/22 20:08:13] [I/O] Retrying /192.168.8.122:6454 in 1600ms (9 consecutive failures)
+[LX 2024/08/22 20:08:15] [I/O] Retrying /192.168.8.122:6454 in 1600ms (10 consecutive failures)
+[LX 2024/08/22 20:08:17] [I/O] Retrying /192.168.8.122:6454 in 1600ms (11 consecutive failures)
+[LX 2024/08/22 20:08:18] [I/O] Retrying /192.168.8.122:6454 in 1600ms (12 consecutive failures)
+[LX 2024/08/22 20:08:20] [I/O] Retrying /192.168.8.122:6454 in 1600ms (13 consecutive failures)
+[LX 2024/08/22 20:08:21] [I/O] Retrying /192.168.8.122:6454 in 1600ms (14 consecutive failures)
+[LX 2024/08/22 20:08:23] [I/O] Retrying /192.168.8.122:6454 in 1600ms (15 consecutive failures)
+[LX 2024/08/22 20:08:25] [I/O] Retrying /192.168.8.122:6454 in 1600ms (16 consecutive failures)
+[LX 2024/08/22 20:08:26] [I/O] Retrying /192.168.8.122:6454 in 1600ms (17 consecutive failures)
+[LX 2024/08/22 20:08:28] [I/O] Retrying /192.168.8.122:6454 in 1600ms (18 consecutive failures)
+[LX 2024/08/22 20:08:29] [I/O] Retrying /192.168.8.122:6454 in 1600ms (19 consecutive failures)
+[LX 2024/08/22 20:15:38] [I/O] Retrying /192.168.8.122:6454 in 1600ms (20 consecutive failures)
+[LX 2024/08/22 20:15:39] [I/O] Recovered connectivity to /192.168.8.122:6454
+[LX 2024/08/22 23:00:38] [I/O] IOException sending to /192.168.8.122:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/08/22 23:00:38] [I/O] Retrying /192.168.8.122:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/22 23:00:39] [I/O] Retrying /192.168.8.122:6454 in 100ms (4 consecutive failures)
+[LX 2024/08/22 23:00:39] [I/O] Retrying /192.168.8.122:6454 in 200ms (5 consecutive failures)
+[LX 2024/08/22 23:00:39] [I/O] Retrying /192.168.8.122:6454 in 400ms (6 consecutive failures)
+[LX 2024/08/22 23:00:39] [I/O] Retrying /192.168.8.122:6454 in 800ms (7 consecutive failures)
+[LX 2024/08/22 23:00:40] [I/O] Retrying /192.168.8.122:6454 in 1600ms (8 consecutive failures)
+[LX 2024/08/22 23:00:42] [I/O] Retrying /192.168.8.122:6454 in 1600ms (9 consecutive failures)
+[LX 2024/08/22 23:00:43] [I/O] Retrying /192.168.8.122:6454 in 1600ms (10 consecutive failures)
+[LX 2024/08/22 23:00:45] [I/O] Retrying /192.168.8.122:6454 in 1600ms (11 consecutive failures)
+[LX 2024/08/22 23:00:47] [I/O] Retrying /192.168.8.122:6454 in 1600ms (12 consecutive failures)
+[LX 2024/08/22 23:00:48] [I/O] Retrying /192.168.8.122:6454 in 1600ms (13 consecutive failures)
+[LX 2024/08/22 23:00:50] [I/O] Retrying /192.168.8.122:6454 in 1600ms (14 consecutive failures)
+[LX 2024/08/22 23:16:09] [I/O] Retrying /192.168.8.122:6454 in 1600ms (15 consecutive failures)
+[LX 2024/08/22 23:16:10] [I/O] Retrying /192.168.8.122:6454 in 1600ms (16 consecutive failures)
+[LX 2024/08/22 23:16:12] [I/O] Retrying /192.168.8.122:6454 in 1600ms (17 consecutive failures)
+[LX 2024/08/22 23:16:13] [I/O] Retrying /192.168.8.122:6454 in 1600ms (18 consecutive failures)
+[LX 2024/08/22 23:17:49] [I/O] Retrying /192.168.8.122:6454 in 1600ms (19 consecutive failures)
+[LX 2024/08/22 23:17:50] [I/O] Retrying /192.168.8.122:6454 in 1600ms (20 consecutive failures)
+[LX 2024/08/22 23:17:52] [I/O] Retrying /192.168.8.122:6454 in 1600ms (21 consecutive failures)
+[LX 2024/08/22 23:17:53] [I/O] Retrying /192.168.8.122:6454 in 1600ms (22 consecutive failures)
+[LX 2024/08/22 23:17:55] [I/O] Retrying /192.168.8.122:6454 in 1600ms (23 consecutive failures)
+[LX 2024/08/23 00:08:09] [I/O] Retrying /192.168.8.122:6454 in 1600ms (24 consecutive failures)
+[LX 2024/08/23 00:08:11] [I/O] Retrying /192.168.8.122:6454 in 1600ms (25 consecutive failures)
+[LX 2024/08/23 00:08:13] [I/O] Retrying /192.168.8.122:6454 in 1600ms (26 consecutive failures)
+[LX 2024/08/23 00:08:14] [I/O] Retrying /192.168.8.122:6454 in 1600ms (27 consecutive failures)
+[LX 2024/08/23 00:18:49] [I/O] Retrying /192.168.8.122:6454 in 1600ms (28 consecutive failures)
+[LX 2024/08/23 00:18:51] [I/O] Retrying /192.168.8.122:6454 in 1600ms (29 consecutive failures)
+[LX 2024/08/23 00:18:53] [I/O] Retrying /192.168.8.122:6454 in 1600ms (30 consecutive failures)
+[LX 2024/08/23 00:18:54] [I/O] Retrying /192.168.8.122:6454 in 1600ms (31 consecutive failures)
+[LX 2024/08/23 00:18:56] [I/O] Retrying /192.168.8.122:6454 in 1600ms (32 consecutive failures)
+[LX 2024/08/23 00:35:05] [I/O] Retrying /192.168.8.122:6454 in 1600ms (33 consecutive failures)
+[LX 2024/08/23 00:35:07] [I/O] Retrying /192.168.8.122:6454 in 1600ms (34 consecutive failures)
+[LX 2024/08/23 00:35:09] [I/O] Retrying /192.168.8.122:6454 in 1600ms (35 consecutive failures)
+[LX 2024/08/23 00:35:10] [I/O] Retrying /192.168.8.122:6454 in 1600ms (36 consecutive failures)
+[LX 2024/08/23 00:44:39] [I/O] Retrying /192.168.8.122:6454 in 1600ms (37 consecutive failures)
+[LX 2024/08/23 00:44:41] [I/O] Retrying /192.168.8.122:6454 in 1600ms (38 consecutive failures)
+[LX 2024/08/23 00:44:43] [I/O] Retrying /192.168.8.122:6454 in 1600ms (39 consecutive failures)
+[LX 2024/08/23 00:44:44] [I/O] Retrying /192.168.8.122:6454 in 1600ms (40 consecutive failures)
+[LX 2024/08/23 00:44:46] [I/O] Retrying /192.168.8.122:6454 in 1600ms (41 consecutive failures)
+[LX 2024/08/23 00:48:45] [I/O] Retrying /192.168.8.122:6454 in 1600ms (42 consecutive failures)
+[LX 2024/08/23 00:48:47] [I/O] Retrying /192.168.8.122:6454 in 1600ms (43 consecutive failures)
+[LX 2024/08/23 00:48:49] [I/O] Retrying /192.168.8.122:6454 in 1600ms (44 consecutive failures)
+[LX 2024/08/23 00:48:50] [I/O] Retrying /192.168.8.122:6454 in 1600ms (45 consecutive failures)
+[LX 2024/08/23 00:48:52] [I/O] Retrying /192.168.8.122:6454 in 1600ms (46 consecutive failures)
+[LX 2024/08/23 00:49:38] [I/O] Retrying /192.168.8.122:6454 in 1600ms (47 consecutive failures)
+[LX 2024/08/23 00:49:40] [I/O] Retrying /192.168.8.122:6454 in 1600ms (48 consecutive failures)
+[LX 2024/08/23 00:49:41] [I/O] Retrying /192.168.8.122:6454 in 1600ms (49 consecutive failures)
+[LX 2024/08/23 00:49:43] [I/O] Retrying /192.168.8.122:6454 in 1600ms (50 consecutive failures)
+[LX 2024/08/23 00:49:45] [I/O] Retrying /192.168.8.122:6454 in 1600ms (51 consecutive failures)
+[LX 2024/08/23 00:51:09] [I/O] Retrying /192.168.8.122:6454 in 1600ms (52 consecutive failures)
+[LX 2024/08/23 00:51:10] [I/O] Retrying /192.168.8.122:6454 in 1600ms (53 consecutive failures)
+[LX 2024/08/23 00:51:12] [I/O] Retrying /192.168.8.122:6454 in 1600ms (54 consecutive failures)
+[LX 2024/08/23 00:51:14] [I/O] Retrying /192.168.8.122:6454 in 1600ms (55 consecutive failures)
+[LX 2024/08/23 00:51:15] [I/O] Retrying /192.168.8.122:6454 in 1600ms (56 consecutive failures)
+[LX 2024/08/23 00:52:01] [I/O] Retrying /192.168.8.122:6454 in 1600ms (57 consecutive failures)
+[LX 2024/08/23 00:52:02] [I/O] Retrying /192.168.8.122:6454 in 1600ms (58 consecutive failures)
+[LX 2024/08/23 00:52:04] [I/O] Retrying /192.168.8.122:6454 in 1600ms (59 consecutive failures)
+[LX 2024/08/23 00:52:06] [I/O] Retrying /192.168.8.122:6454 in 1600ms (60 consecutive failures)
+[LX 2024/08/23 00:52:07] [I/O] Retrying /192.168.8.122:6454 in 1600ms (61 consecutive failures)
+[LX 2024/08/23 00:52:54] [I/O] Retrying /192.168.8.122:6454 in 1600ms (62 consecutive failures)
+[LX 2024/08/23 00:52:56] [I/O] Retrying /192.168.8.122:6454 in 1600ms (63 consecutive failures)
+[LX 2024/08/23 00:52:57] [I/O] Retrying /192.168.8.122:6454 in 1600ms (64 consecutive failures)
+[LX 2024/08/23 00:52:59] [I/O] Retrying /192.168.8.122:6454 in 1600ms (65 consecutive failures)
+[LX 2024/08/23 00:53:00] [I/O] Retrying /192.168.8.122:6454 in 1600ms (66 consecutive failures)
+[LX 2024/08/23 00:53:02] [I/O] Retrying /192.168.8.122:6454 in 1600ms (67 consecutive failures)
+[LX 2024/08/23 00:53:04] [I/O] Retrying /192.168.8.122:6454 in 1600ms (68 consecutive failures)
+[LX 2024/08/23 01:19:50] [I/O] Retrying /192.168.8.122:6454 in 1600ms (69 consecutive failures)
+[LX 2024/08/23 01:19:52] [I/O] Retrying /192.168.8.122:6454 in 1600ms (70 consecutive failures)
+[LX 2024/08/23 01:19:54] [I/O] Retrying /192.168.8.122:6454 in 1600ms (71 consecutive failures)
+[LX 2024/08/23 01:19:55] [I/O] Retrying /192.168.8.122:6454 in 1600ms (72 consecutive failures)
+[LX 2024/08/23 01:19:57] [I/O] Retrying /192.168.8.122:6454 in 1600ms (73 consecutive failures)
+[LX 2024/08/23 01:36:50] [I/O] Retrying /192.168.8.122:6454 in 1600ms (74 consecutive failures)
+[LX 2024/08/23 01:36:52] [I/O] Retrying /192.168.8.122:6454 in 1600ms (75 consecutive failures)
+[LX 2024/08/23 01:36:54] [I/O] Retrying /192.168.8.122:6454 in 1600ms (76 consecutive failures)
+[LX 2024/08/23 01:36:55] [I/O] Retrying /192.168.8.122:6454 in 1600ms (77 consecutive failures)
+[LX 2024/08/23 01:46:44] [I/O] Retrying /192.168.8.122:6454 in 1600ms (78 consecutive failures)
+[LX 2024/08/23 01:46:45] [I/O] Retrying /192.168.8.122:6454 in 1600ms (79 consecutive failures)
+[LX 2024/08/23 01:46:47] [I/O] Retrying /192.168.8.122:6454 in 1600ms (80 consecutive failures)
+[LX 2024/08/23 01:46:49] [I/O] Retrying /192.168.8.122:6454 in 1600ms (81 consecutive failures)
+[LX 2024/08/23 01:46:50] [I/O] Retrying /192.168.8.122:6454 in 1600ms (82 consecutive failures)
+[LX 2024/08/23 02:08:40] [I/O] Retrying /192.168.8.122:6454 in 1600ms (83 consecutive failures)
+[LX 2024/08/23 02:08:42] [I/O] Retrying /192.168.8.122:6454 in 1600ms (84 consecutive failures)
+[LX 2024/08/23 02:08:44] [I/O] Retrying /192.168.8.122:6454 in 1600ms (85 consecutive failures)
+[LX 2024/08/23 02:08:45] [I/O] Retrying /192.168.8.122:6454 in 1600ms (86 consecutive failures)
+[LX 2024/08/23 02:20:51] [I/O] Retrying /192.168.8.122:6454 in 1600ms (87 consecutive failures)
+[LX 2024/08/23 02:20:53] [I/O] Retrying /192.168.8.122:6454 in 1600ms (88 consecutive failures)
+[LX 2024/08/23 02:20:55] [I/O] Retrying /192.168.8.122:6454 in 1600ms (89 consecutive failures)
+[LX 2024/08/23 02:20:56] [I/O] Retrying /192.168.8.122:6454 in 1600ms (90 consecutive failures)
+[LX 2024/08/23 02:20:58] [I/O] Retrying /192.168.8.122:6454 in 1600ms (91 consecutive failures)
+[LX 2024/08/23 02:37:28] [I/O] Retrying /192.168.8.122:6454 in 1600ms (92 consecutive failures)
+[LX 2024/08/23 02:37:30] [I/O] Retrying /192.168.8.122:6454 in 1600ms (93 consecutive failures)
+[LX 2024/08/23 02:37:31] [I/O] Retrying /192.168.8.122:6454 in 1600ms (94 consecutive failures)
+[LX 2024/08/23 02:37:33] [I/O] Retrying /192.168.8.122:6454 in 1600ms (95 consecutive failures)
+[LX 2024/08/23 02:38:16] [I/O] Retrying /192.168.8.122:6454 in 1600ms (96 consecutive failures)
+[LX 2024/08/23 02:38:17] [I/O] Retrying /192.168.8.122:6454 in 1600ms (97 consecutive failures)
+[LX 2024/08/23 02:38:19] [I/O] Retrying /192.168.8.122:6454 in 1600ms (98 consecutive failures)
+[LX 2024/08/23 02:38:20] [I/O] Retrying /192.168.8.122:6454 in 1600ms (99 consecutive failures)
+[LX 2024/08/23 02:38:22] [I/O] Retrying /192.168.8.122:6454 in 1600ms (100 consecutive failures)
+[LX 2024/08/23 02:39:10] [I/O] Retrying /192.168.8.122:6454 in 1600ms (101 consecutive failures)
+[LX 2024/08/23 02:39:12] [I/O] Retrying /192.168.8.122:6454 in 1600ms (102 consecutive failures)
+[LX 2024/08/23 02:39:13] [I/O] Retrying /192.168.8.122:6454 in 1600ms (103 consecutive failures)
+[LX 2024/08/23 02:39:15] [I/O] Retrying /192.168.8.122:6454 in 1600ms (104 consecutive failures)
+[LX 2024/08/23 02:39:16] [I/O] Retrying /192.168.8.122:6454 in 1600ms (105 consecutive failures)
+[LX 2024/08/23 02:40:12] [I/O] Retrying /192.168.8.122:6454 in 1600ms (106 consecutive failures)
+[LX 2024/08/23 02:40:13] [I/O] Retrying /192.168.8.122:6454 in 1600ms (107 consecutive failures)
+[LX 2024/08/23 02:40:15] [I/O] Retrying /192.168.8.122:6454 in 1600ms (108 consecutive failures)
+[LX 2024/08/23 02:40:17] [I/O] Retrying /192.168.8.122:6454 in 1600ms (109 consecutive failures)
+[LX 2024/08/23 02:40:18] [I/O] Retrying /192.168.8.122:6454 in 1600ms (110 consecutive failures)
+[LX 2024/08/23 02:41:07] [I/O] Retrying /192.168.8.122:6454 in 1600ms (111 consecutive failures)
+[LX 2024/08/23 02:41:09] [I/O] Retrying /192.168.8.122:6454 in 1600ms (112 consecutive failures)
+[LX 2024/08/23 02:41:11] [I/O] Retrying /192.168.8.122:6454 in 1600ms (113 consecutive failures)
+[LX 2024/08/23 02:41:12] [I/O] Retrying /192.168.8.122:6454 in 1600ms (114 consecutive failures)
+[LX 2024/08/23 02:41:14] [I/O] Retrying /192.168.8.122:6454 in 1600ms (115 consecutive failures)
+[LX 2024/08/23 02:41:54] [I/O] Retrying /192.168.8.122:6454 in 1600ms (116 consecutive failures)
+[LX 2024/08/23 02:41:56] [I/O] Retrying /192.168.8.122:6454 in 1600ms (117 consecutive failures)
+[LX 2024/08/23 02:41:58] [I/O] Retrying /192.168.8.122:6454 in 1600ms (118 consecutive failures)
+[LX 2024/08/23 02:41:59] [I/O] Retrying /192.168.8.122:6454 in 1600ms (119 consecutive failures)
+[LX 2024/08/23 02:42:01] [I/O] Retrying /192.168.8.122:6454 in 1600ms (120 consecutive failures)
+[LX 2024/08/23 02:57:31] [I/O] Retrying /192.168.8.122:6454 in 1600ms (121 consecutive failures)
+[LX 2024/08/23 02:57:33] [I/O] Retrying /192.168.8.122:6454 in 1600ms (122 consecutive failures)
+[LX 2024/08/23 02:57:34] [I/O] Retrying /192.168.8.122:6454 in 1600ms (123 consecutive failures)
+[LX 2024/08/23 02:57:36] [I/O] Retrying /192.168.8.122:6454 in 1600ms (124 consecutive failures)
+[LX 2024/08/23 03:21:51] [I/O] Retrying /192.168.8.122:6454 in 1600ms (125 consecutive failures)
+[LX 2024/08/23 03:21:53] [I/O] Retrying /192.168.8.122:6454 in 1600ms (126 consecutive failures)
+[LX 2024/08/23 03:21:54] [I/O] Retrying /192.168.8.122:6454 in 1600ms (127 consecutive failures)
+[LX 2024/08/23 03:21:56] [I/O] Retrying /192.168.8.122:6454 in 1600ms (128 consecutive failures)
+[LX 2024/08/23 03:21:58] [I/O] Retrying /192.168.8.122:6454 in 1600ms (129 consecutive failures)
+[LX 2024/08/23 03:21:59] [I/O] Retrying /192.168.8.122:6454 in 1600ms (130 consecutive failures)
+[LX 2024/08/23 03:22:01] [I/O] Retrying /192.168.8.122:6454 in 1600ms (131 consecutive failures)
+[LX 2024/08/23 03:22:03] [I/O] Retrying /192.168.8.122:6454 in 1600ms (132 consecutive failures)
+[LX 2024/08/23 03:22:04] [I/O] Retrying /192.168.8.122:6454 in 1600ms (133 consecutive failures)
+[LX 2024/08/23 03:22:06] [I/O] Recovered connectivity to /192.168.8.122:6454
+[LX 2024/08/23 03:37:43] [I/O] IOException sending to /192.168.8.122:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/08/23 03:37:43] [I/O] Retrying /192.168.8.122:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/23 03:37:43] [I/O] Retrying /192.168.8.122:6454 in 100ms (4 consecutive failures)
+[LX 2024/08/23 03:37:43] [I/O] Retrying /192.168.8.122:6454 in 200ms (5 consecutive failures)
+[LX 2024/08/23 03:37:43] [I/O] Retrying /192.168.8.122:6454 in 400ms (6 consecutive failures)
+[LX 2024/08/23 03:37:43] [I/O] Retrying /192.168.8.122:6454 in 800ms (7 consecutive failures)
+[LX 2024/08/23 03:37:44] [I/O] Retrying /192.168.8.122:6454 in 1600ms (8 consecutive failures)
+[LX 2024/08/23 03:37:46] [I/O] Retrying /192.168.8.122:6454 in 1600ms (9 consecutive failures)
+[LX 2024/08/23 03:37:47] [I/O] Retrying /192.168.8.122:6454 in 1600ms (10 consecutive failures)
+[LX 2024/08/23 03:55:30] [I/O] Retrying /192.168.8.122:6454 in 1600ms (11 consecutive failures)
+[LX 2024/08/23 03:55:32] [I/O] Retrying /192.168.8.122:6454 in 1600ms (12 consecutive failures)
+[LX 2024/08/23 03:55:33] [I/O] Retrying /192.168.8.122:6454 in 1600ms (13 consecutive failures)
+[LX 2024/08/23 03:55:35] [I/O] Retrying /192.168.8.122:6454 in 1600ms (14 consecutive failures)
+[LX 2024/08/23 03:57:14] [I/O] Retrying /192.168.8.122:6454 in 1600ms (15 consecutive failures)
+[LX 2024/08/23 03:57:15] [I/O] Retrying /192.168.8.122:6454 in 1600ms (16 consecutive failures)
+[LX 2024/08/23 03:57:17] [I/O] Retrying /192.168.8.122:6454 in 1600ms (17 consecutive failures)
+[LX 2024/08/23 03:57:19] [I/O] Retrying /192.168.8.122:6454 in 1600ms (18 consecutive failures)
+[LX 2024/08/23 03:57:20] [I/O] Retrying /192.168.8.122:6454 in 1600ms (19 consecutive failures)
+[LX 2024/08/23 03:58:09] [I/O] Retrying /192.168.8.122:6454 in 1600ms (20 consecutive failures)
+[LX 2024/08/23 03:58:10] [I/O] Retrying /192.168.8.122:6454 in 1600ms (21 consecutive failures)
+[LX 2024/08/23 03:58:12] [I/O] Retrying /192.168.8.122:6454 in 1600ms (22 consecutive failures)
+[LX 2024/08/23 03:58:14] [I/O] Retrying /192.168.8.122:6454 in 1600ms (23 consecutive failures)
+[LX 2024/08/23 03:58:15] [I/O] Retrying /192.168.8.122:6454 in 1600ms (24 consecutive failures)
+[LX 2024/08/23 03:59:07] [I/O] Retrying /192.168.8.122:6454 in 1600ms (25 consecutive failures)
+[LX 2024/08/23 03:59:09] [I/O] Retrying /192.168.8.122:6454 in 1600ms (26 consecutive failures)
+[LX 2024/08/23 03:59:10] [I/O] Retrying /192.168.8.122:6454 in 1600ms (27 consecutive failures)
+[LX 2024/08/23 03:59:12] [I/O] Retrying /192.168.8.122:6454 in 1600ms (28 consecutive failures)
+[LX 2024/08/23 03:59:14] [I/O] Retrying /192.168.8.122:6454 in 1600ms (29 consecutive failures)
+[LX 2024/08/23 04:00:07] [I/O] Retrying /192.168.8.122:6454 in 1600ms (30 consecutive failures)
+[LX 2024/08/23 04:00:09] [I/O] Retrying /192.168.8.122:6454 in 1600ms (31 consecutive failures)
+[LX 2024/08/23 04:00:10] [I/O] Retrying /192.168.8.122:6454 in 1600ms (32 consecutive failures)
+[LX 2024/08/23 04:00:12] [I/O] Retrying /192.168.8.122:6454 in 1600ms (33 consecutive failures)
+[LX 2024/08/23 04:00:13] [I/O] Retrying /192.168.8.122:6454 in 1600ms (34 consecutive failures)
+[LX 2024/08/23 04:01:02] [I/O] Retrying /192.168.8.122:6454 in 1600ms (35 consecutive failures)
+[LX 2024/08/23 04:01:04] [I/O] Retrying /192.168.8.122:6454 in 1600ms (36 consecutive failures)
+[LX 2024/08/23 04:01:06] [I/O] Retrying /192.168.8.122:6454 in 1600ms (37 consecutive failures)
+[LX 2024/08/23 04:01:07] [I/O] Retrying /192.168.8.122:6454 in 1600ms (38 consecutive failures)
+[LX 2024/08/23 04:01:09] [I/O] Retrying /192.168.8.122:6454 in 1600ms (39 consecutive failures)
+[LX 2024/08/23 04:18:38] [I/O] Retrying /192.168.8.122:6454 in 1600ms (40 consecutive failures)
+[LX 2024/08/23 04:18:40] [I/O] Retrying /192.168.8.122:6454 in 1600ms (41 consecutive failures)
+[LX 2024/08/23 04:18:41] [I/O] Retrying /192.168.8.122:6454 in 1600ms (42 consecutive failures)
+[LX 2024/08/23 04:18:43] [I/O] Retrying /192.168.8.122:6454 in 1600ms (43 consecutive failures)
+[LX 2024/08/23 04:22:51] [I/O] Retrying /192.168.8.122:6454 in 1600ms (44 consecutive failures)
+[LX 2024/08/23 04:22:53] [I/O] Retrying /192.168.8.122:6454 in 1600ms (45 consecutive failures)
+[LX 2024/08/23 04:22:54] [I/O] Retrying /192.168.8.122:6454 in 1600ms (46 consecutive failures)
+[LX 2024/08/23 04:22:56] [I/O] Retrying /192.168.8.122:6454 in 1600ms (47 consecutive failures)
+[LX 2024/08/23 04:22:57] [I/O] Retrying /192.168.8.122:6454 in 1600ms (48 consecutive failures)
+[LX 2024/08/23 04:38:48] [I/O] Retrying /192.168.8.122:6454 in 1600ms (49 consecutive failures)
+[LX 2024/08/23 04:38:50] [I/O] Retrying /192.168.8.122:6454 in 1600ms (50 consecutive failures)
+[LX 2024/08/23 04:38:51] [I/O] Retrying /192.168.8.122:6454 in 1600ms (51 consecutive failures)
+[LX 2024/08/23 04:38:53] [I/O] Retrying /192.168.8.122:6454 in 1600ms (52 consecutive failures)
+[LX 2024/08/23 04:56:20] [I/O] Retrying /192.168.8.122:6454 in 1600ms (53 consecutive failures)
+[LX 2024/08/23 04:56:22] [I/O] Retrying /192.168.8.122:6454 in 1600ms (54 consecutive failures)
+[LX 2024/08/23 04:56:23] [I/O] Retrying /192.168.8.122:6454 in 1600ms (55 consecutive failures)
+[LX 2024/08/23 04:56:25] [I/O] Retrying /192.168.8.122:6454 in 1600ms (56 consecutive failures)
+[LX 2024/08/23 05:12:05] [I/O] Retrying /192.168.8.122:6454 in 1600ms (57 consecutive failures)
+[LX 2024/08/23 05:12:07] [I/O] Retrying /192.168.8.122:6454 in 1600ms (58 consecutive failures)
+[LX 2024/08/23 05:12:08] [I/O] Retrying /192.168.8.122:6454 in 1600ms (59 consecutive failures)
+[LX 2024/08/23 05:12:10] [I/O] Retrying /192.168.8.122:6454 in 1600ms (60 consecutive failures)
+[LX 2024/08/23 05:13:03] [I/O] Retrying /192.168.8.122:6454 in 1600ms (61 consecutive failures)
+[LX 2024/08/23 05:13:04] [I/O] Retrying /192.168.8.122:6454 in 1600ms (62 consecutive failures)
+[LX 2024/08/23 05:13:06] [I/O] Retrying /192.168.8.122:6454 in 1600ms (63 consecutive failures)
+[LX 2024/08/23 05:13:07] [I/O] Retrying /192.168.8.122:6454 in 1600ms (64 consecutive failures)
+[LX 2024/08/23 05:13:09] [I/O] Retrying /192.168.8.122:6454 in 1600ms (65 consecutive failures)
+[LX 2024/08/23 05:14:05] [I/O] Retrying /192.168.8.122:6454 in 1600ms (66 consecutive failures)
+[LX 2024/08/23 05:14:06] [I/O] Retrying /192.168.8.122:6454 in 1600ms (67 consecutive failures)
+[LX 2024/08/23 05:14:08] [I/O] Retrying /192.168.8.122:6454 in 1600ms (68 consecutive failures)
+[LX 2024/08/23 05:14:10] [I/O] Retrying /192.168.8.122:6454 in 1600ms (69 consecutive failures)
+[LX 2024/08/23 05:14:11] [I/O] Retrying /192.168.8.122:6454 in 1600ms (70 consecutive failures)
+[LX 2024/08/23 05:15:06] [I/O] Retrying /192.168.8.122:6454 in 1600ms (71 consecutive failures)
+[LX 2024/08/23 05:15:07] [I/O] Retrying /192.168.8.122:6454 in 1600ms (72 consecutive failures)
+[LX 2024/08/23 05:15:09] [I/O] Retrying /192.168.8.122:6454 in 1600ms (73 consecutive failures)
+[LX 2024/08/23 05:15:11] [I/O] Retrying /192.168.8.122:6454 in 1600ms (74 consecutive failures)
+[LX 2024/08/23 05:15:12] [I/O] Retrying /192.168.8.122:6454 in 1600ms (75 consecutive failures)
+[LX 2024/08/23 05:16:04] [I/O] Retrying /192.168.8.122:6454 in 1600ms (76 consecutive failures)
+[LX 2024/08/23 05:16:06] [I/O] Retrying /192.168.8.122:6454 in 1600ms (77 consecutive failures)
+[LX 2024/08/23 05:16:07] [I/O] Retrying /192.168.8.122:6454 in 1600ms (78 consecutive failures)
+[LX 2024/08/23 05:16:09] [I/O] Retrying /192.168.8.122:6454 in 1600ms (79 consecutive failures)
+[LX 2024/08/23 05:16:10] [I/O] Retrying /192.168.8.122:6454 in 1600ms (80 consecutive failures)
+[LX 2024/08/23 05:17:01] [I/O] Retrying /192.168.8.122:6454 in 1600ms (81 consecutive failures)
+[LX 2024/08/23 05:17:02] [I/O] Retrying /192.168.8.122:6454 in 1600ms (82 consecutive failures)
+[LX 2024/08/23 05:17:04] [I/O] Retrying /192.168.8.122:6454 in 1600ms (83 consecutive failures)
+[LX 2024/08/23 05:17:06] [I/O] Retrying /192.168.8.122:6454 in 1600ms (84 consecutive failures)
+[LX 2024/08/23 05:17:07] [I/O] Retrying /192.168.8.122:6454 in 1600ms (85 consecutive failures)
+[LX 2024/08/23 05:23:51] [I/O] Retrying /192.168.8.122:6454 in 1600ms (86 consecutive failures)
+[LX 2024/08/23 05:23:53] [I/O] Retrying /192.168.8.122:6454 in 1600ms (87 consecutive failures)
+[LX 2024/08/23 05:23:54] [I/O] Retrying /192.168.8.122:6454 in 1600ms (88 consecutive failures)
+[LX 2024/08/23 05:23:56] [I/O] Retrying /192.168.8.122:6454 in 1600ms (89 consecutive failures)
+[LX 2024/08/23 05:23:57] [I/O] Retrying /192.168.8.122:6454 in 1600ms (90 consecutive failures)
+[LX 2024/08/23 05:40:55] [I/O] Retrying /192.168.8.122:6454 in 1600ms (91 consecutive failures)
+[LX 2024/08/23 05:40:56] [I/O] Retrying /192.168.8.122:6454 in 1600ms (92 consecutive failures)
+[LX 2024/08/23 05:40:58] [I/O] Retrying /192.168.8.122:6454 in 1600ms (93 consecutive failures)
+[LX 2024/08/23 05:41:00] [I/O] Retrying /192.168.8.122:6454 in 1600ms (94 consecutive failures)
+[LX 2024/08/23 06:04:11] [I/O] Retrying /192.168.8.122:6454 in 1600ms (95 consecutive failures)
+[LX 2024/08/23 06:04:12] [I/O] Retrying /192.168.8.122:6454 in 1600ms (96 consecutive failures)
+[LX 2024/08/23 06:04:14] [I/O] Retrying /192.168.8.122:6454 in 1600ms (97 consecutive failures)
+[LX 2024/08/23 06:04:16] [I/O] Retrying /192.168.8.122:6454 in 1600ms (98 consecutive failures)
+[LX 2024/08/23 06:19:34] [I/O] Retrying /192.168.8.122:6454 in 1600ms (99 consecutive failures)
+[LX 2024/08/23 06:19:35] [I/O] Retrying /192.168.8.122:6454 in 1600ms (100 consecutive failures)
+[LX 2024/08/23 06:19:37] [I/O] Retrying /192.168.8.122:6454 in 1600ms (101 consecutive failures)
+[LX 2024/08/23 06:19:39] [I/O] Retrying /192.168.8.122:6454 in 1600ms (102 consecutive failures)
+[LX 2024/08/23 06:20:26] [I/O] Retrying /192.168.8.122:6454 in 1600ms (103 consecutive failures)
+[LX 2024/08/23 06:20:27] [I/O] Retrying /192.168.8.122:6454 in 1600ms (104 consecutive failures)
+[LX 2024/08/23 06:20:29] [I/O] Retrying /192.168.8.122:6454 in 1600ms (105 consecutive failures)
+[LX 2024/08/23 06:20:31] [I/O] Retrying /192.168.8.122:6454 in 1600ms (106 consecutive failures)
+[LX 2024/08/23 06:20:32] [I/O] Retrying /192.168.8.122:6454 in 1600ms (107 consecutive failures)
+[LX 2024/08/23 06:21:14] [I/O] Retrying /192.168.8.122:6454 in 1600ms (108 consecutive failures)
+[LX 2024/08/23 06:21:16] [I/O] Retrying /192.168.8.122:6454 in 1600ms (109 consecutive failures)
+[LX 2024/08/23 06:21:18] [I/O] Retrying /192.168.8.122:6454 in 1600ms (110 consecutive failures)
+[LX 2024/08/23 06:21:19] [I/O] Retrying /192.168.8.122:6454 in 1600ms (111 consecutive failures)
+[LX 2024/08/23 06:21:21] [I/O] Retrying /192.168.8.122:6454 in 1600ms (112 consecutive failures)
+[LX 2024/08/23 06:22:02] [I/O] Retrying /192.168.8.122:6454 in 1600ms (113 consecutive failures)
+[LX 2024/08/23 06:22:04] [I/O] Retrying /192.168.8.122:6454 in 1600ms (114 consecutive failures)
+[LX 2024/08/23 06:22:05] [I/O] Retrying /192.168.8.122:6454 in 1600ms (115 consecutive failures)
+[LX 2024/08/23 06:22:07] [I/O] Retrying /192.168.8.122:6454 in 1600ms (116 consecutive failures)
+[LX 2024/08/23 06:22:08] [I/O] Retrying /192.168.8.122:6454 in 1600ms (117 consecutive failures)
+[LX 2024/08/23 06:23:00] [I/O] Retrying /192.168.8.122:6454 in 1600ms (118 consecutive failures)
+[LX 2024/08/23 06:23:01] [I/O] Retrying /192.168.8.122:6454 in 1600ms (119 consecutive failures)
+[LX 2024/08/23 06:23:03] [I/O] Retrying /192.168.8.122:6454 in 1600ms (120 consecutive failures)
+[LX 2024/08/23 06:23:05] [I/O] Retrying /192.168.8.122:6454 in 1600ms (121 consecutive failures)
+[LX 2024/08/23 06:23:06] [I/O] Retrying /192.168.8.122:6454 in 1600ms (122 consecutive failures)
+[LX 2024/08/23 06:23:56] [I/O] Retrying /192.168.8.122:6454 in 1600ms (123 consecutive failures)
+[LX 2024/08/23 06:23:58] [I/O] Retrying /192.168.8.122:6454 in 1600ms (124 consecutive failures)
+[LX 2024/08/23 06:24:00] [I/O] Retrying /192.168.8.122:6454 in 1600ms (125 consecutive failures)
+[LX 2024/08/23 06:24:01] [I/O] Retrying /192.168.8.122:6454 in 1600ms (126 consecutive failures)
+[LX 2024/08/23 06:24:03] [I/O] Retrying /192.168.8.122:6454 in 1600ms (127 consecutive failures)
+[LX 2024/08/23 06:24:04] [I/O] Retrying /192.168.8.122:6454 in 1600ms (128 consecutive failures)
+[LX 2024/08/23 06:24:06] [I/O] Retrying /192.168.8.122:6454 in 1600ms (129 consecutive failures)
+[LX 2024/08/23 06:24:08] [I/O] Retrying /192.168.8.122:6454 in 1600ms (130 consecutive failures)
+[LX 2024/08/23 06:24:09] [I/O] Retrying /192.168.8.122:6454 in 1600ms (131 consecutive failures)
+[LX 2024/08/23 06:24:11] [I/O] Retrying /192.168.8.122:6454 in 1600ms (132 consecutive failures)
+[LX 2024/08/23 06:24:13] [I/O] Retrying /192.168.8.122:6454 in 1600ms (133 consecutive failures)
+[LX 2024/08/23 06:24:14] [I/O] Recovered connectivity to /192.168.8.122:6454
+[LX 2024/08/23 09:37:42] [I/O] IOException sending to /192.168.8.122:6454 (Network is unreachable), will initiate backoff after 3 consecutive failures
+[LX 2024/08/23 09:37:42] [I/O] Retrying /192.168.8.122:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/23 09:37:43] [I/O] Retrying /192.168.8.122:6454 in 100ms (4 consecutive failures)
+[LX 2024/08/23 09:37:43] [I/O] Retrying /192.168.8.122:6454 in 200ms (5 consecutive failures)
+[LX 2024/08/23 09:37:43] [I/O] Retrying /192.168.8.122:6454 in 400ms (6 consecutive failures)
+[LX 2024/08/23 09:37:43] [I/O] Retrying /192.168.8.122:6454 in 800ms (7 consecutive failures)
+[LX 2024/08/23 09:37:44] [I/O] Retrying /192.168.8.122:6454 in 1600ms (8 consecutive failures)
+[LX 2024/08/23 09:37:46] [I/O] Retrying /192.168.8.122:6454 in 1600ms (9 consecutive failures)
+[LX 2024/08/23 09:37:47] [I/O] Retrying /192.168.8.122:6454 in 1600ms (10 consecutive failures)
+[LX 2024/08/23 09:37:49] [I/O] Retrying /192.168.8.122:6454 in 1600ms (11 consecutive failures)
+[LX 2024/08/23 09:37:51] [I/O] Recovered connectivity to /192.168.8.122:6454
+[LX 2024/08/23 10:17:30] [I/O] IOException sending to /192.168.8.122:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/08/23 10:17:30] [I/O] Retrying /192.168.8.122:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/23 10:17:30] [I/O] Retrying /192.168.8.122:6454 in 100ms (4 consecutive failures)
+[LX 2024/08/23 10:17:30] [I/O] Retrying /192.168.8.122:6454 in 200ms (5 consecutive failures)
+[LX 2024/08/23 10:17:30] [I/O] Retrying /192.168.8.122:6454 in 400ms (6 consecutive failures)
+[LX 2024/08/23 10:17:31] [I/O] Retrying /192.168.8.122:6454 in 800ms (7 consecutive failures)
+[LX 2024/08/23 10:17:32] [I/O] Retrying /192.168.8.122:6454 in 1600ms (8 consecutive failures)
+[LX 2024/08/23 10:17:33] [I/O] Retrying /192.168.8.122:6454 in 1600ms (9 consecutive failures)
+[LX 2024/08/23 10:17:35] [I/O] Retrying /192.168.8.122:6454 in 1600ms (10 consecutive failures)
+[LX 2024/08/23 10:17:36] [I/O] Retrying /192.168.8.122:6454 in 1600ms (11 consecutive failures)
+[LX 2024/08/23 10:17:38] [I/O] Retrying /192.168.8.122:6454 in 1600ms (12 consecutive failures)
+[LX 2024/08/23 10:17:40] [I/O] Retrying /192.168.8.122:6454 in 1600ms (13 consecutive failures)
+[LX 2024/08/23 10:17:41] [I/O] Retrying /192.168.8.122:6454 in 1600ms (14 consecutive failures)
+[LX 2024/08/23 10:17:43] [I/O] Retrying /192.168.8.122:6454 in 1600ms (15 consecutive failures)
+[LX 2024/08/23 10:17:44] [I/O] Recovered connectivity to /192.168.8.122:6454
+[LX 2024/08/23 10:18:21] [I/O] IOException sending to /192.168.8.122:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/08/23 10:18:21] [I/O] Retrying /192.168.8.122:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/23 10:18:21] [I/O] Retrying /192.168.8.122:6454 in 100ms (4 consecutive failures)
+[LX 2024/08/23 10:18:21] [I/O] Retrying /192.168.8.122:6454 in 200ms (5 consecutive failures)
+[LX 2024/08/23 10:18:21] [I/O] Retrying /192.168.8.122:6454 in 400ms (6 consecutive failures)
+[LX 2024/08/23 10:18:21] [I/O] Retrying /192.168.8.122:6454 in 800ms (7 consecutive failures)
+[LX 2024/08/23 10:18:22] [I/O] Retrying /192.168.8.122:6454 in 1600ms (8 consecutive failures)
+[LX 2024/08/23 10:18:24] [I/O] Retrying /192.168.8.122:6454 in 1600ms (9 consecutive failures)
+[LX 2024/08/23 10:18:25] [I/O] Retrying /192.168.8.122:6454 in 1600ms (10 consecutive failures)
+[LX 2024/08/23 10:18:27] [I/O] Retrying /192.168.8.122:6454 in 1600ms (11 consecutive failures)
+[LX 2024/08/23 10:18:29] [I/O] Retrying /192.168.8.122:6454 in 1600ms (12 consecutive failures)
+[LX 2024/08/23 10:18:30] [I/O] Retrying /192.168.8.122:6454 in 1600ms (13 consecutive failures)
+[LX 2024/08/23 10:18:32] [I/O] Retrying /192.168.8.122:6454 in 1600ms (14 consecutive failures)
+[LX 2024/08/23 10:27:57] [I/O] Retrying /192.168.8.122:6454 in 1600ms (15 consecutive failures)
+[LX 2024/08/23 10:27:59] [I/O] Retrying /192.168.8.122:6454 in 1600ms (16 consecutive failures)
+[LX 2024/08/23 10:28:01] [I/O] Retrying /192.168.8.122:6454 in 1600ms (17 consecutive failures)
+[LX 2024/08/23 10:28:02] [I/O] Retrying /192.168.8.122:6454 in 1600ms (18 consecutive failures)
+[LX 2024/08/23 10:28:04] [I/O] Retrying /192.168.8.122:6454 in 1600ms (19 consecutive failures)
+[LX 2024/08/23 11:15:09] [I/O] Retrying /192.168.8.122:6454 in 1600ms (20 consecutive failures)
+[LX 2024/08/23 11:15:11] [I/O] Retrying /192.168.8.122:6454 in 1600ms (21 consecutive failures)
+[LX 2024/08/23 11:15:13] [I/O] Retrying /192.168.8.122:6454 in 1600ms (22 consecutive failures)
+[LX 2024/08/23 11:15:14] [I/O] Retrying /192.168.8.122:6454 in 1600ms (23 consecutive failures)
+[LX 2024/08/23 11:28:58] [I/O] Retrying /192.168.8.122:6454 in 1600ms (24 consecutive failures)
+[LX 2024/08/23 11:29:00] [I/O] Retrying /192.168.8.122:6454 in 1600ms (25 consecutive failures)
+[LX 2024/08/23 11:29:01] [I/O] Retrying /192.168.8.122:6454 in 1600ms (26 consecutive failures)
+[LX 2024/08/23 11:29:03] [I/O] Retrying /192.168.8.122:6454 in 1600ms (27 consecutive failures)
+[LX 2024/08/23 11:29:05] [I/O] Retrying /192.168.8.122:6454 in 1600ms (28 consecutive failures)
+[LX 2024/08/23 11:46:49] [I/O] Retrying /192.168.8.122:6454 in 1600ms (29 consecutive failures)
+[LX 2024/08/23 11:46:51] [I/O] Retrying /192.168.8.122:6454 in 1600ms (30 consecutive failures)
+[LX 2024/08/23 11:46:52] [I/O] Retrying /192.168.8.122:6454 in 1600ms (31 consecutive failures)
+[LX 2024/08/23 11:46:54] [I/O] Retrying /192.168.8.122:6454 in 1600ms (32 consecutive failures)
+[LX 2024/08/23 12:16:23] [I/O] Retrying /192.168.8.122:6454 in 1600ms (33 consecutive failures)
+[LX 2024/08/23 12:16:25] [I/O] Retrying /192.168.8.122:6454 in 1600ms (34 consecutive failures)
+[LX 2024/08/23 12:16:26] [I/O] Retrying /192.168.8.122:6454 in 1600ms (35 consecutive failures)
+[LX 2024/08/23 12:16:28] [I/O] Retrying /192.168.8.122:6454 in 1600ms (36 consecutive failures)
+[LX 2024/08/23 12:29:59] [I/O] Retrying /192.168.8.122:6454 in 1600ms (37 consecutive failures)
+[LX 2024/08/23 12:30:01] [I/O] Retrying /192.168.8.122:6454 in 1600ms (38 consecutive failures)
+[LX 2024/08/23 12:30:02] [I/O] Retrying /192.168.8.122:6454 in 1600ms (39 consecutive failures)
+[LX 2024/08/23 12:30:04] [I/O] Retrying /192.168.8.122:6454 in 1600ms (40 consecutive failures)
+[LX 2024/08/23 12:30:06] [I/O] Retrying /192.168.8.122:6454 in 1600ms (41 consecutive failures)
+[LX 2024/08/23 12:47:03] [I/O] Retrying /192.168.8.122:6454 in 1600ms (42 consecutive failures)
+[LX 2024/08/23 12:47:05] [I/O] Retrying /192.168.8.122:6454 in 1600ms (43 consecutive failures)
+[LX 2024/08/23 12:47:06] [I/O] Retrying /192.168.8.122:6454 in 1600ms (44 consecutive failures)
+[LX 2024/08/23 12:47:08] [I/O] Retrying /192.168.8.122:6454 in 1600ms (45 consecutive failures)
+[LX 2024/08/23 13:06:35] [I/O] Retrying /192.168.8.122:6454 in 1600ms (46 consecutive failures)
+[LX 2024/08/23 13:06:37] [I/O] Retrying /192.168.8.122:6454 in 1600ms (47 consecutive failures)
+[LX 2024/08/23 13:06:38] [I/O] Retrying /192.168.8.122:6454 in 1600ms (48 consecutive failures)
+[LX 2024/08/23 13:06:40] [I/O] Retrying /192.168.8.122:6454 in 1600ms (49 consecutive failures)
+[LX 2024/08/23 13:06:42] [I/O] Retrying /192.168.8.122:6454 in 1600ms (50 consecutive failures)
+[LX 2024/08/23 13:06:43] [I/O] Retrying /192.168.8.122:6454 in 1600ms (51 consecutive failures)
+[LX 2024/08/23 13:06:45] [I/O] Retrying /192.168.8.122:6454 in 1600ms (52 consecutive failures)
+[LX 2024/08/23 13:10:23] [I/O] Retrying /192.168.8.122:6454 in 1600ms (53 consecutive failures)
+[LX 2024/08/23 13:10:24] [I/O] Retrying /192.168.8.122:6454 in 1600ms (54 consecutive failures)
+[LX 2024/08/23 13:10:26] [I/O] Retrying /192.168.8.122:6454 in 1600ms (55 consecutive failures)
+[LX 2024/08/23 13:10:27] [I/O] Retrying /192.168.8.122:6454 in 1600ms (56 consecutive failures)
+[LX 2024/08/23 13:10:29] [I/O] Retrying /192.168.8.122:6454 in 1600ms (57 consecutive failures)
+[LX 2024/08/23 13:12:08] [I/O] Retrying /192.168.8.122:6454 in 1600ms (58 consecutive failures)
+[LX 2024/08/23 13:12:09] [I/O] Retrying /192.168.8.122:6454 in 1600ms (59 consecutive failures)
+[LX 2024/08/23 13:12:11] [I/O] Retrying /192.168.8.122:6454 in 1600ms (60 consecutive failures)
+[LX 2024/08/23 13:12:12] [I/O] Retrying /192.168.8.122:6454 in 1600ms (61 consecutive failures)
+[LX 2024/08/23 13:12:14] [I/O] Retrying /192.168.8.122:6454 in 1600ms (62 consecutive failures)
+[LX 2024/08/23 13:12:57] [I/O] Retrying /192.168.8.122:6454 in 1600ms (63 consecutive failures)
+[LX 2024/08/23 13:12:58] [I/O] Retrying /192.168.8.122:6454 in 1600ms (64 consecutive failures)
+[LX 2024/08/23 13:13:00] [I/O] Retrying /192.168.8.122:6454 in 1600ms (65 consecutive failures)
+[LX 2024/08/23 13:13:02] [I/O] Retrying /192.168.8.122:6454 in 1600ms (66 consecutive failures)
+[LX 2024/08/23 13:13:03] [I/O] Retrying /192.168.8.122:6454 in 1600ms (67 consecutive failures)
+[LX 2024/08/23 13:22:19] [I/O] Retrying /192.168.8.122:6454 in 1600ms (68 consecutive failures)
+[LX 2024/08/23 13:22:20] [I/O] Retrying /192.168.8.122:6454 in 1600ms (69 consecutive failures)
+[LX 2024/08/23 13:22:22] [I/O] Retrying /192.168.8.122:6454 in 1600ms (70 consecutive failures)
+[LX 2024/08/23 13:22:23] [I/O] Retrying /192.168.8.122:6454 in 1600ms (71 consecutive failures)
+[LX 2024/08/23 13:22:25] [I/O] Retrying /192.168.8.122:6454 in 1600ms (72 consecutive failures)
+[LX 2024/08/23 13:22:27] [I/O] Retrying /192.168.8.122:6454 in 1600ms (73 consecutive failures)
+[LX 2024/08/23 13:22:28] [I/O] Retrying /192.168.8.122:6454 in 1600ms (74 consecutive failures)
+[LX 2024/08/23 13:30:59] [I/O] Retrying /192.168.8.122:6454 in 1600ms (75 consecutive failures)
+[LX 2024/08/23 13:31:01] [I/O] Retrying /192.168.8.122:6454 in 1600ms (76 consecutive failures)
+[LX 2024/08/23 13:31:02] [I/O] Retrying /192.168.8.122:6454 in 1600ms (77 consecutive failures)
+[LX 2024/08/23 13:31:04] [I/O] Retrying /192.168.8.122:6454 in 1600ms (78 consecutive failures)
+[LX 2024/08/23 13:31:05] [I/O] Retrying /192.168.8.122:6454 in 1600ms (79 consecutive failures)
+[LX 2024/08/23 13:31:58] [I/O] Retrying /192.168.8.122:6454 in 1600ms (80 consecutive failures)
+[LX 2024/08/23 13:32:00] [I/O] Retrying /192.168.8.122:6454 in 1600ms (81 consecutive failures)
+[LX 2024/08/23 13:32:01] [I/O] Retrying /192.168.8.122:6454 in 1600ms (82 consecutive failures)
+[LX 2024/08/23 13:32:03] [I/O] Retrying /192.168.8.122:6454 in 1600ms (83 consecutive failures)
+[LX 2024/08/23 13:32:05] [I/O] Retrying /192.168.8.122:6454 in 1600ms (84 consecutive failures)
+[LX 2024/08/23 14:15:31] [I/O] Retrying /192.168.8.122:6454 in 1600ms (85 consecutive failures)
+[LX 2024/08/23 14:15:33] [I/O] Retrying /192.168.8.122:6454 in 1600ms (86 consecutive failures)
+[LX 2024/08/23 14:15:34] [I/O] Retrying /192.168.8.122:6454 in 1600ms (87 consecutive failures)
+[LX 2024/08/23 14:15:36] [I/O] Retrying /192.168.8.122:6454 in 1600ms (88 consecutive failures)
+[LX 2024/08/23 14:31:59] [I/O] Retrying /192.168.8.122:6454 in 1600ms (89 consecutive failures)
+[LX 2024/08/23 14:32:00] [I/O] Retrying /192.168.8.122:6454 in 1600ms (90 consecutive failures)
+[LX 2024/08/23 14:32:02] [I/O] Retrying /192.168.8.122:6454 in 1600ms (91 consecutive failures)
+[LX 2024/08/23 14:32:04] [I/O] Retrying /192.168.8.122:6454 in 1600ms (92 consecutive failures)
+[LX 2024/08/23 14:32:05] [I/O] Retrying /192.168.8.122:6454 in 1600ms (93 consecutive failures)
+[LX 2024/08/23 14:32:07] [I/O] Retrying /192.168.8.122:6454 in 1600ms (94 consecutive failures)
+[LX 2024/08/23 14:32:09] [I/O] Retrying /192.168.8.122:6454 in 1600ms (95 consecutive failures)
+[LX 2024/08/23 14:32:10] [I/O] Retrying /192.168.8.122:6454 in 1600ms (96 consecutive failures)
+[LX 2024/08/23 14:32:12] [I/O] Retrying /192.168.8.122:6454 in 1600ms (97 consecutive failures)
+[LX 2024/08/23 14:36:25] [I/O] Retrying /192.168.8.122:6454 in 1600ms (98 consecutive failures)
+[LX 2024/08/23 14:36:26] [I/O] Retrying /192.168.8.122:6454 in 1600ms (99 consecutive failures)
+[LX 2024/08/23 14:36:28] [I/O] Retrying /192.168.8.122:6454 in 1600ms (100 consecutive failures)
+[LX 2024/08/23 14:36:29] [I/O] Retrying /192.168.8.122:6454 in 1600ms (101 consecutive failures)
+[LX 2024/08/23 14:36:31] [I/O] Retrying /192.168.8.122:6454 in 1600ms (102 consecutive failures)
+[LX 2024/08/23 14:58:38] [I/O] Retrying /192.168.8.122:6454 in 1600ms (103 consecutive failures)
+[LX 2024/08/23 14:58:39] [I/O] Retrying /192.168.8.122:6454 in 1600ms (104 consecutive failures)
+[LX 2024/08/23 14:58:41] [I/O] Retrying /192.168.8.122:6454 in 1600ms (105 consecutive failures)
+[LX 2024/08/23 14:58:43] [I/O] Retrying /192.168.8.122:6454 in 1600ms (106 consecutive failures)
+[LX 2024/08/23 15:32:59] [I/O] Retrying /192.168.8.122:6454 in 1600ms (107 consecutive failures)
+[LX 2024/08/23 15:33:00] [I/O] Retrying /192.168.8.122:6454 in 1600ms (108 consecutive failures)
+[LX 2024/08/23 15:33:02] [I/O] Retrying /192.168.8.122:6454 in 1600ms (109 consecutive failures)
+[LX 2024/08/23 15:33:04] [I/O] Retrying /192.168.8.122:6454 in 1600ms (110 consecutive failures)
+[LX 2024/08/23 15:33:05] [I/O] Retrying /192.168.8.122:6454 in 1600ms (111 consecutive failures)
+[LX 2024/08/23 15:33:07] [I/O] Retrying /192.168.8.122:6454 in 1600ms (112 consecutive failures)
+[LX 2024/08/23 15:42:45] [I/O] Retrying /192.168.8.122:6454 in 1600ms (113 consecutive failures)
+[LX 2024/08/23 15:42:47] [I/O] Retrying /192.168.8.122:6454 in 1600ms (114 consecutive failures)
+[LX 2024/08/23 15:42:48] [I/O] Retrying /192.168.8.122:6454 in 1600ms (115 consecutive failures)
+[LX 2024/08/23 15:42:50] [I/O] Retrying /192.168.8.122:6454 in 1600ms (116 consecutive failures)
+[LX 2024/08/23 15:42:51] [I/O] Retrying /192.168.8.122:6454 in 1600ms (117 consecutive failures)
+[LX 2024/08/23 15:42:53] [I/O] Retrying /192.168.8.122:6454 in 1600ms (118 consecutive failures)
+[LX 2024/08/23 15:42:55] [I/O] Retrying /192.168.8.122:6454 in 1600ms (119 consecutive failures)
+[LX 2024/08/23 15:42:56] [I/O] Retrying /192.168.8.122:6454 in 1600ms (120 consecutive failures)
+[LX 2024/08/23 15:58:28] [I/O] Retrying /192.168.8.122:6454 in 1600ms (121 consecutive failures)
+[LX 2024/08/23 15:58:29] [I/O] Retrying /192.168.8.122:6454 in 1600ms (122 consecutive failures)
+[LX 2024/08/23 15:58:31] [I/O] Retrying /192.168.8.122:6454 in 1600ms (123 consecutive failures)
+[LX 2024/08/23 15:58:33] [I/O] Retrying /192.168.8.122:6454 in 1600ms (124 consecutive failures)
+[LX 2024/08/23 16:33:59] [I/O] Retrying /192.168.8.122:6454 in 1600ms (125 consecutive failures)
+[LX 2024/08/23 16:34:00] [I/O] Retrying /192.168.8.122:6454 in 1600ms (126 consecutive failures)
+[LX 2024/08/23 16:34:02] [I/O] Retrying /192.168.8.122:6454 in 1600ms (127 consecutive failures)
+[LX 2024/08/23 16:34:03] [I/O] Retrying /192.168.8.122:6454 in 1600ms (128 consecutive failures)
+[LX 2024/08/23 16:34:05] [I/O] Retrying /192.168.8.122:6454 in 1600ms (129 consecutive failures)
+[LX 2024/08/23 16:34:07] [I/O] Retrying /192.168.8.122:6454 in 1600ms (130 consecutive failures)
+[LX 2024/08/23 16:49:13] [I/O] Retrying /192.168.8.122:6454 in 1600ms (131 consecutive failures)
+[LX 2024/08/23 16:49:14] [I/O] Retrying /192.168.8.122:6454 in 1600ms (132 consecutive failures)
+[LX 2024/08/23 16:49:16] [I/O] Retrying /192.168.8.122:6454 in 1600ms (133 consecutive failures)
+[LX 2024/08/23 16:49:17] [I/O] Retrying /192.168.8.122:6454 in 1600ms (134 consecutive failures)
+[LX 2024/08/23 17:03:33] [I/O] Retrying /192.168.8.122:6454 in 1600ms (135 consecutive failures)
+[LX 2024/08/23 17:03:35] [I/O] Retrying /192.168.8.122:6454 in 1600ms (136 consecutive failures)
+[LX 2024/08/23 17:03:37] [I/O] Retrying /192.168.8.122:6454 in 1600ms (137 consecutive failures)
+[LX 2024/08/23 17:03:38] [I/O] Retrying /192.168.8.122:6454 in 1600ms (138 consecutive failures)
+[LX 2024/08/23 17:03:40] [I/O] Retrying /192.168.8.122:6454 in 1600ms (139 consecutive failures)
+[LX 2024/08/23 17:04:20] [I/O] Retrying /192.168.8.122:6454 in 1600ms (140 consecutive failures)
+[LX 2024/08/23 17:04:22] [I/O] Retrying /192.168.8.122:6454 in 1600ms (141 consecutive failures)
+[LX 2024/08/23 17:04:24] [I/O] Retrying /192.168.8.122:6454 in 1600ms (142 consecutive failures)
+[LX 2024/08/23 17:04:25] [I/O] Retrying /192.168.8.122:6454 in 1600ms (143 consecutive failures)
+[LX 2024/08/23 17:04:27] [I/O] Retrying /192.168.8.122:6454 in 1600ms (144 consecutive failures)
+[LX 2024/08/23 17:05:14] [I/O] Retrying /192.168.8.122:6454 in 1600ms (145 consecutive failures)
+[LX 2024/08/23 17:05:16] [I/O] Retrying /192.168.8.122:6454 in 1600ms (146 consecutive failures)
+[LX 2024/08/23 17:05:17] [I/O] Retrying /192.168.8.122:6454 in 1600ms (147 consecutive failures)
+[LX 2024/08/23 17:05:19] [I/O] Retrying /192.168.8.122:6454 in 1600ms (148 consecutive failures)
+[LX 2024/08/23 17:05:21] [I/O] Retrying /192.168.8.122:6454 in 1600ms (149 consecutive failures)
+[LX 2024/08/23 17:06:11] [I/O] Retrying /192.168.8.122:6454 in 1600ms (150 consecutive failures)
+[LX 2024/08/23 17:06:12] [I/O] Retrying /192.168.8.122:6454 in 1600ms (151 consecutive failures)
+[LX 2024/08/23 17:06:14] [I/O] Retrying /192.168.8.122:6454 in 1600ms (152 consecutive failures)
+[LX 2024/08/23 17:06:15] [I/O] Retrying /192.168.8.122:6454 in 1600ms (153 consecutive failures)
+[LX 2024/08/23 17:06:17] [I/O] Retrying /192.168.8.122:6454 in 1600ms (154 consecutive failures)
+[LX 2024/08/23 17:07:37] [I/O] Retrying /192.168.8.122:6454 in 1600ms (155 consecutive failures)
+[LX 2024/08/23 17:07:39] [I/O] Retrying /192.168.8.122:6454 in 1600ms (156 consecutive failures)
+[LX 2024/08/23 17:07:40] [I/O] Retrying /192.168.8.122:6454 in 1600ms (157 consecutive failures)
+[LX 2024/08/23 17:07:42] [I/O] Retrying /192.168.8.122:6454 in 1600ms (158 consecutive failures)
+[LX 2024/08/23 17:07:44] [I/O] Retrying /192.168.8.122:6454 in 1600ms (159 consecutive failures)
+[LX 2024/08/23 17:08:45] [I/O] Retrying /192.168.8.122:6454 in 1600ms (160 consecutive failures)
+[LX 2024/08/23 17:08:47] [I/O] Retrying /192.168.8.122:6454 in 1600ms (161 consecutive failures)
+[LX 2024/08/23 17:08:48] [I/O] Retrying /192.168.8.122:6454 in 1600ms (162 consecutive failures)
+[LX 2024/08/23 17:08:50] [I/O] Retrying /192.168.8.122:6454 in 1600ms (163 consecutive failures)
+[LX 2024/08/23 17:08:51] [I/O] Retrying /192.168.8.122:6454 in 1600ms (164 consecutive failures)
+[LX 2024/08/23 17:08:53] [I/O] Retrying /192.168.8.122:6454 in 1600ms (165 consecutive failures)
+[LX 2024/08/23 17:08:55] [I/O] Retrying /192.168.8.122:6454 in 1600ms (166 consecutive failures)
+[LX 2024/08/23 17:08:56] [I/O] Retrying /192.168.8.122:6454 in 1600ms (167 consecutive failures)
+[LX 2024/08/23 17:08:58] [I/O] Retrying /192.168.8.122:6454 in 1600ms (168 consecutive failures)
+[LX 2024/08/23 17:08:59] [I/O] Retrying /192.168.8.122:6454 in 1600ms (169 consecutive failures)
+[LX 2024/08/23 17:09:01] [I/O] Retrying /192.168.8.122:6454 in 1600ms (170 consecutive failures)
+[LX 2024/08/23 17:09:03] [I/O] Recovered connectivity to /192.168.8.122:6454
+[LX 2024/08/23 17:09:45] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:10:00] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:10:15] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:11:15] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:12:00] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:12:15] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:12:30] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:12:45] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:13:15] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:13:45] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:34:22] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:34:37] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:34:56] Reloading custom content folders
+[LX 2024/08/23 17:34:56] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/23 17:34:56] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/23 17:34:56] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/23 17:34:56] Package content reloaded.
+[LX 2024/08/23 17:35:22] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:35:37] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:35:52] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:37:18] Reloading custom content folders
+[LX 2024/08/23 17:37:18] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/23 17:37:18] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/23 17:37:18] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/23 17:37:18] Package content reloaded.
+[LX 2024/08/23 17:37:37] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:37:52] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:38:07] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:38:40] Reloading custom content folders
+[LX 2024/08/23 17:38:40] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/23 17:38:40] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/23 17:38:40] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/23 17:38:40] Package content reloaded.
+[LX 2024/08/23 17:38:52] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:39:07] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:39:22] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:40:53] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:41:08] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:41:23] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:41:38] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:44:37] Reloading custom content folders
+[LX 2024/08/23 17:44:37] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/23 17:44:37] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/23 17:44:37] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/23 17:44:37] Package content reloaded.
+[LX 2024/08/23 17:44:38] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:44:53] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:45:08] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:45:23] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:45:38] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:45:53] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:47:14] Reloading custom content folders
+[LX 2024/08/23 17:47:14] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/23 17:47:14] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/23 17:47:14] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/23 17:47:14] Package content reloaded.
+[LX 2024/08/23 17:47:23] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:47:38] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:47:53] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:48:38] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:48:53] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:49:08] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:49:23] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:49:38] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:49:53] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:50:08] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:50:23] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:50:38] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:50:53] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:51:08] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:51:23] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:51:38] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:51:53] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:52:08] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:52:23] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:52:38] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:52:53] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:53:08] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:53:23] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:53:38] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:53:53] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:54:08] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:54:38] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:55:08] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:55:23] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:55:38] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:56:38] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:56:53] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:57:08] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:57:23] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:57:38] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:57:53] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:58:08] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:58:23] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:58:38] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:58:53] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:59:09] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:59:24] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:59:39] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 17:59:54] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 18:00:09] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 18:01:42] [I/O] IOException sending to /192.168.8.122:6454 (Can't assign requested address), will initiate backoff after 3 consecutive failures
+[LX 2024/08/23 18:01:42] [I/O] Retrying /192.168.8.122:6454 in 50ms (3 consecutive failures)
+[LX 2024/08/23 18:01:43] [I/O] Retrying /192.168.8.122:6454 in 100ms (4 consecutive failures)
+[LX 2024/08/23 18:01:43] [I/O] Retrying /192.168.8.122:6454 in 200ms (5 consecutive failures)
+[LX 2024/08/23 18:01:43] [I/O] Retrying /192.168.8.122:6454 in 400ms (6 consecutive failures)
+[LX 2024/08/23 18:01:43] [I/O] Retrying /192.168.8.122:6454 in 800ms (7 consecutive failures)
+[LX 2024/08/23 18:01:44] [I/O] Retrying /192.168.8.122:6454 in 1600ms (8 consecutive failures)
+[LX 2024/08/23 18:01:46] [I/O] Retrying /192.168.8.122:6454 in 1600ms (9 consecutive failures)
+[LX 2024/08/23 18:01:47] [I/O] Retrying /192.168.8.122:6454 in 1600ms (10 consecutive failures)
+[LX 2024/08/23 18:01:49] [I/O] Retrying /192.168.8.122:6454 in 1600ms (11 consecutive failures)
+[LX 2024/08/23 18:01:51] [I/O] Retrying /192.168.8.122:6454 in 1600ms (12 consecutive failures)
+[LX 2024/08/23 18:01:52] [I/O] Recovered connectivity to /192.168.8.122:6454
+[LX 2024/08/23 18:03:52] Reloading custom content folders
+[LX 2024/08/23 18:03:52] Loading package content from: /Users/drummel/Chromatik/Packages/lxpackage-example-0.0.1-SNAPSHOT.jar
+[LX 2024/08/23 18:03:52] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Naga/Something.lxf
+[LX 2024/08/23 18:03:52] JSON fixture file is empty: /Users/drummel/Chromatik/Fixtures/Custom/Something.lxf
+[LX 2024/08/23 18:03:52] Package content reloaded.
+[LX 2024/08/23 18:04:09] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 18:04:24] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 18:04:39] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 18:04:54] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 18:05:09] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 18:15:48] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 18:16:03] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 18:16:18] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 18:16:33] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 18:16:48] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 18:17:03] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 18:17:18] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 18:17:33] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 18:17:48] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 18:18:03] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 18:18:18] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 18:18:33] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 18:18:48] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 18:19:03] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 18:19:18] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 18:19:33] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 18:19:48] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 18:20:03] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 18:20:18] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 18:20:48] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 18:21:03] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 18:21:33] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 18:21:48] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 18:22:03] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[LX 2024/08/23 18:22:18] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-custom-package.lxp
+[GLX 2024/08/23 18:22:25] Stopping LX engine...
+[LX 2024/08/23 18:22:25] LXEngine.ExecutorService has finished.
+[LX 2024/08/23 18:22:25] [MIDI] LXMidiEngine Device Update Thread finished.
+[GLX 2024/08/23 18:22:25] Done with main thread, GLX shutdown complete. Thanks for playing. <3
