@@ -585,3 +585,13 @@ java.lang.IllegalStateException: Attemping to register pattern twice: class naga
 [LX 2024/12/07 22:18:38] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
 [LX 2024/12/07 22:20:52] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
 [LX 2024/12/07 22:20:52] Project saved successfully to /Users/drummel/Chromatik/Projects/naga-cool-sparkle.lxp
+[LX 2024/12/07 22:22:23] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/12/07 22:22:23] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/12/07 22:22:33] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/12/07 22:22:33] Project saved successfully to /Users/drummel/Chromatik/Projects/naga-cool-sparkle.lxp
+[LX 2024/12/07 22:22:35] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/12/07 22:22:35] Project saved successfully to /Users/drummel/Chromatik/Projects/naga-cool-sparkle.lxp
+[GLX 2024/12/07 22:22:40] Stopping LX engine...
+[LX 2024/12/07 22:22:40] LXEngine.ExecutorService has finished.
+[LX 2024/12/07 22:22:40] [MIDI] LXMidiEngine Device Update Thread finished.
+[GLX 2024/12/07 22:22:40] Done with main thread, GLX shutdown complete. Thanks for playing. <3

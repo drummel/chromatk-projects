@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "timestamp": 1733638718535,
+  "timestamp": 1733638943732,
   "model": {
     "id": 2,
     "class": "heronarts.lx.structure.LXStructure",
@@ -2027,7 +2027,7 @@
               "transitionEnabled": false,
               "transitionTimeSecs": 5.0,
               "transitionBlendMode": 2,
-              "focusedPattern": 2,
+              "focusedPattern": 0,
               "triggerPatternCycle": false
             },
             "children": {},
@@ -2057,7 +2057,7 @@
                   "midiFilter/velocityRange": 127,
                   "view": 0,
                   "viewPriority": 0,
-                  "enabled": false,
+                  "enabled": true,
                   "recall": false,
                   "compositeMode": 0,
                   "compositeLevel": 1.0,
@@ -2190,7 +2190,7 @@
                           "exp": 0.0
                         },
                         "children": {},
-                        "basis": 0.23006212564467318
+                        "basis": 0.22956756672453105
                       }
                     ],
                     "modulations": [
@@ -2396,7 +2396,7 @@
                   "midiFilter/velocityRange": 127,
                   "view": 0,
                   "viewPriority": 0,
-                  "enabled": true,
+                  "enabled": false,
                   "recall": false,
                   "compositeMode": 0,
                   "compositeLevel": 1.0,
@@ -3781,7 +3781,7 @@
               "exp": -0.40646502915478777
             },
             "children": {},
-            "basis": 0.03930095426230562
+            "basis": 0.6768245179285759
           }
         ],
         "modulations": [],
