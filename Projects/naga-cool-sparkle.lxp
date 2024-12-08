@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "timestamp": 1733638955230,
+  "timestamp": 1733639361092,
   "model": {
     "id": 2,
     "class": "heronarts.lx.structure.LXStructure",
@@ -1955,7 +1955,7 @@
         },
         "parameters": {
           "label": "Mixer",
-          "crossfader": 0.5,
+          "crossfader": 0.5016179106896743,
           "crossfaderBlendMode": 1,
           "focusedChannel": 0,
           "focusedChannelAux": 4,
@@ -1978,7 +1978,7 @@
             },
             "parameters": {
               "label": "Master",
-              "fader": 0.5670200860768091,
+              "fader": 0.669497276940092,
               "arm": false,
               "selected": false,
               "previewMode": 0
@@ -2064,8 +2064,8 @@
                   "hasCustomCycleTime": false,
                   "customCycleTimeSecs": 60.0,
                   "color/brightness": 100.0,
-                  "color/saturation": 70.93864440917969,
-                  "color/hue": 272.65960693359375,
+                  "color/saturation": 72.26336669921875,
+                  "color/hue": 273.67877197265625,
                   "color/mode": 0,
                   "color/index": 1
                 },
@@ -2119,8 +2119,8 @@
                   "hasCustomCycleTime": false,
                   "customCycleTimeSecs": 60.0,
                   "xAmount": 0.0,
-                  "yAmount": 0.0,
-                  "zAmount": 0.7001781810540706,
+                  "yAmount": -0.4540307737188414,
+                  "zAmount": 0.3460115033085458,
                   "xOffset": 0.0,
                   "yOffset": 0.0,
                   "zOffset": 0.5855523813515902,
@@ -2190,7 +2190,7 @@
                           "exp": 0.0
                         },
                         "children": {},
-                        "basis": 0.7357616710890221
+                        "basis": 0.1663516204876859
                       }
                     ],
                     "modulations": [
@@ -2896,7 +2896,7 @@
                   "hasCustomCycleTime": false,
                   "customCycleTimeSecs": 60.0,
                   "xAmount": 0.0,
-                  "yAmount": 0.0,
+                  "yAmount": -0.6937273254152387,
                   "zAmount": -0.9379797172732651,
                   "xOffset": 0.0,
                   "yOffset": 0.0,
@@ -3781,7 +3781,7 @@
               "exp": -0.40646502915478777
             },
             "children": {},
-            "basis": 0.28981658684124006
+            "basis": 0.23598448905957126
           }
         ],
         "modulations": [],
@@ -3797,7 +3797,7 @@
         },
         "parameters": {
           "label": "Output",
-          "enabled": false,
+          "enabled": true,
           "brightness": 1.0,
           "fps": 0.0,
           "gamma": 1.0,

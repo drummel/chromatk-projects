@@ -278,3 +278,61 @@ java.lang.IllegalStateException: Attemping to register pattern twice: class naga
 [LX 2024/12/07 22:23:00] [I/O] Unknown host for fixture datagram: naga-h2.local: nodename nor servname provided, or not known
 [LX 2024/12/07 22:23:06] [I/O] Unknown host for fixture datagram: naga-h3.local: nodename nor servname provided, or not known
 [LX 2024/12/07 22:23:11] [I/O] Unknown host for fixture datagram: naga-tail.local: nodename nor servname provided, or not known
+[LX 2024/12/07 22:23:16] [I/O] Unknown host for fixture datagram: naga-head.local: nodename nor servname provided, or not known
+[LX 2024/12/07 22:23:16] [I/O] Unknown host for fixture datagram: naga-head.local
+[LX 2024/12/07 22:23:16] [I/O] Unknown host for fixture datagram: naga-head.local
+[LX 2024/12/07 22:23:21] [I/O] Unknown host for fixture datagram: naga-h1.local: nodename nor servname provided, or not known
+[LX 2024/12/07 22:23:26] [I/O] Unknown host for fixture datagram: naga-h2.local: nodename nor servname provided, or not known
+[LX 2024/12/07 22:23:31] [I/O] Unknown host for fixture datagram: naga-h3.local: nodename nor servname provided, or not known
+[LX 2024/12/07 22:23:36] [I/O] Unknown host for fixture datagram: naga-tail.local: nodename nor servname provided, or not known
+[LX 2024/12/07 22:23:41] [I/O] Unknown host for fixture datagram: naga-head.local: nodename nor servname provided, or not known
+[LX 2024/12/07 22:23:41] [I/O] Unknown host for fixture datagram: naga-head.local
+[LX 2024/12/07 22:23:41] [I/O] Unknown host for fixture datagram: naga-head.local
+[LX 2024/12/07 22:23:46] [I/O] Unknown host for fixture datagram: naga-h1.local: nodename nor servname provided, or not known
+[LX 2024/12/07 22:23:51] [I/O] Unknown host for fixture datagram: naga-h2.local: nodename nor servname provided, or not known
+[LX 2024/12/07 22:23:56] [I/O] Unknown host for fixture datagram: naga-h3.local: nodename nor servname provided, or not known
+[LX 2024/12/07 22:24:01] [I/O] Unknown host for fixture datagram: naga-tail.local: nodename nor servname provided, or not known
+[LX 2024/12/07 22:24:01] Project loaded successfully from /Users/drummel/Chromatik/Projects/naga-cool-sparkle.lxp
+[LX 2024/12/07 22:24:01] System.nanoTime() clock moved over 60s in a frame, resetting clock timer: 829823872937000
+[LX 2024/12/07 22:25:16] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/12/07 22:25:16] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/12/07 22:25:23] [I/O] Unknown host for fixture datagram: naga-h3.local: nodename nor servname provided, or not known
+[LX 2024/12/07 22:25:23] [I/O] Unknown host for fixture datagram: naga-h3.local
+[LX 2024/12/07 22:25:31] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/12/07 22:25:31] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/12/07 22:25:46] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/12/07 22:25:46] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/12/07 22:26:01] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/12/07 22:26:01] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/12/07 22:26:16] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/12/07 22:26:16] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/12/07 22:26:31] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/12/07 22:26:31] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/12/07 22:27:01] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/12/07 22:27:01] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/12/07 22:27:16] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/12/07 22:27:16] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/12/07 22:27:31] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/12/07 22:27:31] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/12/07 22:27:40] [I/O] Unknown host for fixture datagram: naga-h3.local: nodename nor servname provided, or not known
+[LX 2024/12/07 22:27:40] [I/O] Unknown host for fixture datagram: naga-h3.local
+[LX 2024/12/07 22:27:40] [I/O] Unknown host for fixture datagram: naga-h3.local
+[LX 2024/12/07 22:27:41] [I/O] Unknown host for fixture datagram: naga-h3.local
+[LX 2024/12/07 22:27:46] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/12/07 22:27:46] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/12/07 22:28:01] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/12/07 22:28:01] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/12/07 22:28:16] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/12/07 22:28:16] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/12/07 22:28:31] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/12/07 22:28:31] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/12/07 22:28:46] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/12/07 22:28:46] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/12/07 22:29:01] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/12/07 22:29:01] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/12/07 22:29:03] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/12/07 22:29:03] Project saved successfully to /Users/drummel/Chromatik/Projects/naga-cool-sparkle.lxp
+[LX 2024/12/07 22:29:16] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/12/07 22:29:16] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/12/07 22:29:21] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/12/07 22:29:21] Project saved successfully to /Users/drummel/Chromatik/Projects/naga-cool-sparkle.lxp
