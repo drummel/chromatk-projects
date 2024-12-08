@@ -1,0 +1,9 @@
+
+# Copy the Model
+
+scp -r ~/Chromatik/Models/Naga-Model.lxm  kanga@roo.local:/Users/kanga/Chromatik/Models/Naga-Model.lxm 
+
+
+# Copy the Project
+
+scp -r ~/Chromatik/Projects/naga-cool-sparkle.lxp  kanga@roo.local:/Users/kanga/Chromatik/Projects/naga-cool-sparkle.lxp
