@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "timestamp": 1733638343061,
+  "timestamp": 1733638852315,
   "model": {
     "id": 2,
     "class": "heronarts.lx.structure.LXStructure",
@@ -2027,7 +2027,7 @@
               "transitionEnabled": false,
               "transitionTimeSecs": 5.0,
               "transitionBlendMode": 2,
-              "focusedPattern": 0,
+              "focusedPattern": 2,
               "triggerPatternCycle": false
             },
             "children": {},
@@ -2190,7 +2190,7 @@
                           "exp": 0.0
                         },
                         "children": {},
-                        "basis": 0.8243637717784782
+                        "basis": 0.38086102186389237
                       }
                     ],
                     "modulations": [
@@ -2373,6 +2373,63 @@
                     "deviceVersion": -1
                   }
                 ]
+              },
+              {
+                "id": 13313,
+                "class": "naga.EmberGlow",
+                "internal": {
+                  "modulationColor": 0,
+                  "modulationControlsExpanded": true,
+                  "modulationsExpanded": true,
+                  "expanded": true,
+                  "expandedCue": true,
+                  "expandedAux": true,
+                  "modulationExpanded": false
+                },
+                "parameters": {
+                  "label": "EmberGlow",
+                  "midiFilter/enabled": true,
+                  "midiFilter/channel": 16,
+                  "midiFilter/minNote": 0,
+                  "midiFilter/noteRange": 128,
+                  "midiFilter/minVelocity": 1,
+                  "midiFilter/velocityRange": 127,
+                  "view": 0,
+                  "viewPriority": 0,
+                  "enabled": true,
+                  "recall": false,
+                  "compositeMode": 0,
+                  "compositeLevel": 1.0,
+                  "hasCustomCycleTime": false,
+                  "customCycleTimeSecs": 60.0,
+                  "baseColor/brightness": 100.0,
+                  "baseColor/saturation": 88.75452423095703,
+                  "baseColor/hue": 217.88525390625,
+                  "flickerDepth": 0.0,
+                  "flickerFrequency": 1.0,
+                  "hueRange": 69.70651935320346,
+                  "hueSpeed": 0.4296525024654693
+                },
+                "children": {
+                  "modulation": {
+                    "id": 13314,
+                    "class": "heronarts.lx.modulation.LXModulationEngine",
+                    "internal": {
+                      "modulationColor": 0,
+                      "modulationControlsExpanded": true,
+                      "modulationsExpanded": true
+                    },
+                    "parameters": {
+                      "label": "Modulation"
+                    },
+                    "children": {},
+                    "modulators": [],
+                    "modulations": [],
+                    "triggers": []
+                  }
+                },
+                "deviceVersion": -1,
+                "effects": []
               }
             ]
           },
@@ -3724,7 +3781,7 @@
               "exp": -0.40646502915478777
             },
             "children": {},
-            "basis": 0.18160743815442926
+            "basis": 0.8317241548889418
           }
         ],
         "modulations": [],
@@ -3740,7 +3797,7 @@
         },
         "parameters": {
           "label": "Output",
-          "enabled": true,
+          "enabled": false,
           "brightness": 1.0,
           "fps": 0.0,
           "gamma": 1.0,
@@ -4832,7 +4889,7 @@
   },
   "externals": {
     "ui": {
-      "leftPaneActiveSection": 0,
+      "leftPaneActiveSection": 1,
       "audioExpanded": false,
       "envelopExpanded": true,
       "reaperExpanded": true,
@@ -4852,7 +4909,7 @@
           "active": false,
           "radius": 73.47523428377129,
           "theta": 41.14283123297355,
-          "phi": 10.422671478241682,
+          "phi": 10.64186966046691,
           "x": 0.0448530949652195,
           "y": 0.0,
           "z": 0.054175976663827896
@@ -4862,7 +4919,7 @@
             "active": false,
             "radius": 73.47523428377129,
             "theta": 41.14283123297355,
-            "phi": 10.422671478241682,
+            "phi": 10.64186966046691,
             "x": 0.0448530949652195,
             "y": 0.0,
             "z": 0.054175976663827896
