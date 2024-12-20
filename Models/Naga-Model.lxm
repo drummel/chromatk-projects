@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "timestamp": 1734721931731,
+  "timestamp": 1734724660517,
   "fixtures": [
     {
       "id": 135,
@@ -30,8 +30,8 @@
         "protocol": 1,
         "byteOrder": 0,
         "transport": 0,
-        "reverse": true,
-        "host": "dans-m4.local",
+        "reverse": false,
+        "host": "naga-head.local",
         "port": 7890,
         "dmxChannel": 0,
         "artNetUniverse": 11,

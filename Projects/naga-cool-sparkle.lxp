@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "timestamp": 1734721931730,
+  "timestamp": 1734724660515,
   "model": {
     "id": 2,
     "class": "heronarts.lx.structure.LXStructure",
@@ -176,8 +176,8 @@
           "protocol": 1,
           "byteOrder": 0,
           "transport": 0,
-          "reverse": true,
-          "host": "dans-m4.local",
+          "reverse": false,
+          "host": "naga-head.local",
           "port": 7890,
           "dmxChannel": 0,
           "artNetUniverse": 11,
@@ -2190,7 +2190,7 @@
                           "exp": 0.0
                         },
                         "children": {},
-                        "basis": 0.1680949842103356
+                        "basis": 0.8287146884314337
                       }
                     ],
                     "modulations": [
@@ -2873,7 +2873,7 @@
                           "exp": 0.0
                         },
                         "children": {},
-                        "basis": 0.2149565206727138
+                        "basis": 0.6131896259586372
                       }
                     ],
                     "modulations": [
@@ -3140,7 +3140,7 @@
                           "exp": 0.0
                         },
                         "children": {},
-                        "basis": 0.5982548630118922
+                        "basis": 0.6484949499882773
                       }
                     ],
                     "modulations": [
@@ -3376,7 +3376,7 @@
               "exp": -0.40646502915478777
             },
             "children": {},
-            "basis": 0.01620920176602996
+            "basis": 0.3770498245230918
           }
         ],
         "modulations": [],
@@ -3392,7 +3392,7 @@
         },
         "parameters": {
           "label": "Output",
-          "enabled": true,
+          "enabled": false,
           "brightness": 1.0,
           "fps": 0.0,
           "gamma": 1.0,
@@ -4264,7 +4264,7 @@
           "active": false,
           "radius": 73.47523428377129,
           "theta": 41.58485072536132,
-          "phi": 10.861067842692137,
+          "phi": 11.005992274731398,
           "x": 0.0448530949652195,
           "y": 0.0,
           "z": 0.054175976663827896
@@ -4274,7 +4274,7 @@
             "active": false,
             "radius": 73.47523428377129,
             "theta": 41.58485072536132,
-            "phi": 10.861067842692137,
+            "phi": 11.005992274731398,
             "x": 0.0448530949652195,
             "y": 0.0,
             "z": 0.054175976663827896
