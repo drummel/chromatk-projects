@@ -336,3 +336,89 @@ java.lang.IllegalStateException: Attemping to register pattern twice: class naga
 [LX 2024/12/07 22:29:16] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
 [LX 2024/12/07 22:29:21] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
 [LX 2024/12/07 22:29:21] Project saved successfully to /Users/drummel/Chromatik/Projects/naga-cool-sparkle.lxp
+[LX 2024/12/07 22:31:16] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/12/07 22:31:16] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/12/07 22:31:31] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/12/07 22:31:31] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/12/07 22:31:46] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/12/07 22:31:46] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/12/07 22:37:46] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/12/07 22:37:46] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/12/07 22:38:16] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/12/07 22:38:16] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/12/07 22:38:34] [I/O] Unknown host for fixture datagram: naga-h3.local: nodename nor servname provided, or not known
+[LX 2024/12/07 22:38:34] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/12/07 22:38:34] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/12/07 22:38:37] [I/O] Unknown host for fixture datagram: naga-h3.local
+[LX 2024/12/07 22:38:49] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/12/07 22:38:49] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/12/07 22:39:49] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/12/07 22:39:49] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/12/07 22:45:34] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/12/07 22:45:34] Project auto-saved successfully to /Users/drummel/Chromatik/Autosave/naga-cool-sparkle.lxp
+[LX 2024/12/07 22:46:16] Reloading custom content folders
+[LX 2024/12/07 22:46:16] FATAL ERROR IN LXEngine.processInputEvents(): Attemping to unregister pattern that does not exist: class naga.SparkleMulticolor
+java.lang.IllegalStateException: Attemping to unregister pattern that does not exist: class naga.SparkleMulticolor
+	at heronarts.lx.LXRegistry.removePattern(LXRegistry.java:747)
+	at heronarts.lx.LXRegistry.removeClass(LXRegistry.java:693)
+	at heronarts.lx.studio.LXStudio$Registry.removeClass(LXStudio.java:340)
+	at heronarts.lx.LXClassLoader.dispose(LXClassLoader.java:164)
+	at heronarts.lx.LXRegistry.reloadContent(LXRegistry.java:543)
+	at heronarts.lx.studio.ui.browser.UIPackageManager$2.onClick(UIPackageManager.java:103)
+	at heronarts.glx.ui.component.UIButton.onMouseReleased(UIButton.java:612)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:657)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UI2dScrollContainer.mouseReleased(UI2dScrollContainer.java:254)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UI.mouseEvent(UI.java:1021)
+	at heronarts.glx.InputDispatch.dispatch(InputDispatch.java:230)
+	at heronarts.lx.LXEngine._processInputEvents(LXEngine.java:1007)
+	at heronarts.lx.LXEngine.processInputEvents(LXEngine.java:983)
+	at heronarts.lx.LXEngine.access$1600(LXEngine.java:66)
+	at heronarts.lx.LXEngine$ExecutorService.lambda$start$1(LXEngine.java:677)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+[LX 2024/12/07 22:46:28] Reloading custom content folders
+[LX 2024/12/07 22:46:28] FATAL ERROR IN LXEngine.processInputEvents(): Attemping to unregister pattern that does not exist: class naga.SparkleMulticolor
+java.lang.IllegalStateException: Attemping to unregister pattern that does not exist: class naga.SparkleMulticolor
+	at heronarts.lx.LXRegistry.removePattern(LXRegistry.java:747)
+	at heronarts.lx.LXRegistry.removeClass(LXRegistry.java:693)
+	at heronarts.lx.studio.LXStudio$Registry.removeClass(LXStudio.java:340)
+	at heronarts.lx.LXClassLoader.dispose(LXClassLoader.java:164)
+	at heronarts.lx.LXRegistry.reloadContent(LXRegistry.java:543)
+	at heronarts.lx.studio.ui.browser.UIPackageManager$2.onClick(UIPackageManager.java:103)
+	at heronarts.glx.ui.component.UIButton.onMouseReleased(UIButton.java:612)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:657)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UI2dScrollContainer.mouseReleased(UI2dScrollContainer.java:254)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UIObject.mouseReleased(UIObject.java:650)
+	at heronarts.glx.ui.UI.mouseEvent(UI.java:1021)
+	at heronarts.glx.InputDispatch.dispatch(InputDispatch.java:230)
+	at heronarts.lx.LXEngine._processInputEvents(LXEngine.java:1007)
+	at heronarts.lx.LXEngine.processInputEvents(LXEngine.java:983)
+	at heronarts.lx.LXEngine.access$1600(LXEngine.java:66)
+	at heronarts.lx.LXEngine$ExecutorService.lambda$start$1(LXEngine.java:677)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+[LX 2024/12/07 22:51:24] Model exported successfully to /Users/drummel/Chromatik/Models/Naga-Model.lxm
+[LX 2024/12/07 22:51:24] Project saved successfully to /Users/drummel/Chromatik/Projects/naga-cool-sparkle.lxp
+[GLX 2024/12/07 22:51:45] Stopping LX engine...
+[LX 2024/12/07 22:51:45] LXEngine.ExecutorService has finished.
+[LX 2024/12/07 22:51:45] [MIDI] LXMidiEngine Device Update Thread finished.
+[GLX 2024/12/07 22:51:45] Done with main thread, GLX shutdown complete. Thanks for playing. <3

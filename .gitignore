@@ -1,4 +1,6 @@
 .license
 .DS_Store
 .lxpreferences
-
+Autosave/*
+Deleted/*
+Logs/*.log
