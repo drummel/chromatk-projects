@@ -7,3 +7,8 @@ wget https://github.com/heronarts/Chromatik/releases/download/1.0.1-SNAPSHOT-202
 unzip Chromatik-1.0.1-SNAPSHOT-linux-aarch64.zip
 
 java -cp Chromatik-1.0.1-SNAPSHOT/chromatik-1.0.1-SNAPSHOT-linux-aarch64.jar heronarts.lx.studio.Chromatik --authorize $liccode --accept-eula --require-license --headless
+
+# Just in case
+chmod +x ~/Chromatik/raspberrypi-run.sh
+chmod +x ~/Chromatik/raspberrypi-setup-service.sh
+
