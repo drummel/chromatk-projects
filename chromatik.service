@@ -10,7 +10,6 @@ Environment=PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/u
 ExecStart=/bin/bash /home/naga/Chromatik/raspberrypi-run.sh
 Restart=always
 RestartSec=10
-StandardOutput=file:/home/naga/Chromatik/logs/chromatik-service.log
 
 [Install]
 WantedBy=multi-user.target
