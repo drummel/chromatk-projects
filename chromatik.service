@@ -1,6 +1,8 @@
 [Unit]
 Description=Chromatik Service
 After=network.target
+Requires=avahi-daemon.service
+
 
 [Service]
 Type=simple
