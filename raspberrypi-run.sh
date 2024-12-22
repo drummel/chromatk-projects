@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Create a log filename
-LOGFILE=chromatik-run-$(date +"%Y-%m-%d_%H-%M-%S").log
+# Create a log filename with a timestamp
+LOGFILE=$(pwd)/chromatik-run-$(date +"%Y-%m-%d_%H-%M-%S").log
 
 # Use to run manualy and log
 # java -cp Chromatik-1.0.1-SNAPSHOT/chromatik-1.0.1-SNAPSHOT-linux-aarch64.jar heronarts.lx.studio.Chromatik --accept-eula --require-license --headless Projects/naga-cool-sparkle.lxp \
