@@ -1,3 +1,3 @@
 Copy all the files from your laptop to the pi:
 
-`scp -r ~/Chromatik naga@naga-pi.local:/home/naga/`
+`scp -r ~/Chromatik/Models ~/Chromatik/Fixtures ~/Chromatik/Projects ~/Chromatik/Views naga@naga-pi.local:/home/naga/`
