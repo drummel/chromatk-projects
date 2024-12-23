@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "timestamp": 1734906831117,
+  "timestamp": 1734915211267,
   "fixtures": [
     {
       "id": 135,
@@ -19,7 +19,7 @@
         "pitch": 0.0,
         "roll": 45.0,
         "scale": 1.0,
-        "selected": true,
+        "selected": false,
         "deactivate": false,
         "enabled": true,
         "brightness": 1.0,
@@ -412,7 +412,7 @@
         "ddpDataOffset": 0,
         "kinetPort": 1,
         "kinetVersion": 1,
-        "numPoints": 60,
+        "numPoints": 46,
         "spacing": 0.66
       },
       "children": {}
@@ -457,7 +457,7 @@
         "ddpDataOffset": 0,
         "kinetPort": 1,
         "kinetVersion": 1,
-        "numPoints": 60,
+        "numPoints": 52,
         "spacing": 0.66
       },
       "children": {}
@@ -502,7 +502,7 @@
         "ddpDataOffset": 0,
         "kinetPort": 1,
         "kinetVersion": 1,
-        "numPoints": 60,
+        "numPoints": 38,
         "spacing": 0.66
       },
       "children": {}
@@ -524,7 +524,7 @@
         "pitch": 0.0,
         "roll": 0.0,
         "scale": 1.0,
-        "selected": false,
+        "selected": true,
         "deactivate": false,
         "enabled": false,
         "brightness": 1.0,
