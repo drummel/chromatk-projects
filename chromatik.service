@@ -10,10 +10,9 @@ WorkingDirectory=/home/naga/Chromatik
 Environment=PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/bin/java:/home/naga/.sdkman/candidates/java/current/bin/java
 ExecStartPre=/bin/bash -c '[ ! -f /tmp/chromatik_service_started.tmp ] && sleep 30 || true'
 ExecStartPre=/bin/touch /tmp/chromatik_service_started.tmp
-ExecStart=/bin/bash /home/naga/Chromatik/raspberrypi-run.sh
+ExecStart=/bin/bash /home/naga/Chromatik/raspberrypi-scheduled.sh
 Restart=always
 RestartSec=10
-RuntimeMaxSec=14400
 
 [Install]
 WantedBy=multi-user.target

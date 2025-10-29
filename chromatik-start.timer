@@ -1,0 +1,10 @@
+[Unit]
+Description=Start Chromatik Service at 8:30 PM Pacific
+Requires=chromatik-start.service
+
+[Timer]
+OnCalendar=*-*-* 20:30:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target
