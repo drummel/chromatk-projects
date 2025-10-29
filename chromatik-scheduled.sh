@@ -34,6 +34,7 @@ get_sunset_time() {
     if [ $? -eq 0 ] && echo "$response" | grep -q '"status":"OK"'; then
         # Extract sunset time and convert to local time (HH:MM format only)
         local sunset_utc=$(echo "$response" | grep -o '"sunset":"[^"]*"' | cut -d'"' -f4)
+        # Convert UTC to local time and extract just HH:MM
         local sunset_local=$(date -d "$sunset_utc" +%H:%M 2>/dev/null)
         
         if [ $? -eq 0 ] && [ -n "$sunset_local" ] && [[ "$sunset_local" =~ ^[0-9]{2}:[0-9]{2}$ ]]; then
@@ -56,7 +57,7 @@ get_start_time() {
     local sunset_minute=$(echo "$sunset_time" | cut -d: -f2)
     
     # Convert to minutes since midnight
-    local sunset_minutes=$((sunset_hour * 60 + sunset_minute))
+    local sunset_minutes=$((10#$sunset_hour * 60 + 10#$sunset_minute))
     local start_minutes=$((sunset_minutes - 30))
     
     # Handle case where start time is before midnight (negative)
@@ -92,9 +93,9 @@ is_active_time() {
     # Convert times to minutes since midnight for easier comparison
     local start_hour=$(echo "$start_time" | cut -d: -f1)
     local start_minute=$(echo "$start_time" | cut -d: -f2)
-    local start_minutes=$((start_hour * 60 + start_minute))
+    local start_minutes=$((10#$start_hour * 60 + 10#$start_minute))
     
-    local current_minutes=$((($(date +%H) * 60) + $(date +%M)))
+    local current_minutes=$(((10#$(date +%H) * 60) + 10#$(date +%M)))
     
     # Active from start_time until 23:59 (before midnight)
     if [ $current_minutes -ge $start_minutes ] && [ $current_hour -lt 24 ] && [ $current_hour -ne 0 ]; then
