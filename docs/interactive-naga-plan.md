@@ -51,7 +51,6 @@ controller/
 - Pattern base class mirrors LXPattern's `run(deltaMs, colors)` interface
 - Art-Net module constructs proper DMX packets (14-byte header + channel data) per Art-Net spec
 - mDNS hostname resolution via avahi (already running on the Pi)
-- CI/CD lives inside this directory (e.g., GitHub Actions workflow for SCP deploy to Pi)
 
 ### 2. `cloud-api/` — Cloud backend
 
@@ -75,7 +74,7 @@ cloud-api/
 └── tests/
 ```
 
-**Render.com deployment:** Docker web service. Needs Tailscale installed in the container (or host-level) to reach the Pi's Tailscale IP. CI/CD config lives in this directory.
+**Render.com deployment:** Docker web service. Needs Tailscale installed in the container (or host-level) to reach the Pi's Tailscale IP.
 
 ### 3. `web/` — Visitor-facing web app
 
@@ -98,7 +97,7 @@ web/
     └── useNagaApi.ts               # Typed API client
 ```
 
-**Render.com deployment:** Static site. Nuxt generates to `.output/public/`. CI/CD config lives in this directory.
+**Render.com deployment:** Static site. Nuxt generates to `.output/public/`.
 
 ### 4. `naga-topology.json` — Machine-readable fixture map
 
@@ -130,6 +129,17 @@ All existing files remain in place:
 - `naga-check.py` — health monitoring
 
 No files are moved or deleted. The new components are purely additive.
+
+### CI/CD — `.github/workflows/`
+
+Centralized GitHub Actions with path filters so each workflow only runs when its component changes:
+
+```
+.github/workflows/
+├── deploy-controller.yml           # on push to controller/** → SCP to Pi over Tailscale
+├── deploy-cloud-api.yml            # on push to cloud-api/** → build Docker, deploy to Render.com
+└── deploy-web.yml                  # on push to web/** → build static, deploy to Render.com
+```
 
 ## Phased Pi Transition
 
@@ -172,7 +182,7 @@ Chromatik retired from the Pi runtime. Controller handles both ambient and inter
 | Web App | Nuxt 3, Vue 3, TypeScript, Tailwind CSS 4 |
 | Cloud Hosting | Render.com (Docker for API, static site for web) |
 | Pi Deploy | SCP (same as today, scriptable) |
-| CI/CD | GitHub Actions, per-component (each app owns its workflow) |
+| CI/CD | GitHub Actions (centralized in `.github/workflows/`, path-filtered per component) |
 
 ## Security
 
