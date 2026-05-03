@@ -3,13 +3,14 @@ Description=Chromatik Service
 After=network.target
 Requires=avahi-daemon.service
 
-
 [Service]
 Type=simple
 User=naga
 WorkingDirectory=/home/naga/Chromatik
 Environment=PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/bin/java:/home/naga/.sdkman/candidates/java/current/bin/java
-ExecStart=/bin/bash /home/naga/Chromatik/raspberrypi-run.sh
+ExecStartPre=/bin/bash -c '[ ! -f /tmp/chromatik_service_started.tmp ] && sleep 30 || true'
+ExecStartPre=/bin/touch /tmp/chromatik_service_started.tmp
+ExecStart=/bin/bash /home/naga/Chromatik/chromatik-scheduled.sh
 Restart=always
 RestartSec=10
 

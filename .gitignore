@@ -4,3 +4,27 @@
 Autosave/*
 Deleted/*
 Logs/*.log
+
+# Re-add patterns from pi-deploy-tweaks-2024-12 (in case that PR lands after this)
+chromatik-run*
+Chromatik-1.0.1-SNAPSHOT-linux-aarch64.zip*
+Chromatik-1.0.1-SNAPSHOT
+
+# Chromatik runtime state
+.license
+.license-*.bak*
+.lxpreferences
+
+# Manual backups
+*-BACKUP.lxm
+
+# Stray top-level model copy (canonical lives in Models/)
+/Naga-Model.lxm
+
+# NagaPackage Maven build output
+Packages/NagaPackage/target/
+
+# Pi-specific scripts that have moved to naga-shesha/pi/
+naga-check.py
+chromatik-scheduled.sh
+chromatik.timer
